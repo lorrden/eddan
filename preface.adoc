@@ -1,0 +1,50 @@
+== Preface to the Electronic Edition
+
+This is the poetic Edda (Edda Sæmundar), translated to Swedish by Erik Brate.
+The electronic edition is produced by Lars Aronsson.
+See also the Icelandic version.
+
+== Om den svenska översättningen
+
+Detta är den poetiska eddan, även kallad Edda Saemundar, och innehåller sånger skrivna efter fornnordiska versmått.
+Detta verk ska inte förväxlas med Snorre Sturlassons edda, som huvudsakligen är skriven på prosa med små inslag av vers.
+
+Översättaren Erik Brate var en tidig svensk språkforskare.
+Han föddes 1857 och dog 1924, därav den gamla verbböjningen och ålderdomliga stilen.
+
+Den som vill läsa Eddan som en bok på papper, rekommenderas köpa den vackra faksimilutgåva som bokförlaget Niloé gjort 1990 med ISBN 91-7102-234-1.
+
+== Om stavrim
+
+De fornnordiska versmåtten använder inte slutrim, som vi är vana vid, utan allitterationer eller stavrim.
+Det betyder att de tryckstarka stavelserna ska låta likadant i början.
+Detta lever kvar i dag i en del svenska talesätt som "räven raskar", "en grön grangren", "Staffan var en stalledräng" eller "bagare Bengtsson bakar bara brända bullar bakom berget".
+Här i Linköping säger infödingarna "ränna Roxen runt i rödrutig regnrock", med sina mycket speciella mjuka r-ljud.
+
+Alla konsonantljud stavrimmar med sig själva, ett typexempel är ramsan om bagare Bengtsson.
+Specialfall är sk-, sp- och st-, som här räknas som egna ljud.
+Orden skopa och stapel stavrimmar alltså inte, däremot stavrimmar skopa och skaka.
+Alla andra s-ord (utom sje-ljuden) stavrimmar inbördes.
+Alla vokaler anses som ett enda ljud, så orden ansvar, elak, otur och övning stavrimmar alla med varandra.
+
+Märk att Göte, hjul, jacka och ljuster alla har j-ljud och därför stavrimmar med varandra.
+Ordet gelé har däremot sje-ljud och stavrimmar i stället med sjukdom, skjuta och stjärna.
+Det är hela tiden lätet, och aldrig stavningen som avgör.
+
+Märk också att det ska vara betonade stavelser som ska stavrimma.
+Detta var inget problem för vikingarna, eftersom det bara är lånord som har annat än första stavelsen betonad.
+Orden bagare och bedragare stavrimmar inte, med däremot orden bedragare och duktig.
+
+== Om versmåtten
+
+Det vanligaste fornnordiska versmåttet kallas fornyrdislag och har strofer om åtta rader, indelade i fyra fjärdingar.
+Varje fjärding har en uddrad och en jämnrad.
+Varje rad har två betonade stavelser.
+Den första betonade stavelsen i jämnraden kallas huvudstav och måste stavrimma med endera eller båda av de betonade stavelserna i uddraden.
+I den här elektroniska utgåvan har jämnraderna dragits in något åt höger.
+Det är fornyrdislag och ett exempel är Valans spådom.
+
+I den poetiska eddan förekommer ofta ett versmått som på isländska kallas ljodahattr (?) och som har sex rader per strof.
+Varje halva av strofen inleds med två rader som bildar en fjärding, precis som i fornyrdislag. Sedan kommer en rad med tre betonade stavelser varav minst två ska stavrimma med varandra.
+Denna ensamma rad har i den elektroniska utgåvan dragits ut något åt vänster, för att göra mönstret tydligare.
+Ett exempel på ljodahattr är den Höges sång.
