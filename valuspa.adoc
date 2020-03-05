@@ -2,6 +2,7 @@
 
 image::ed0048.jpg[]
 
+[verse]
 1. »Hören mig alla 
 heliga släkten, 
 större och smärre 
@@ -11,6 +12,7 @@ att väl jag täljer
 forntida sägner, 
 de första, jag minnes.
 
+[verse]
 2. Jättar, i urtid 
 alstrade, minns jag, 
 som mig fordom 
@@ -20,6 +22,7 @@ och vad som var i de nio,
 måttgivande trädet 
 under mullen djupt.
 
+[verse]
 3. I åldrarnas morgon, 
 då Ymer levde, 
 var ej sand, ej sjö, 
@@ -29,6 +32,7 @@ ej upptill himlen;
 ett gapande svalg fanns 
 men gräs fanns ingenstädes.
 
+[verse]
 4. Innan Burs söner lyfte 
 landen i höjden, 
 de som mångberömd 
@@ -38,6 +42,7 @@ från söder på stenar,
 och gröna örter 
 grodde i marken.
 
+[verse]
 5. Solen kom från söder 
 i sällskap med månen 
 på höger hand 
@@ -49,6 +54,7 @@ vad makt han hade,
 stjärnorna ej visste, 
 var de skimra skulle.
 
+[verse]
 6. Då drogo alla makter 
 till sina domaresäten, 
 högheliga gudar, 
@@ -60,6 +66,7 @@ och middag också,
 eftermiddag och afton, 
 för att med åratal räkna.
 
+[verse]
 7. Asarne möttes 
 på Idavallen, 
 timrade höga 
@@ -69,6 +76,7 @@ smycken gjorde,
 skaffade sig tänger 
 och skapade verktyg.
 
+[verse]
 8. På gården med brädspel 
 de glada lekte, 
 armod på guld 
@@ -78,6 +86,7 @@ trenne kommo,
 mycket mäktiga 
 mör, från jättevärlden.
 
+[verse]
 9. Då drogo alla makter 
 till sina domaresäten, 
 högheliga gudar, 
@@ -87,6 +96,7 @@ skapa skulle
 av blodig bränning 
 och Blains ben.
 
+[verse]
 10. Där var Modsogner vorden 
 den mest förnämlige 
 av dvärgar alla 
@@ -96,6 +106,7 @@ människobilder,
 dessa dvärgar, av jord, 
 som Durin sade.
 
+[verse]
 11. Nye och Nide, 
 Nordre och Sudre, 
 Austre och Västre, 
@@ -105,6 +116,7 @@ Bombur, Nore,
 An och Anar, 
 Ae, Mjodvitner.
 
+[verse]
 12. Veig och Gandalv, 
 Vindalv, Train, 
 Täck och Torin, 
@@ -114,6 +126,7 @@ Nu har jag dvärgarna
 - Regin och Radsvid - 
 rätt omtalat.
 
+[verse]
 13. File, Kile, 
 Funden, Nale, 
 Hepte, Vile, 
@@ -123,6 +136,7 @@ Fräg och Lone,
 Aurvang, Jare, 
 Eikinskjalde.
 
+[verse]
 14. Tid är att dvärgar 
 i Dvalins skara 
 för människorna leda 
@@ -132,6 +146,7 @@ sökte åt sig
 till grusslätterna 
 från grundens sten.
 
+[verse]
 15. Där var Draupner 
 och Dolgtraser, 
 Ha, Haugspore, 
@@ -141,6 +156,7 @@ Duv, Andvare,
 Skirver, Virver, 
 Skavid, Ae.
 
+[verse]
 16. Alf och Yngve, 
 Eikinskjalde, 
 Fjalar och Froste, 
@@ -150,6 +166,7 @@ så länge människor leva,
 denna långa räcka 
 av Lovars förfäder.
 
+[verse]
 17. Tills ur den skaran 
 trenne asar, 
 kraftiga och kärleksfulla, 
@@ -159,6 +176,7 @@ föga förmående
 Ask och Embla 
 utan livsmål.
 
+[verse]
 18. Ande de ej ägde, 
 omdöme ej hade, 
 ej livssaft, ej läte, 
@@ -168,6 +186,7 @@ omdöme Höner,
 livssaft gav Lodur 
 och livlig färg.
 
+[verse]
 19. En ask vet jag stånda, 
 den Yggdrasil heter, 
 ett väldigt träd, överöst 
@@ -179,6 +198,7 @@ den står evigt grön
 
 image::ed0001.jpg[]
 
+[verse]
 20. Därifrån komma möar, 
 som mycket veta, 
 tre ur den sal, 
@@ -192,6 +212,7 @@ liv de korade
 för människors barn, 
 männens öden.
 
+[verse]
 21. Det fältslag minns hon 
 först i världen, 
 när de med spjuten 
@@ -203,6 +224,7 @@ den tre gånger borna,
 ofta, ej sällan, 
 dock ännu hon lever.
 
+[verse]
 22. Heid hon hette, 
 var till husen hon kom, 
 en väl siande vala. 
@@ -212,6 +234,7 @@ trollade förryckthet.
 Alltid var hon älskad 
 av onda kvinnor.
 
+[verse]
 23. Då drogo alla makter 
 till sina domaresäten, 
 högheliga gudar, 
@@ -221,6 +244,7 @@ skada lida
 eller alla gudar 
 ersättning få.
 
+[verse]
 24. Spjut slungade Oden 
 och sände bland flocken, 
 det fältslaget ock 
@@ -230,6 +254,7 @@ på borgen hos asar,
 över vapentagna fält 
 kunde vanerna tränga.
 
+[verse]
 25. Då drogo alla makter 
 till sina domaresäten, 
 högheliga gudar, 
@@ -239,6 +264,7 @@ med lyte blandat
 eller åt jättens ätt 
 Ods mö givit.
 
+[verse]
 26. Blott Tor slog till 
 i trotsigt mod, 
 han sällan sitter, 
@@ -248,6 +274,7 @@ ord och löften,
 alla viktiga avtal, 
 som växlats dem emellan.
 
+[verse]
 27. Hon vet Heimdalls 
 hornlåt bero 
 på det himmelshöga 
@@ -257,6 +284,7 @@ en sandblandad fors
 från Valfaders pant. 
 Veten I än mer och vad?
 
+[verse]
 28. Ensam satt hon ute, 
 när asarnes skräckgud, 
 den åldrige, kom 
@@ -272,6 +300,7 @@ Mimer dricker
 av Valfaders pant.» 
 Veten I än mer och vad?
 
+[verse]
 29. Gav Härfader henne 
 halsguld och ringar, 
 fick visdomsord 
@@ -279,6 +308,7 @@ och varsel av stavar;
 hon såg vida omkring 
 i varje värld.
 
+[verse]
 30. Hon såg valkyrior, 
 komna från fjärran, 
 redo att göra 
@@ -292,6 +322,7 @@ härjungfrur nämnda,
 valkyrior, redo 
 att rida på jorden.
 
+[verse]
 31. Jag såg åt Balder, 
 blodige guden, 
 Odens barn, 
@@ -301,6 +332,7 @@ smal stod vuxen
 och mycket fager 
 misteltenen.
 
+[verse]
 32. Från det trädet, som tycktes 
 en telning vara, 
 ett sorgeskott blev skjutet, 
@@ -310,6 +342,7 @@ blev boren inom kort,
 Odenssonen stred 
 blott en natt gammal.
 
+[verse]
 33. Sina händer han ej tvådde, 
 sitt huvud han ej kammade, 
 förrän på bålet han bar 
@@ -319,11 +352,13 @@ i Fensalarne
 över Valhalls ve. 
 Veten I än mer och vad?
 
+[verse]
 34. Då kunde fängsel man vrida 
 av Vales tarmar, 
 ganska fasta voro 
 fjättrarne snodda.
 
+[verse]
 35. I kedjor såg hon ligga 
 under Kittellunden 
 en led skepnad 
@@ -333,11 +368,13 @@ i sorg hos maken,
 föga väl till mods. 
 Veten I än mer och vad?
 
+[verse]
 36. En å från öster 
 genom etterdalar flyter, 
 med svärd och stridsknivar; 
 Slidr den heter.
 
+[verse]
 37. Norrut stod 
 på Nidaslätterna 
 en sal av guld 
@@ -347,6 +384,7 @@ på Okolner,
 gästabudssal 
 för jätten Brimer.
 
+[verse]
 38. En sal såg hon stånda 
 från solen fjärran 
 på Nastranden; 
@@ -356,6 +394,7 @@ in genom rökhålet,
 av ormars ryggar 
 är rummet flätat.
 
+[verse]
 39. Där såg hon i strida 
 strömmar vada 
 menediga män 
@@ -367,6 +406,7 @@ de dödas kroppar,
 vidundret slet männen. 
 Veten I än mer och vad?
 
+[verse]
 40. Österut i Järnskogen 
 den åldriga satt 
 och födde där 
@@ -376,6 +416,7 @@ av alla förnämlig,
 tunglets rövare, 
 i trolls skepnad.
 
+[verse]
 41. Han mättar sig med lik 
 av män, som dött, 
 gudars boning 
@@ -385,6 +426,7 @@ om somrarne efter,
 all väderlek vansklig. 
 Veten I än mer och vad?
 
+[verse]
 42. Satt där på högen 
 och slog harpan 
 gygens värnare, 
@@ -394,6 +436,7 @@ i granskog med pors
 en fagerröd hane, 
 som Fjalar heter.
 
+[verse]
 43. Gol över asarne 
 Gullinkambe, 
 han hos Härfader 
@@ -403,6 +446,7 @@ under jorden,
 en sotröd hane, 
 i Hels salar.
 
+[verse]
 44. Gram skäller gräsligt 
 framför Gnipahålan; 
 fjättern skall brista, 
@@ -412,6 +456,7 @@ långt vidare ser jag
 över segergudars väldiga 
 slutliga öden.
 
+[verse]
 45. Bröder skola kämpa, 
 varandras banemän bliva, 
 systrars barn 
@@ -425,6 +470,7 @@ innan världen störtas;
 ingen man skall 
 den andre skona.
 
+[verse]
 46. Mims söner leka 
 och slutödet tändes 
 vid Gjallarhornets ljud, 
@@ -434,6 +480,7 @@ med hornet i vädret;
 med Mims huvud 
 håller Oden råd.
 
+[verse]
 47. Då skälver Yggdrasils 
 ask, där den står, 
 urträdet jämrar sig, 
@@ -443,6 +490,7 @@ rädas alla,
 innan Surts släkting 
 slukar honom.
 
+[verse]
 48. Vad är med asar? 
 Vad är med alfer? 
 Allt Jättehem gnyr, 
@@ -452,11 +500,13 @@ framför stendörrarna,
 bergväggens vise. 
 Veten I än mer och vad?
 
+[verse]
 49. Garm nu skäller gräsligt 
 framför Gnipahålan; 
 fjättern skall brista, 
 och fri blir ulven.
 
+[verse]
 50. Rym far från öster, 
 på arm håller skölden; 
 i jättevrede vrider 
@@ -466,6 +516,7 @@ och örnen skriar,
 sliter lik, blek om näbben, 
 och Naglfar lossnar.
 
+[verse]
 51. Skeppet far från öster; 
 över sjön skall Muspells 
 ledung komma, 
@@ -475,6 +526,7 @@ med ulven kommer;
 med dem är Byleipts 
 broder i följe.
 
+[verse]
 52. Surt far från söder 
 med svedjande låga, 
 stridsgudars sol 
@@ -484,6 +536,7 @@ det stupar jättekvinnor;
 trampa dödingar Hels väg, 
 och himmelen rämnar.
 
+[verse]
 53. Ett andra lidande 
 för Lin då kommer, 
 när Oden går 
@@ -493,11 +546,13 @@ bane mot Surt;
 falla då skall 
 Friggs älskade.
 
+[verse]
 54. Garm nu skäller gräsligt 
 framför Gnipahålan; 
 fjättern skall brista, 
 och fri blir ulven.
 
+[verse]
 55. Då kommer Segerfaderns 
 son, den väldige, 
 Vidar, att strida 
@@ -507,6 +562,7 @@ till hjärtat svärdet
 med handen han stöter. 
 Hämnad är då fadern.
 
+[verse]
 56. Då kommer Lodyns 
 lysande ättling; 
 Odens son 
@@ -520,6 +576,7 @@ går Fjorgyns son
 fram från ormen, 
 som ofrejd ej fruktar.
 
+[verse]
 57. Solen börjar svartna, 
 jord sänkes i havet, 
 från fästet falla 
@@ -529,11 +586,13 @@ och elden lågar,
 hettan leker högt 
 mot himlen själv.
 
+[verse]
 58. Garm skäller gräsligt 
 framför Gnipahålan; 
 fjättern skall brista, 
 och fri blir ulven.
 
+[verse]
 59. Upp ser hon komma 
 för andra gången 
 jorden ur havet, 
@@ -543,6 +602,7 @@ forsar falla,
 den som på fjället 
 fiskar griper.
 
+[verse]
 60. Asarne mötas 
 på Idavallen 
 och om jordens gördel, 
@@ -568,6 +628,7 @@ sitta Balder och Höder,
 valplatsens gudar. 
 Veten I än mer och vad?
 
+[verse]
 63. Då kan Höner lyckans 
 lotter kasta 
 och de båda brödernas 
@@ -575,6 +636,7 @@ barn bebo
 det vida Vindhem. 
 Veten I än mer och vad?
 
+[verse]
 64. En sal ser fagrare 
 än solen stånda, 
 täckt med guld, 
@@ -584,11 +646,13 @@ härskararor bo
 och i allan tid 
 äga hugnad.
 
+[verse]
 65. Där kommer den mäktige 
 till maktdomen, 
 den starke, ovanifrån, 
 han som styr över allt.
 
+[verse]
 66. Då kommer dunklets 
 drake flygande, 
 en blank orm, nedifrån, 
