@@ -612,6 +612,7 @@ märkliga öden
 och Fimbultyrs 
 forntida runor.
 
+[verse]
 61. Där skola åter 
 de underbara 
 guldbrädspelsbrickorna 
@@ -619,6 +620,7 @@ i gräset hittas,
 som i tidens morgon 
 dem tillhört hade.
 
+[verse]
 62. Osådda skola 
 åkrar växa, 
 allt ont sig bättra; 
