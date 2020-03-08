@@ -1,6 +1,8 @@
 = Hyndlas sång
 
-Freja sade: 
+Freja sade:
+
+[verse]
 1. »Vakna, du möars mö! 
 Vakna, min väninna, 
 Hyndla, min syster, 
@@ -10,6 +12,7 @@ rida skola
 vi två till Valhall, 
 till vigda helgedomen.
 
+[verse]
 2. Bedjom Härfader 
 blid oss vara. 
 Han giver guld 
@@ -19,6 +22,7 @@ hjälm och brynja,
 och åt Sigmund 
 svärd till skänks.
 
+[verse]
 3. Han giver seger åt somliga, 
 och åt somliga rikedom, 
 vältalighet åt många, 
@@ -28,6 +32,7 @@ verskonst åt skalder,
 mannamod giver han 
 åt mången kämpe.
 
+[verse]
 4. Till Tor skall jag blota 
 och bedja därom, 
 att han alltid mot dig vill 
@@ -35,6 +40,7 @@ uppriktig vara;
 dock ej gärna han har att göra 
 med jättars brudar.
 
+[verse]
 5. Tag nu en av dina ulvar 
 ut ur stallet, 
 lät med min galt den 
@@ -44,7 +50,9 @@ att gudavägen trampa;
 jag vill ej min härliga 
 häst betunga.»
 
-Hyndla sade: 
+Hyndla sade:
+
+[verse]
 6. »Falsk är du, Freja, 
 då du frestar mig. 
 Visserligen ser du på oss 
@@ -54,7 +62,9 @@ med på Valhallsfärden,
 Ottar den unge, 
 Innsteins son.»
 
-Freja sade: 
+Freja sade:
+
+[verse]
 7. »Dårad är du, Hyndla; 
 drömma jag tror dig, 
 då du tror vännen min med 
@@ -66,6 +76,7 @@ som konstrikt mig gjorde
 dvärgar tvänne, 
 Dain och Nabbe.
 
+[verse]
 8. På samma gång i sadlarne 
 sitta vi skola 
 och om härskares 
@@ -73,6 +84,7 @@ härkomst tala,
 de gamla ätter, 
 som från gudarne kommit.
 
+[verse]
 9. Vad de slagit 
 om välska guldet, 
 Ottar den unge 
@@ -82,6 +94,7 @@ att sköta om,
 att fursten får fadersarv 
 efter fränderna sina.
 
+[verse]
 10. Ett altar han mig gjorde, 
 uppfört av stenar, 
 nu har stenen av glöden 
@@ -91,6 +104,7 @@ med nötblod röd,
 på asynjor alltid 
 Ottar trodde.
 
+[verse]
 11. Nu låt mig om forna 
 förfäder höra 
 och uppräkna 
@@ -104,7 +118,9 @@ vad är fursteboret,
 bland män mest urval 
 i Midgårds skygd?»
 
-Hyndla sade: 
+Hyndla sade:
+
+[verse]
 12. »Du är, Ottar, 
 till Innstein son, 
 men Innstein var 
@@ -114,6 +130,7 @@ Ulv till Säfare,
 och Säfare 
 till Svan den röde.
 
+[verse]
 13. Till maka hade din fader, 
 din moder, den smyckade, 
 prästinnan Ledis 
@@ -123,6 +140,7 @@ och Friund moder,
 all denna ätt 
 var yverborna man.
 
+[verse]
 14. Ale var förut 
 ansenligast av män, 
 Halvdan före honom 
@@ -132,6 +150,7 @@ dessa furstar hållit;
 hans verk blevo kända 
 till världens ända.
 
+[verse]
 15. Som måg åt Eymund 
 mäktigare blev han, 
 med sval svärdsegg 
@@ -141,6 +160,7 @@ ypperst av kvinnor,
 de födde och ägde 
 aderton söner.
 
+[verse]
 16. Därav äro skjoldungar, 
 därav äro skilvingar, 
 därav audlingar, 
@@ -152,6 +172,7 @@ i Midgårds skygd;
 allt är det din ätt 
 Ottar enfaldige.
 
+[verse]
 17. Hildigunn var 
 hennes moder, 
 barn till Svava 
@@ -161,6 +182,7 @@ Ottar enfaldige!
 Det är av vikt, att du vet det. 
 Vill du än längre?
 
+[verse]
 18. Gift var Dag med Tora, 
 hjältemodern, 
 i ätten där föddes 
@@ -172,6 +194,7 @@ Alf den gamle;
 Det är av vikt, att du vet det. 
 Vill du än längre?
 
+[verse]
 19. Deras vän var Ketil, 
 Klypps arvinge, 
 han var morfader 
@@ -181,6 +204,7 @@ förr än Kare,
 och av Hild blev 
 Haalv född.
 
+[verse]
 20. Därnäst kom Nanna, 
 Nockves dotter; 
 släkt med din fader 
@@ -192,6 +216,7 @@ Brodd och Hörver.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 21. Isolv och Asolv, 
 söner till Olmod, 
 och till Skurhild, 
@@ -201,11 +226,13 @@ många furstar.
 Allt är det din ätt, 
 Ottar enfaldige.
 
+[verse]
 22. Gunnar balk, 
 Grim hårdskave, 
 Torer järnsköld, 
 Ulv den gapande.
 
+[verse]
 23. [Hervard, Hjorvard, 
 Rane, Angantyr] 
 Bue och Brame, 
@@ -215,6 +242,7 @@ och två Haddingar.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 24. Österut i Bolm 
 borna voro 
 Arngrims söner 
@@ -226,6 +254,7 @@ som om en låga fore.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 25. Jag känner båda: 
 Brodd och Hörver; 
 i Rolf gamles kämpaskara 
@@ -237,6 +266,7 @@ måg till Sigurd
 den folkens furste, 
 som dräpte Favner.
 
+[verse]
 26. Den väldige hjälten 
 fran Volsung stammade 
 och Hjordis räknade 
@@ -246,6 +276,7 @@ från audlingar,
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 27. Gunnar och Hogne, 
 Gjukes söner, 
 och sammaledes Gudrun 
@@ -257,6 +288,7 @@ till bådadera.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 28. Harald hildetand 
 hade till föräldrar: 
 Rörek ringslungarn 
@@ -270,6 +302,7 @@ voro dessa.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 29. Elva var 
 asarnes antal, 
 när Balder sjönk 
@@ -281,6 +314,7 @@ baneman ihjäl.
 Allt är det din ätt, 
 Ottar enfaldige!
 
+[verse]
 30. Balders fader 
 var Burs son; 
 Frej ägde Gärd; 
@@ -292,11 +326,13 @@ deras frände,
 skadelystne jätten, 
 Skade var hans dotter.
 
+[verse]
 31. Mycket vi säga dig 
 och minnas mera; 
 jag väntar, att han må veta det. 
 Vill du än längre?
 
+[verse]
 32. Hake var bäst 
 bland barnen av Vedna, 
 och Hjorvard var 
@@ -304,6 +340,7 @@ Vednas fader;
 Heid och Rosstjov 
 Rimnes släkt.
 
+[verse]
 33. Alla valor 
 från Vidolv äro, 
 alla värsta trollkarlar 
@@ -313,11 +350,13 @@ från Svarthovde,
 alla jättar 
 äro från Ymer komna.
 
+[verse]
 34. Mycket vi säga dig 
 och minnas mera; 
 jag väntar, att han må veta det. 
 Vill du än längre?
 
+[verse]
 35. En blev född 
 i urtiden, 
 en gudason 
@@ -327,11 +366,13 @@ han föddes till världen
 av jättemör nio 
 vid jordens rand.
 
+[verse]
 36. Mycket vi säga dig 
 men minnas mera; 
 jag väntar, att han må veta det. 
 Vill du än längre?
 
+[verse]
 37. Gjalp honom födde, 
 Greip honom födde, 
 Eistla födde honom 
@@ -341,16 +382,19 @@ och Angeyja,
 Imd och Atla 
 och Jarnsaxa.
 
+[verse]
 38. Han starkare gjordes 
 av jordens kraft, 
 av svalkall sjö 
 och svinablod.
 
+[verse]
 39. Mycket jag säger dig 
 men minnes mera; 
 jag väntar, att han må veta det. 
 Vill du än längre?
 
+[verse]
 40. Loke fodde ulven 
 med Angrboda 
 och Sleipner 
@@ -360,6 +404,7 @@ tycktes värst;
 hon var från Byleists 
 broder kommen.
 
+[verse]
 41. Loke åt ett hjärta; 
 på lindens bränder 
 fann han halvsvedd 
@@ -369,6 +414,7 @@ av den leda kvinnan;
 därav har vart vidunder 
 i världen kommit.
 
+[verse]
 42. Havet går av stormbyar 
 mot himmelen själv, 
 löper över land 
@@ -378,6 +424,7 @@ och snabba vindar.
 Då är undergång åt gudar 
 av ödet besluten.
 
+[verse]
 43. En blev född, 
 av alla den störste, 
 starkare gjord 
@@ -387,6 +434,7 @@ denne furste är,
 förbunden genom släktskap 
 med boplatser alla.
 
+[verse]
 44. Då kommer en annan, 
 ännu mäktigare, 
 hans namn jag dock icke 
@@ -396,7 +444,9 @@ framåt se,
 än Oden skall 
 ulven möta.»
 
-Freja sade: 
+Freja sade:
+
+[verse]
 15. »Bär minnesöl 
 at min galt, 
 att han kan alla orden 
@@ -406,7 +456,9 @@ på tredje morgonen,
 när Angantyr och han 
 ättartal räkna.»
 
-Hyndla sade: 
+Hyndla sade:
+
+[verse]
 46. »Snabbt drag hädan! 
 Att sova mig lyster; 
 av mig får du föga, 
@@ -416,6 +468,7 @@ ute på nätterna,
 som Heidrun brukar 
 med bockarne ränna.
 
+[verse]
 47. Du sprang efter Od 
 alltid trånande, 
 men än flere fått 
@@ -425,13 +478,17 @@ ute på nätterna,
 som Heidrun brukar 
 med bockarne ränna.»
 
-Freja sade: 
+Freja sade:
+
+[verse]
 48. »Eld jag tänder 
 kring trollkvinnan, 
 att du bort hänfrån 
 dig icke bärgar.»
 
-Hyndla sade: 
+Hyndla sade:
+
+[verse]
 49. »Eld ser jag brinna 
 och jorden bolma; 
 sitt liv de flesta 
@@ -441,7 +498,9 @@ Bär du då åt Ottar
 etterblandat, 
 med onda förebud!»
 
-Freja sade: 
+Freja sade:
+
+[verse]
 50. Ditt ords förebud 
 skall intet göra 
 fast du bådar oss ont, 
@@ -451,5 +510,5 @@ han dricka skall;
 jag beder alla gudar 
 Ottar hjälpa.»
 
-. Freja åker efter sina katter
+.Freja åker efter sina katter
 image::ed0024.jpg[]

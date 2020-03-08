@@ -3,6 +3,7 @@
 Här börjar kvädet om Helge Hundingsbane och Hodbrodd samt deras folk.
 Volsungakvida.
 
+[verse]
 1. En gång i avlägsen forntid 
 örnar skreko, 
 heliga vatten runno 
@@ -12,6 +13,7 @@ den hugstore
 född av Borghild 
 i Bralund.
 
+[verse]
 2. Natt blev i gården, 
 nornor kommo, 
 som livets lott 
@@ -21,6 +23,7 @@ den bästa hövding
 och av furstar 
 mest frejdad tyckas.
 
+[verse]
 3. De snodde med eftertryck 
 ödets tradar, 
 medan borgar brötos, 
@@ -30,6 +33,7 @@ de redde ut
 och fäste det mitt 
 under månens sal.
 
+[verse]
 4. De öster och väster 
 ändarne dolde, 
 däremellan landet 
@@ -39,6 +43,7 @@ norrut slängde
 ett band, som alltid 
 hon bad skulle hålla.
 
+[verse]
 5. Ett var ej till skada 
 för ylvingaättlingen, 
 som den unga kvinnan 
@@ -48,6 +53,7 @@ kraxade hungrig
 - i högt träd han satt - 
 »Hör, jag vet något!»
 
+[verse]
 6. »I brynja Sigmunds 
 son står pansrad, 
 ett dygn gammal, 
@@ -57,6 +63,7 @@ som på väldiga krigare;
 han är vargarnes vän. 
 Varom glade!»
 
+[verse]
 7. En hövding han tycktes 
 hovfolket vara, 
 goda år, de menade, 
@@ -66,6 +73,7 @@ ur kampens larm
 att ädel lök giva 
 åt den unge fursten.
 
+[verse]
 8. Namnet Helge han gav 
 och gårdarne Ringstad, 
 Solfjäll, Snöfjäll 
@@ -75,6 +83,7 @@ och Himinvang,
 ett sirat svärd 
 åt Sinfjotles broder
 
+[verse]
 9. Växa började 
 vid vänners bröst 
 ädelboren yngling 
@@ -84,6 +93,7 @@ som gåva åt följet,
 sin skatt ej ungdomsfriske 
 fursten skonade.
 
+[verse]
 10. Kort tid lät konungen 
 på kamp vänta, 
 när fursten var 
@@ -93,6 +103,7 @@ Hunding dräpte,
 som länge rådde 
 över länder och män.
 
+[verse]
 11. Av Sigmunds son 
 sedan fordrade 
 Hundings söner 
@@ -102,6 +113,7 @@ vedergälla
 för frånrövat gods 
 och faderns död.
 
+[verse]
 12. Men inga böter 
 bjöd dem fursten, 
 och fränderna ej heller 
@@ -111,6 +123,7 @@ gräsliga storm
 och Odens vrede 
 de vänta skulle.
 
+[verse]
 13. Furstarne fara 
 till fejden hän, 
 som till Logafjällen 
@@ -120,6 +133,7 @@ mellan fiender brast,
 Vidrers hundar löpa 
 likhungriga kring ön.
 
+[verse]
 14. Fursten sig satte, 
 då fällt han hade 
 Alf och Eyolf 
@@ -129,6 +143,7 @@ Hundings söner,
 och alldeles förintat 
 spjutjättens ätt.
 
+[verse]
 15. Då lyste ett sken 
 från Logafjällen 
 och ur bländande skenet 
@@ -142,6 +157,7 @@ med blod bestänkta
 och från spjuten 
 spelade strålar.
 
+[verse]
 16. Arla frågade 
 ur ulvboet 
 fursten därom 
@@ -151,6 +167,7 @@ hem de ville
 denna natt fara; 
 dån var av bågar.
 
+[verse]
 17. Men från hästen 
 Hognes dotter, 
 då sköldlarmet tystnade, 
@@ -160,6 +177,7 @@ andra sysslor
 än med frikostig drott 
 att dricka öl.
 
+[verse]
 18. Min fader har 
 sin flicka lovat 
 åt Granmars 
@@ -169,6 +187,7 @@ om Hodbrodd sagt,
 att som en kattunge blott 
 den kungen är käck.
 
+[verse]
 19. Dock fursten kommer 
 inom få dagar, 
 om ej till strid 
@@ -176,12 +195,15 @@ du stämmer honom
 eller flickan bort 
 från fursten tager.»
 
-Helge sade: 
+Helge sade:
+
+[verse]
 20. »Ängslas ej 
 för Isungs baneman; 
 förr dåna skall striden, 
 om ej död jag blir.»
 
+[verse]
 21. Bud härskaren 
 bort skickade 
 över land och hav 
@@ -191,6 +213,7 @@ rikligt bjuda
 åt kämparne 
 och kämparnes söner.
 
+[verse]
 22. »Beden dem skyndsamt 
 till skeppen gå 
 och att från Brandö 
@@ -200,6 +223,7 @@ tills dit till mötes kommo
 hopar av kämpar 
 från Hedinsö.
 
+[verse]
 23. Och där från stränderna 
 på Stavnsnäs 
 skepp ut skredo, 
@@ -209,6 +233,7 @@ Hjorleif den frågan:
 »Har du mönstrat 
 männen käcka?»
 
+[verse]
 24. Unge kungen 
 till den andre sade: 
 »Senräknat är talet 
@@ -218,6 +243,7 @@ som sjöfolk bära
 och segla in i Orvasund 
 utifrån havet.
 
+[verse]
 25. Tolv hundra 
 trofasta män, 
 och dock är i Hatun 
@@ -225,6 +251,7 @@ hälften flera,
 konungens stridsfolk; 
 om kamp har jag hopp.»
 
+[verse]
 26. Framstammens skeppstält 
 fursten strök av, 
 så att sina många 
@@ -236,6 +263,7 @@ hissade på masten
 väven vita 
 på Varinsfjord.
 
+[verse]
 27. Det blev rammel av åror, 
 det blev rassel av järn, 
 sköld slog mot sköld, 
@@ -245,6 +273,7 @@ med ädlingarna gick
 furstens flotta 
 fjärran från land.
 
+[verse]
 28. Så det lät, 
 när de långa kölarna 
 och Kolgas syster 
@@ -252,6 +281,7 @@ sammanstötte,
 som om berg och bränning 
 sig bröto mot varandra.
 
+[verse]
 29. Helge bjöd högre 
 höga seglen draga; 
 från mötet med vågor 
@@ -261,6 +291,7 @@ fast ångestväckande
 sjöhästarne 
 stjälpa ville.
 
+[verse]
 30. Men seglarne själva 
 Sigrun från ovan 
 skyddade stridsdjärv 
@@ -272,6 +303,7 @@ vid Gnipalunden.
 
 image::ed0028.jpg[]
 
+[verse]
 31. Om aftonen satt han 
 i Unavåg, 
 de fagra fartygen 
@@ -281,6 +313,7 @@ på Svarinshög
 med harmsen hug 
 hans här skådade.
 
+[verse]
 32. Därom godättade 
 Gudmund sporde: 
 »Vem är den furste, 
@@ -288,6 +321,7 @@ som folket styr
 och fiendens flock 
 för till land?»
 
+[verse]
 33. Sinfjotle talade, 
 och slängde på rån upp 
 den röda skölden, 
@@ -297,6 +331,7 @@ den, som svara kunde
 och ord växla 
 med ädlingar.
 
+[verse]
 34. »Säg du i afton, 
 när åt svinen du giver 
 och lockar edra hyndor 
@@ -306,6 +341,7 @@ att ylvingar kommit
 galna efter strid, 
 från Gnipalunden.
 
+[verse]
 35. Där skall Hodbrodd 
 Helge finna, 
 en furste, som ej flyr, 
@@ -315,7 +351,9 @@ Han har ofta
 medan kvinnor du kysste 
 som vid kvarnarna trälade.»
 
-Gudmund sade: 
+Gudmund sade:
+
+[verse]
 36. »Föga minns du, furste, 
 forna sägner, 
 då osant du lägger 
@@ -329,7 +367,9 @@ sår ofta,
 hatad överallt 
 du hållit dig i rösen.»
 
-Sinfjotle sade: 
+Sinfjotle sade:
+
+[verse]
 37. »Du var en vala 
 på Varinsö, 
 en listig kona, 
@@ -339,6 +379,7 @@ du äga ville
 i brynja klädd, 
 blott Sinfjotle.
 
+[verse]
 38. Du var, förhatliga 
 häxa, valkyria, 
 elak, vedervärdig 
@@ -348,12 +389,15 @@ sinsemellan alla
 för din skull, 
 din durkdrivna kona!
 
+[verse]
 39. På Sagunäs 
 tillsammans nio 
 ulvar vi födde, 
 deras fader var jag.»
 
-Gudmund sade: 
+Gudmund sade:
+
+[verse]
 40. »Fader var du ej 
 till fenrisulvar, 
 äldre än alla, 
@@ -363,6 +407,7 @@ grymt din manbarhet
 tursamöar togo 
 på Torsnäset.
 
+[verse]
 41. Du var styvson till Siggeir; 
 i stamhållet för ulvar 
 du låg, van vid vargatjut, 
@@ -374,7 +419,9 @@ du borrade genom,
 dig namnkunnig gjorde 
 av nidingsverk »
 
-Sinfjotle sade: 
+Sinfjotle sade:
+
+[verse]
 42. »Brud åt hästen Grane 
 på Bråvalla du var; 
 länkad med guldbetsel, 
@@ -384,7 +431,9 @@ tämligen ofta,
 smal, som du var, 
 under sadeln, ditt nöt!»
 
-Gudmund sade: 
+Gudmund sade:
+
+[verse]
 43. »Sedeslös sven 
 syntes du vara, 
 när du mjölkade Gullners 
@@ -394,7 +443,9 @@ var Imds dotter,
 i trasor klädd. 
 Vill du träta längre?»
 
-Sinfjotle sade: 
+Sinfjotle sade:
+
+[verse]
 44. »Förr jag ville 
 vid Frekastenen 
 med din kropp 
@@ -404,7 +455,9 @@ att lapa mjölkmat
 eller giva åt galtarne. 
 Förgöre dig de onda!»
 
-Helge sade: 
+Helge sade:
+
+[verse]
 45. »Mycket hellre, Sinfjotle, 
 hövdes eder 
 att gå till strids 
@@ -414,6 +467,7 @@ ord att kivas,
 om än hövdingarna 
 hätskhet söndrar.
 
+[verse]
 46. Ej goda tyckas mig 
 Granmars söner, 
 men sanning dock höves 
@@ -423,6 +477,7 @@ märka de läto,
 att de saknade ej att svinga 
 svärden mod.»
 
+[verse]
 47. De läto hästarne 
 hastigt löpa, 
 Svipud och Sveggjod, 
@@ -432,6 +487,7 @@ genom daggiga dalar,
 skalv misthöljd mark; 
 där männen foro.
 
+[verse]
 48. Kungen i gårdsledet 
 kom dem till möte, 
 harmfullt de sade 
@@ -443,7 +499,9 @@ snabba ritt:
 »Vi varsnas på nivlungar 
 vredens färg?»
 
-Gudmund sade: 
+Gudmund sade:
+
+[verse]
 49. »Till sandstranden vända sig 
 snabba kölar, 
 rårepshjortar 
@@ -453,6 +511,7 @@ och skinande åror,
 hövdingens härmän, 
 hurtiga ylvingar.
 
+[verse]
 50. Nu gå femton 
 flockar i land 
 dock ute på viken 
@@ -466,7 +525,9 @@ mängden av krigsfolk.
 Nu tövar ej Helge 
 att träffningen börja.»
 
-Hodbrodd sade: 
+Hodbrodd sade:
+
+[verse]
 51. »Löpe betslade hästar 
 bort till folktinget, 
 och Sporvitner 
@@ -478,6 +539,7 @@ hemma kvar,
 som sårande svärd 
 svänga kan!
 
+[verse]
 52. Samlen hit Hogne 
 och sönerna av Ring, 
 Atle och Yngve, 
@@ -487,6 +549,7 @@ att gå till strids;
 med motstånd låtom oss 
 möta volsungen.»
 
+[verse]
 53. Ett brak det blev, 
 då bleka uddar 
 flögo mot varandra 
@@ -500,6 +563,7 @@ högst trög till flykt;
 den hövdingen hade 
 hårdhet i bröstet.
 
+[verse]
 54. Från himlen ned hjälmklädda 
 jungfrur kommo - 
 - vapnens gny växte - 
@@ -509,6 +573,7 @@ svävande valkyrian,
 - av korpens föda 
 frossade vargen -:
 
+[verse]
 55. »Hell dig, hövding! 
 Härska över män 
 Yngves ättling, 
@@ -518,6 +583,7 @@ som fly ej ville,
 drotten, som härskarens 
 död har vållat!
 
+[verse]
 56. Och dig, ädling, 
 anstår bådadera, 
 de röda ringar 

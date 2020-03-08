@@ -1,5 +1,6 @@
 = Kvädet om Hymer
 
+[verse]
 1. Det var en gång, som stridgudar 
 stek av villebråd 
 och mjöd desamma njöto, 
@@ -9,6 +10,7 @@ skådade på offerblod
 och funno hos Äger 
 överflöd på kittlar.
 
+[verse]
 2. Bergsbon satt 
 barnaglad framför dem, 
 mycket lik sonen 
@@ -18,6 +20,7 @@ i ögat såg:
 »Gör du rikligt 
 gille åt asarne!»
 
+[verse]
 3. Brydd blev jätten 
 av den bistres ord, 
 på hämnd mot gudarne 
@@ -27,6 +30,7 @@ sörja för en kittel,
 »så att åt eder alla 
 jag öl må brygga.»
 
+[verse]
 4. Det stod ej till 
 för de store gudar 
 och heliga makter 
@@ -36,6 +40,7 @@ Tyr vänskapligt
 ensamt åt Lorride 
 en utväg sade.
 
+[verse]
 5. »Där bor i öster 
 om Elivågorna 
 den högvise Hymer 
@@ -45,14 +50,19 @@ en kittel äger,
 ett mycket stort kärl, 
 en mil djupt.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 6. »Vet du, om vi kunna 
 den kokaren få?»
 
-Tyr sade: 
+Tyr sade:
+
+[verse]
 »Visst, vän, om listigt 
 till väga vi gå.»
 
+[verse]
 7. De färdades duktigt 
 den dagen fram 
 från Asgård, 
@@ -62,6 +72,7 @@ hornprydda bockaarne
 och begåvo sig till hallen, 
 som Hymer ägde.
 
+[verse]
 8. Sonen fann där farmodern, 
 faslig att skåda, 
 hon nio hundra 
@@ -71,6 +82,7 @@ glänsande, en annan
 ljuslätt, att bära 
 en bägare åt sonen.
 
+[verse]
 9. »Jättars frände! 
 Gömma jag ville 
 er båda käcka 
@@ -80,6 +92,7 @@ Maken min
 snål mot gäster, 
 snar till ondska.»
 
+[verse]
 10. Sent färdig, vände 
 den vanskaplige, 
 hårdsinte Hymer 
@@ -89,7 +102,9 @@ istappar slamrade,
 kindskogen på karlen, 
 som kom, var tjälad.
 
-Frillan sade: 
+Frillan sade:
+
+[verse]
 11. »Var hälsad, Hymer, 
 och i hågen god; 
 till dina salar 
@@ -101,6 +116,7 @@ följer honom,
 vännen till människor; 
 Veor han heter.
 
+[verse]
 12. Ser du, var de sitta 
 under salens gavel, 
 bakom en stolpe 
@@ -110,6 +126,7 @@ sönder sprang stolpen,
 innan bjälken 
 brast i tu.
 
+[verse]
 13. Åtta föllo, 
 men en av dem, 
 en hårdhamrad kittel, 
@@ -119,6 +136,7 @@ men fornåldrig jätte
 följde med ögonen 
 sin fiende.
 
+[verse]
 14. Ej sade honom då 
 hans sinne något gott, 
 när han såg på sitt golv, 
@@ -128,6 +146,7 @@ trenne tjurar,
 tillsammans dem jätten 
 sände att koka.
 
+[verse]
 15. De höggo dem alla 
 ett huvud kortare 
 och i kokgropen 
@@ -137,6 +156,7 @@ innan sova han gick,
 hela och hållna 
 två Hymers oxar.
 
+[verse]
 16. För Rungners gråe, 
 gode vän 
 tycktes Lorrides måltid 
@@ -146,17 +166,21 @@ nödgas nog
 av villebråd 
 vi tre leva.»
 
+[verse]
 17. Veor sade sig vilja 
 på vågen ro ut, 
 om bålde jätten 
 bete gåve.
 
-Hymer sade: 
+Hymer sade:
+
+[verse]
 »Gå till horden, 
 om du djärves det, 
 du bergfolkets krossare, 
 att bete söka!
 
+[verse]
 18. Det jag väntar, 
 att dig sall ej lätt 
 agn av oxen 
@@ -166,17 +190,21 @@ strax till skogs,
 där ramsvart oxe 
 råmande stod.
 
+[verse]
 19. Tursars baneman 
 bröt från tjuren 
 de båda hornens 
 högborg upptill.
 
-Hymer sade: 
+Hymer sade:
+
+[verse]
 »Vida värre 
 dina verk tyckas 
 du, styrare av kölar, 
 än då du stilla sitter.»
 
+[verse]
 20. Båten bad 
 bockarnes herre 
 den hisklige jätten 
@@ -186,6 +214,7 @@ sade sig äga
 liten lust 
 att längre ro.
 
+[verse]
 21. Dristige Hymer 
 drog två valar 
 ensam på kroken 
@@ -195,6 +224,7 @@ Odens son,
 Veor, sig redde 
 en rev med list.
 
+[verse]
 22. Han, som människor skyddar 
 och mäter sig med ormen, 
 hängde på kroken 
@@ -206,6 +236,7 @@ sig ringlar i djupet.
 
 image::ed0013.jpg[]
 
+[verse]
 23. Dristigt drog 
 dådkraftige Tor 
 etterglänsande ormen 
@@ -215,6 +246,7 @@ med hammaren han slog,
 det omåttligt fula 
 på ulvens broder.
 
+[verse]
 24. Ulvar tjöto, 
 ödemarker ljödo, 
 urgamla jorden 
@@ -222,6 +254,7 @@ av ångest skalv;
 sedan i sjön 
 sjönk den fisken.
 
+[verse]
 25. Oglad var jätten, 
 när de åter rodde, 
 så att Hymer att börja med 
@@ -229,7 +262,9 @@ bara teg;
 på en annan bog 
 sen böjde han av.
 
-Hymer sade: 
+Hymer sade:
+
+[verse]
 26. »Halva mödan 
 med mig du dele: 
 hem till gården 
@@ -237,6 +272,7 @@ du går med valarne
 eller binder böljornas 
 bock vid stranden.»
 
+[verse]
 27. Gick Lorride och tog 
 tag i stammen, 
 svängde sjöhäst 
@@ -248,6 +284,7 @@ som bränningen klyver,
 åt jätten igenom 
 djupa klyftor.
 
+[verse]
 28. Men ännu om styrka 
 strida ville 
 med Tor jätten, 
@@ -257,6 +294,7 @@ vid trots van.
 den som bägare ej krossar, 
 icke kraftig är.»
 
+[verse]
 29. Men när den lades 
 i Lorrides hand, 
 lät han strax för kristallen 
@@ -266,6 +304,7 @@ slog den igenom;
 de buro den dock hel 
 till Hymer sedan.
 
+[verse]
 30. Till dess den fagra 
 frillan lärde 
 ett vänskapsråd, 
@@ -275,6 +314,7 @@ ty det hårdare på jätten,
 som vill dig pröva, 
 än varje kalk är.»
 
+[verse]
 31. Barsk reste sig på knä 
 bockarnas herre, 
 iförde sig all 
@@ -284,6 +324,7 @@ hjälmens underlag,
 men i tu rämnade 
 runda vinkärlet.
 
+[verse]
 32. »Mycket dyrbart 
 mist jag vet mig hava, 
 då kalken jag ser 
@@ -293,6 +334,7 @@ Så karlen talade:
 åter mitt ord. 
 Du, öl, är för hett.»
 
+[verse]
 33. »Ett villkor är, 
 att ni välddiga ölskeppet 
 bort från vår gård 
@@ -302,6 +344,7 @@ två gånger den röra;
 stilla ändock 
 stod kittlen.
 
+[verse]
 34. Modes fader 
 fick fatt i kanten 
 och från stället vid elden 
@@ -311,6 +354,7 @@ på huvudet kitteln,
 men på hälarne 
 handtagen skramlade.
 
+[verse]
 35. Ej längre de färdades, 
 förrän litet 
 Odens son 
@@ -320,6 +364,7 @@ mängd med Hymer
 strömma från öster 
 ur stenrösena.
 
+[verse]
 36. Kitteln från axeln 
 av sig han lyfte, 
 svängde Mjollner, 
@@ -327,6 +372,7 @@ mordlystne hammarn,
 och bergöknars bestar 
 till bane han slog.
 
+[verse]
 37. Ej längre de färdades, 
 förrän Lorrides bock 
 halvdöd föll 
@@ -336,6 +382,7 @@ på benet var halt,
 och det hade lömske 
 Loke vållat.
 
+[verse]
 38. Men hört I haven - 
 - ho kan väl det 
 av i gudasägner kunniga 
@@ -345,6 +392,7 @@ bonde lämnade,
 då båda sina barn 
 han bötade därför.
 
+[verse]
 39. Kraftig han trädde 
 på tinget till gudarne 
 och hade kitteln, 

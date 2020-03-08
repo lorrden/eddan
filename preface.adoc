@@ -45,6 +45,7 @@ I den här elektroniska utgåvan har jämnraderna dragits in något åt höger.
 Det är fornyrdislag och ett exempel är Valans spådom.
 
 I den poetiska eddan förekommer ofta ett versmått som på isländska kallas ljodahattr (?) och som har sex rader per strof.
-Varje halva av strofen inleds med två rader som bildar en fjärding, precis som i fornyrdislag. Sedan kommer en rad med tre betonade stavelser varav minst två ska stavrimma med varandra.
+Varje halva av strofen inleds med två rader som bildar en fjärding, precis som i fornyrdislag.
+Sedan kommer en rad med tre betonade stavelser varav minst två ska stavrimma med varandra.
 Denna ensamma rad har i den elektroniska utgåvan dragits ut något åt vänster, för att göra mönstret tydligare.
 Ett exempel på ljodahattr är den Höges sång.

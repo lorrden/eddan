@@ -1,5 +1,6 @@
 = Brottstycke av det större kvädet om Sigurd
 
+[verse]
 1a. Elden tog att ljunga, 
 och jorden att skälva 
 och höga lågan 
@@ -9,6 +10,7 @@ av furstens kämpar
 genom elden rida 
 eller över stiga.
 
+[verse]
 2a. Sigurd Grane 
 med svärdet sporrade, 
 elden slocknade 
@@ -18,6 +20,7 @@ för den lovord önskande,
 de redskap glänste, 
 som Regin ägde.
 
+[verse]
 3a. Sigurd drap ormen, 
 och ingen det skall 
 ur minnet förlora, 
@@ -27,6 +30,7 @@ brast det mod
 genom elden att rida 
 eller över stiga.
 
+[verse]
 4a. Ut gick Sigurd 
 från samtalet, 
 männens vän, 
@@ -38,12 +42,15 @@ sönder brista.
 
 - - - - - -
 
+[verse]
 1. »[I vad sak 
 har Sigurd] brutit, 
 då du vill, att den modige 
 mista skall livet.»
 
-Gunnar sade: 
+Gunnar sade:
+
+[verse]
 2. »Mig har Sigurd 
 svurit eder, 
 eder svurit, 
@@ -53,7 +60,9 @@ när han svurit hålla
 alla eder 
 allra trognast.»
 
-Hogne svarade: 
+Hogne svarade:
+
+[verse]
 3. »Av hätskhet Brynhild 
 dig hetsat har 
 ont att göra 
@@ -63,6 +72,7 @@ det goda giftet
 och sedan ej dig 
 sig att äga.»
 
+[verse]
 4. Några ulv stekte, 
 några orm skuro, 
 några åt Guttorm 
@@ -72,6 +82,7 @@ mordlystna,
 bära händer 
 på härlige hjälten.
 
+[verse]
 5. Slagen blev Sigurd, 
 söder om Ren, 
 korpen på trädet 
@@ -81,6 +92,7 @@ eggarna bloda,
 brutna eder 
 eder bane vålla.»
 
+[verse]
 6. Ute stod Gudrun, 
 Gjukes dotter, 
 och det första ord, 
@@ -90,6 +102,7 @@ väpnades drott,
 då mina fränder 
 jag främst ser rida?»
 
+[verse]
 7. Ensam Hogne 
 henne svarade: 
 »Sigurd med svärd 
@@ -97,6 +110,7 @@ vi sönderhuggit,
 grå hästen hänger 
 huvudet över den döde.»
 
+[verse]
 8. Då sade Brynhild, 
 Budles dotter: 
 »Väl skolen I njuta 
@@ -106,6 +120,7 @@ för allt hava rådit,
 om han litet längre 
 sitt liv behållit.
 
+[verse]
 9. Ej hövdes det, 
 att han härskade så 
 över Gjukes arv 
@@ -115,6 +130,7 @@ och i strid djärva
 fem söner Gjuke 
 framfött hade.»
 
+[verse]
 10. Då skrattade Brynhild, 
 att det skallade i gården, 
 en gång 
@@ -124,6 +140,7 @@ land och folk,
 när frejdade fursten 
 I falla låtit.»
 
+[verse]
 11. Då sade Gudrun, 
 Gjukes dotter: 
 »Oerhörda ord 
@@ -133,6 +150,7 @@ Sigurds mördare!
 Hans hätska sinne 
 hämnd skall röna.»
 
+[verse]
 12. Det led fram på kvällen, 
 ej litet var drucket, 
 om mycket muntert 
@@ -142,6 +160,7 @@ då i säng de kommo,
 Gunnar ensam längre 
 än alla låg vaken.
 
+[verse]
 13. Fot han ej rörde, 
 fjättrad var tungan; 
 därpå härens 
@@ -151,6 +170,7 @@ talat hade,
 korpen och örnen, 
 då de kommo hemridande.
 
+[verse]
 14. Brynhild vaknade, 
 Budles dotter, 
 skjoldungars dis, 
@@ -160,6 +180,7 @@ innan dagen grydde:
 att säga min sorg 
 eller sådant ej göra!»
 
+[verse]
 15. Vid dessa ord 
 alla tego, 
 få blevo kloka 
@@ -169,7 +190,9 @@ gav sig att omtala
 det, som hon leende 
 lockat männen till.
 
-Brynhild sade: 
+Brynhild sade:
+
+[verse]
 16. »I sömnen, Gunnar, 
 svårt det mig tycktes: 
 svalt var i salen, 
@@ -183,6 +206,7 @@ så skall all eder
 sin makt förlora, 
 menedare ären I.
 
+[verse]
 17. Nu minns du ej, Gunnar, 
 granneligen, 
 da I båda i spåret 
@@ -192,6 +216,7 @@ illa honom lönat,
 att främst i mod 
 han sig finna lät.
 
+[verse]
 18. Det röntes då, 
 när ridit han hade 
 modig till oss 
@@ -201,6 +226,7 @@ hade tillförene
 ederna hållit 
 mot unge fursten.
 
+[verse]
 19. Sårande svärd, 
 snott om fästet med guld, 
 lät mäktig konung 
@@ -212,7 +238,8 @@ innantill dragna.»
 
 == Om Sigurds död
 
-I detta kväde talas om Sigurds död, och här pekar det åt, som om de dödade honom ute, men somliga säga så, att de dödade honom inne, sovande i sin säng. Men tyskarne säga så, att de dödade honom ute i skogen, och så säges i den gamla Gudrunarkvida, att Sigurd och Gjukes söner hade ridit till tings, när han dödades, men det säga alla på enahanda sätt, att de sveko honom mot tro och loven och angrepo honom liggande och oförberedd.
+I detta kväde talas om Sigurds död, och här pekar det åt, som om de dödade honom ute, men somliga säga så, att de dödade honom inne, sovande i sin säng.
+Men tyskarne säga så, att de dödade honom ute i skogen, och så säges i den gamla Gudrunarkvida, att Sigurd och Gjukes söner hade ridit till tings, när han dödades, men det säga alla på enahanda sätt, att de sveko honom mot tro och loven och angrepo honom liggande och oförberedd.
 
 .Sigurds lik
 image::ed0036.jpg[]

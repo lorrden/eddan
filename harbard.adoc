@@ -2,15 +2,21 @@
 
 Tor for hem från österled och kom till ett sund; på andra sidan om sundet var färjkarlen med farkosten.
 
-Tor ropade: 
+Tor ropade:
+
+[verse]
 1. »Vem är den svennernas sven, 
 som på andra sidan sundet står?»
 
-Färjkarlen sade: 
+Färjkarlen sade:
+
+[verse]
 2. »Vem är den karlarnas karl, 
 som kallar på mig över vägen?»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 3. »För mig över sundet 
 och frukost jag dig giver; 
 matsäck har jag på ryggen, 
@@ -20,33 +26,43 @@ förrn jag reste hemifrån,
 sill och havregröt, 
 hungrig jag ej än är.»
 
-Färjkarlen sade: 
+Färjkarlen sade:
+
+[verse]
 4. »Såsom morgonbragder 
 du måltiden prisar, 
 men mycket du förutser ej; 
 dystert är ditt hem, 
 död tror jag din moder är.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 5. »Det säger du nu, 
 som synes envar 
 mest märkligt att veta, 
 att min moder är död.»
 
-Färjkarlen sade: 
+Färjkarlen sade:
+
+[verse]
 6. »Ej tyckes du mig, 
 som tre gårdar du ägde; 
 barbent du står, 
 som en buse klädd, 
 så att inte ens byxor du har.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 7. »Styr du ekan hitåt, 
 ställe att landa jag visar, 
 eller vem är herre till båten, 
 som du håller vid land?»
 
-Färjkarlen sade: 
+Färjkarlen sade:
+
+[verse]
 8. »Hildolv han heter, 
 som hålla den mig bad, 
 den rådkloke kämpen, 
@@ -60,7 +76,9 @@ om över sundet du vill fara!»
 
 image::ed0011.jpg[]
 
-Tor sade: 
+Tor sade:
+
+[verse]
 9. »Mitt namn skall jag säga, 
 fast jag sakskyldig vore, 
 och nämna all min ätt. 
@@ -72,21 +90,29 @@ du står med Tor och språkar.
 Det vill jag nu spörja, 
 vad du heter.»
 
-Färjkarlen sade: 
+Färjkarlen sade:
+
+[verse]
 10. »Harbard jag heter, 
 håller ej namnet hemligt.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 11. »Varför hemlighålla namnet, 
 om ej hämnd för brott du rädes?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 12. »Om än hämnd jag räddes, 
 jag mig reda skulle 
 mot en sådan, som du är, 
 om ej till döden jag bestämts.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 13. »Otäckt jag tycker att vada 
 över vågen till dig 
 och väta min börda. 
@@ -94,13 +120,17 @@ Jag skulle ge dig, ditt kräk,
 för dina kränkande ord, 
 komme jag blott över sundet.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 14. »Här skall jag stå, 
 och härifrån dig bida; 
 efter Rugners död 
 du ej dråpligare mött.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 15. »Det vill du nu nämna, 
 då jag nappades med Rungner, 
 den stormodige jätten, 
@@ -109,7 +139,9 @@ dock fick jag honom att falla
 och för mig segna. 
 Vad tog du dig till, medan dess, Harbard?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 16. »Med Fjolvar jag var 
 hela fem vintrar 
 på den ö 
@@ -119,10 +151,14 @@ och stridsmän fälla,
 mycket fresta 
 och mö vinna.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 17. »Hur artade sig kvinnorna edra?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 18. »Muntra kvinnor hade vi, 
 om de kloka mot oss varit; 
 gott huvud de hade, 
@@ -137,7 +173,9 @@ sov hos systrar sju,
 hade all deras ynnest och älskog. 
 Vad tog du dig till medan dess, Tor?»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 19. »Jag dräpte Tjatse, 
 dem kärve jätten; 
 Allvaldes sons 
@@ -148,7 +186,9 @@ av mina storverk,
 som alla människor sedan se. 
 Vad tog du dig till medan dess, Harbard?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 20. »Trolöst svek 
 jag mot trollpackor övade 
 och lockade dem med list från männen. 
@@ -157,17 +197,23 @@ höll jag Lebard;
 han lät mig taga trollstav, 
 men jag villade honom från vettet.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 21. »Med elakhet gav du då 
 för goda gåvor lön.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 22. »Den ena eken får, 
 vad av den andra den skaver, 
 sig själv sköter envar om. 
 Vad tog du dig till medan dess, Tor?»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 23. »Jag var i öster 
 och ihjälslog jättars 
 ondskefulla brudar, 
@@ -178,7 +224,9 @@ inga människor skulle
 inom Midgård dväljas. 
 Vad tog du dig till medan dess, Harbard?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 24. »Jag var i Valland 
 och i vapenskiften deltog, 
 jag hetsade furstar, 
@@ -187,12 +235,16 @@ Oden får jarlar,
 som hjältemodigt falla, 
 med Tor får trälars släkt.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 25. »Ojämnt du skulle skifta 
 mellan asarne folket, 
 om du mäktade så mycket.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 26. »Tor har jättelik styrka 
 men intet hjärta i bröstet; 
 av rädsla och skrämsel 
@@ -203,17 +255,23 @@ betagen av fruktan,
 fnysa eller nysa, 
 så att Fjalar hörde.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 27. »Harbard, din svinpäls! 
 Jag sloge dig ihjäl, 
 om jag nådde dig nu över sundet.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 28. »Varför nå mig över sundet, 
 då sak ej finnes. 
 Vad tog du dig till, då, Tor?»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 29. »Jag var österut 
 och ån värjde, 
 när Svarangs söner 
@@ -224,7 +282,9 @@ ty de måste först
 om fred mig bedja. 
 Vad tog du dig till medan dess, Harbard?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 30. »Jag var österut, 
 med älskarinna jag pratade, 
 lekte med den linvita 
@@ -232,39 +292,57 @@ och lönligt möte hade,
 gladde den guldbjärta, 
 som gamman mig unnade.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 31. »Bra kvinnfolk ni kom till där.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 32. »Jag behövde din hjälp, Tor, 
 att behålla den linvita mö.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 33. »Jag skulle dig den lämna, 
 om det lämpade sig.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 34. »Jag lita på dig skulle, 
 om du ej lurade mig.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 35. »Ej biter jag dig bakifrån, 
 som brukad sko om våren.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 36. »Vad tog du dig till medan dess, Tor?»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 37. »Berserkars brudar 
 jag bultade på Lässö; 
 det värsta de förskyllat, 
 villat hela folket.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 38. »Neslig sak det var, Tor, 
 då du slogs med kvinnor.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 39. »Vargkvinnor de voro 
 men visst icke kvinnor; 
 de stötte kull min farkost, 
@@ -273,43 +351,59 @@ hotade mig med järnklubba
 och jagade Tjalve. 
 Vad tog du dig till medan dess, Harbard?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 40. »Jag var i hären, 
 som hit lät sina 
 fanor fladdra 
 och färga spjut röda.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 41. »Det vill du nämna, 
 att du kom att oss olust bereda.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 42. »Det skall jag dig böta 
 med buktig armring, 
 som de skiljemän sagt, 
 som skötte vår förlikning.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 43. »Var hämtade du dessa 
 så hånande ord, 
 att jag aldrig hörde 
 mera hånande.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 44. »Dem har jag av de gamla 
 gubbar lärt, 
 som bo i hemmets högar.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 45. »Ett gott namn dock 
 gav du stendösar, 
 då du kallar dem hemmets högar.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 46. »Om slik sak 
 så jag dömer.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 47. »Din munvighet 
 dig mindre väl bekommer, 
 om jag tar och vadar över vägen; 
@@ -317,50 +411,68 @@ värre än vargen
 du vråla skall, 
 om du får av hammaren hugg.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 48. »Siv har en älskare hemma, 
 honom vill du nog träffa; 
 det storverket vill du öva, 
 större skäl har du därtill.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 49. »Vad i munnen dig kommer, du talar, 
 för att mig det värsta må tyckas. 
 Din fega fähund, 
 för mig du ljuger.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 50. »Sant jag tror mig säga, 
 sen är du på din resa; 
 långt du vore kommen, Tor, 
 om i lånad hamn du farit.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 51. »Harbard, din hare, 
 du hindrat mig mycket.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 52. »För Asa-Tor tänkte jag, 
 att aldrig skulle 
 en fäherde färden hindra.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 53. »Ett råd skall jag dig råda, 
 ro du hit med båten; 
 låt oss mer ej munhuggas, 
 kom till Magnes fader!»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 54. »Far från sundet fjärran, 
 förrän jag dig nekar.»
 
 image::ed0012.jpg[]
 
-Tor sade: 
+Tor sade:
+
+[verse]
 55. »Visa mig då vägen, 
 när över vågen du vill mig ej färja!»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 56. »För litet är det att neka, 
 långt det är att fara: 
 en stund det är till stocken, 
@@ -372,20 +484,28 @@ Tor, sin son,
 och skall lära vägen åt ättlingen 
 till Odens länder.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 57. »Skall dit idag jag hinna?»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 58. »Hinna med slit och möda. 
 Snön nog smälter, 
 då solen stiger.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 59. »Kort blir vårt samtal, 
 då med smädelse blott du svarar; 
 att du med färjan mig vägrat, 
 skall du få för, när vi träffas.»
 
-Harbard sade: 
+Harbard sade:
+
+[verse]
 60. »Traska du i väg, 
 dit där trollen dig tage!»

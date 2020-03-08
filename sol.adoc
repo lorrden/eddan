@@ -1,5 +1,6 @@
 = Solsången
 
+[verse]
 1. Rikedom och liv
 rånade från människor
 den bistre busen;
@@ -7,6 +8,7 @@ den bistre busen;
 som vaktades av honom,
 kunde ingen levande lända.
 
+[verse]
 2. Allra oftast
 ensam åt han;
 aldrig bjöd han man till mat,
@@ -14,6 +16,7 @@ förrän det kom
 en kraftlös gäst
 vandrande, av vägen trött.
 
+[verse]
 3. Att han tarvade dryck,
 den trötte sade,
 och att mindre mätt han vore.
@@ -21,6 +24,7 @@ Med bävande hjärta
 till den boning han litade,
 som förr varit full av ont.
 
+[verse]
 4. Mat gav han och dryck
 åt den, som dödstrött var,
 allt med uppriktigt sinne.
@@ -28,6 +32,7 @@ På Guds bud han aktade,
 med gott honom fägnade,
 ty eländig ansågs han vara.
 
+[verse]
 5. Den andre stod upp
 och ont han tänkte,
 ej tog han emot med tack.
@@ -35,6 +40,7 @@ Synden svällde.
 I sömnen han mördade
 den kloke, som förr kunnat sig akta.
 
+[verse]
 6. Då han huggen vaknade,
 bad han himlarnas Gud,
 att hjälp han måtte honom giva,
@@ -42,6 +48,7 @@ men på sig den andre
 fick synden taga,
 då en saklös han svikit hade.
 
+[verse]
 7. Heliga änglar
 ur himlen kommo ned
 och förenade hans ande med sig;
@@ -49,6 +56,7 @@ i ett rent liv
 han leva skall
 evigt med allsäktig Gud.
 
+[verse]
 8. För rikedom och hälsa
 råder ingen man,
 om det än går honom gott.
@@ -56,6 +64,7 @@ Mången angripes
 av vad minst han anar;
 för sin frid råder ingen ensam.
 
+[verse]
 9. Icke tänkte
 Unnar och Sävalde,
 att lyckan dem lämna skulle.
@@ -63,6 +72,7 @@ Nakna de blevo
 och nödställda,
 skrämdes som vargar till skogs.
 
+[verse]
 10. Lustans makt
 varit mången till sorg,
 ofta kommer kval från kvinnor.
@@ -70,6 +80,7 @@ Till men de bli,
 fast mäktige Gud
 dem skapade till köttets kyskhet.
 
+[verse]
 11. Svavad och Skarthedin
 i sämja levde;
 ej den ene kunde vara utan den andre,
@@ -77,6 +88,7 @@ förrn besinning de miste
 för samma kvinna;
 till last hon levde för dem.
 
+[verse]
 12. Om intet de sig brydde
 för den bländvita mön,
 ej om gyckel, ej ljusa dagar;
@@ -84,6 +96,7 @@ intet annat
 önska de kunde
 än den strålande sköna gestalt.
 
+[verse]
 13. Dystra blevo dem
 de dunkla nätterna;
 ingen ljuvlig sömn de sovo,
@@ -91,6 +104,7 @@ och av denna harm
 hätskhet föddes
 mellan de verkliga vänner.
 
+[verse]
 14. Oerhörda dåd
 oftast bliva
 i vrede vedergällda.
@@ -98,6 +112,7 @@ I holmgång de stredo
 om det hulda viv
 och fingo båda sin bane.
 
+[verse]
 15. Övermod hysa
 skall ingen människa;
 det har jag sannerligen sett;
@@ -105,6 +120,7 @@ ty de flesta av dem,
 som förfalla till högfärd
 bort ifrån Gud gå.
 
+[verse]
 16. De rådde över mycket
 Radny och Vebode
 och visste sig gott blott verka.
@@ -112,6 +128,7 @@ Nu de sitta
 och såren vända
 ömsom eldarna till.
 
+[verse]
 17. På sig de trodde
 och tyckte sig vara
 ensamma över allt folk,
@@ -119,6 +136,7 @@ men allsmäktig Gud
 annorlunda
 lämpade livet för dem.
 
+[verse]
 18. De mättade sin lusta
 på många sätt
 och hade sin glädje i guld.
@@ -126,6 +144,7 @@ Nu vedergälls dem,
 då vandra de skola
 emellan eld och is.
 
+[verse]
 19. På dina ovänner
 må aldrig du lita,
 fast vackra ord de välja.
@@ -133,6 +152,7 @@ Gott må du lova dem,
 ty gott är att varning
 av annans olycka taga.
 
+[verse]
 20. Så det gick honom,
 Sorle den godsinte,
 då i Vigulvs våld han sig gav.
@@ -140,6 +160,7 @@ Säkert han honom trodde
 men för svek blev ett offer
 av sin broders baneman.
 
+[verse]
 21. Han gav dem lejd
 av ett gott hjärta
 och de lovade att lämna honom guld;
@@ -147,6 +168,7 @@ försonade de sade sig,
 när tillsammans de drucko,
 men falskhet kom dock fram.
 
+[verse]
 22. Men efteråt
 på andra dagen,
 då de hade in i Rygjardal ridit,
@@ -154,6 +176,7 @@ med svärd de stympade
 den, som saklös var,
 och läto hans liv fara.
 
+[verse]
 23. Hans lik de drogo
 till lönlig plats
 och bragte det ned i en brunn;
@@ -161,6 +184,7 @@ förhemliga det ville de,
 men Herren Gud
 helig i himlen det såg.
 
+[verse]
 24. Hans ande bjöd
 allsmäktig Gud
 gå i sin glädje in,
@@ -168,6 +192,7 @@ men sent skola
 de sakskyldige
 från kvalen kallade bli.
 
+[verse]
 25. Bed Herrans ords
 hägnande diser
 dig bevågna vara.
@@ -175,6 +200,7 @@ I veckan efter
 enligt din viljas
 önskan skall allting gå.
 
+[verse]
 26. De vredens verk,
 som du vrångt förövat,
 försona ej åter med ont!
@@ -182,6 +208,7 @@ Med godhet skall du trösta
 den, du gråta låtit,
 det skänker själen heder.
 
+[verse]
 27. Gud skall man åkalla
 om goda ting,
 den mäktige, som människorna skapat.
@@ -189,6 +216,7 @@ Mycket för den man
 menligt bliver,
 som är sen att söka sin fader.
 
+[verse]
 28. Dig bedja höves
 med brinnande iver
 om det, som tyckes dig tarvas,
@@ -196,6 +224,7 @@ ty allting blir den utan,
 som ingenting beder;
 få tänka på den tigandes behov.
 
+[verse]
 29. Sent jag kom,
 fast kallad tidigt,
 till domhavandens dörrar.
@@ -203,6 +232,7 @@ Dit jag mig tänker,
 ty det lovades mig;
 välfägnad den får, som den fordrar.
 
+[verse]
 30. Synderna vålla,
 att med sorg vi fara
 ur denna våndans värld.
@@ -210,6 +240,7 @@ Ingen ängslas,
 som ej ont gör;
 det är gott utan vank att vara.
 
+[verse]
 31. Ulvar lika
 tyckas alla de,
 som ombytlig hug hava.
@@ -217,6 +248,7 @@ Så vedergälles dem,
 att de vandra skola
 till straff på glödande gator.
 
+[verse]
 32. Vänliga råd,
 med vett förbundna,
 sju tillhopa jag låter dig lära.
@@ -224,6 +256,7 @@ Minns dem noga,
 och missakta dem aldrig;
 nyttiga äro alla att njuta.
 
+[verse]
 33. Därom är att säga,
 hur säll jag var
 i välbehagliga världen,
@@ -237,6 +270,7 @@ De blanka slantar
 till sorg bliva lång;
 förmögenhet gjort mången till dåre.
 
+[verse]
 35. Glad åt mycket
 jag människor syntes,
 ty få saker visste jag på förhand.
@@ -244,6 +278,7 @@ Världen, där vi dväljas,
 danade Herren
 full av fröjd och lust.
 
+[verse]
 36. Lutande jag satt
 och länge var jag nedböjd;
 mycket lysten jag var då att leva.
@@ -251,6 +286,7 @@ Men han mätte min tid,
 som mäktig var;
 för den, som dö skall, är vägen visad.
 
+[verse]
 37. Dödsgudinnan Hels rep
 hårt drogos åt
 och snärjde mina sidor.
@@ -258,6 +294,7 @@ Slita dem jag ville,
 men sega de voro;
 lättsamt är att lös få gå.
 
+[verse]
 38. Ensam jag kände,
 hur på alla håll
 smärtor i mig svällde.
@@ -265,6 +302,7 @@ Hels möar bjödo
 mig hem varje afton,
 i det jag huttrade och hackade tänder.
 
+[verse]
 39. Solen jag såg,
 den samma dagstjärnan,
 luta till nedgång i larmvärlden,
@@ -272,6 +310,7 @@ men på annat håll hörde jag
 Hels grind tungt
 på sina gångjärn gnissla.
 
+[verse]
 40. Solen jag såg sjunka
 med sken, som av blod;
 ur världen då stupade min väg.
@@ -279,6 +318,7 @@ Mäktig hon mig syntes
 på många sätt,
 emot vad jag förr henne funnit.
 
+[verse]
 41. Solen jag såg,
 och det syntes mig
 som om Herrens härlighet jag såge
@@ -286,6 +326,7 @@ och för henne sista gången
 mitt huvud jag böjde,
 som jag gjorde det här uppå jorden.
 
+[verse]
 42. Solen jag såg
 och så hon strålade,
 att min sans jag tyckte försvinna,
@@ -293,6 +334,7 @@ men Gylvs strömmar
 stormade på annat håll,
 blandade mycket med blod.
 
+[verse]
 43. Solen jag såg,
 och vid synen jag skälvde,
 av farhåga full och bedrövad,
@@ -300,6 +342,7 @@ ty mitt hjärta var
 allt igenom
 söndergånget i slamsor.
 
+[verse]
 44. Solen jag såg,
 sällan mer bedrövad;
 ur världen då stupade min väg.
@@ -307,6 +350,7 @@ Min tunga var
 som trä räknade
 och utanpå kroppen allt kallnat.
 
+[verse]
 45. Solen jag såg,
 sedan ej mera
 efter denna dystra dag,
@@ -314,6 +358,7 @@ ty fjällvattnen slöto sig
 samma för mig
 och jag gick bort, kallad från kvalen.
 
+[verse]
 46. Hoppets stjärna flög
 - och då född jag blev -
 bort ifrån mitt bröst;
@@ -321,6 +366,7 @@ högt hon flög.
 fäste saknade,
 att till vila hon komma kunde.
 
+[verse]
 47. Längre än alla
 var den enda natt,
 då stel jag låg på strå.
@@ -328,6 +374,7 @@ Då i sanning man ser,
 vad som sagts av Gud,
 att människan är mullens son.
 
+[verse]
 48. Det höre och akte
 barmhärtig Gud,
 som himmel och jord haver gjort,
@@ -335,6 +382,7 @@ hur mol allena
 många vandra,
 fast till släktingar sig sälla de skulle.
 
+[verse]
 49. Sina gärningars frukt
 får envar njuta;
 säll den, som glad gör gott,
@@ -342,6 +390,7 @@ då av mitt överflöd
 mig ämnad var
 en säng i sanden bäddad.
 
+[verse]
 50. Köttets lusta
 lockar ofta människor,
 mången för mycken den har,
@@ -349,6 +398,7 @@ ty varmbadens vatten
 var mig ledast
 framför alla övriga ting.
 
+[verse]
 51. På nornors stol
 jag nio dagar satt,
 därifrån lyftes jag högt på häst,
@@ -356,6 +406,7 @@ då Hels sol
 hiskligt sken
 ur mulna himmelens moln.
 
+[verse]
 52. Utanför och innanför
 alla sju segervärldar
 förföll det mig, att jag for.
@@ -363,6 +414,7 @@ I höjden och djupet
 jag hitta sökte,
 var leden var lättast framkomlig.
 
+[verse]
 53. Att säga nu är,
 vad jag såg allra först,
 när i kvalens värld jag var kommen.
@@ -370,6 +422,7 @@ Svedda fåglar,
 framlidna själar,
 flögo så många som mygg.
 
+[verse]
 54. Från väster jag såg
 Vans drakar flyga
 och en eldvåg efter sig lämna.
@@ -377,6 +430,7 @@ Vingarna de skakade,
 så att vida mig tycktes
 himmel och hälleberg rämna.
 
+[verse]
 55. Solens hjort
 från söder såg jag fara,
 honom tyglade tvenne tillsamman.
@@ -384,6 +438,7 @@ Hans fötter stodo
 på flata marken,
 men hornen snuddade vid himlen.
 
+[verse]
 56. Från norr såg jag rida
 Nides söner,
 jag såg dem sju tillsamman.
@@ -391,6 +446,7 @@ Ur fulla horn
 härligt mjöd de drucko
 från Baugregins brunn.
 
+[verse]
 57. Vinden tystnade,
 vattnen stannade,
 då hörde jag ett gräsligt gny.
@@ -398,6 +454,7 @@ då hörde jag ett gräsligt gny.
 malde trolösa kvinnor
 mull, till mat ämnad.
 
+[verse]
 58. Blodiga kvarnstenar
 dess kvinnor mörka
 med bedrövat sinne drogo.
@@ -405,6 +462,7 @@ Deras blodiga hjärtan
 utanför bröstet hängde,
 tröttade av tunga kval.
 
+[verse]
 59. Mången man,
 som jag mötte där,
 gick stympad på glödande gata.
@@ -412,6 +470,7 @@ Deras anleten
 alla mig tycktes
 sudlade av brudars blod.
 
+[verse]
 60. Många män jag såg
 ned i mullen gångna,
 som nattvard ej njuta fingo.
@@ -419,6 +478,7 @@ Hedna stjärnor stodo
 över huvudet på dem,
 ristade med fördärvets runor.
 
+[verse]
 61. Män jag såg
 som mycken avund
 över nästans förhållanden nära.
@@ -426,6 +486,7 @@ Blodiga runor
 på bröstet på dem voro
 märkta för dem till men.
 
+[verse]
 62. Män jag såg där
 många oglada,
 vilse de voro om vägen.
@@ -433,6 +494,7 @@ Det får den till lön,
 som förföra sig låter,
 av denna världs olyckor drabbad.
 
+[verse]
 63. Män jag såg,
 som med många svek
 efter andras egendom traktat.
@@ -440,6 +502,7 @@ I flockar de foro
 till Fregjarns borg
 och hade bördor av bly.
 
+[verse]
 64. Män jag såg,
 som många hade
 på liv och rikedom rånat.
@@ -447,6 +510,7 @@ Bröstet på dessa
 bets igenom
 av ormar, som svällde av etter.
 
+[verse]
 65. Män jag såg,
 som mycket ogärna
 helgdagar hålla ville.
@@ -454,6 +518,7 @@ Deras händer voro
 på heta stenar
 naglade fast med nödtvång.
 
+[verse]
 66. Män jag såg,
 som av mycken stolthet
 förhävde sig högre än vån var.
@@ -461,6 +526,7 @@ Eldslågor
 på ett underligt sätt
 kring deras kläder slogo.
 
+[verse]
 67. Män jag såg,
 som mången gång
 hade ord på andra ljugit.
@@ -468,6 +534,7 @@ Hels korpar
 ur huvudet på dem
 hårdligen ögonen höggo.
 
+[verse]
 68. All den skräck
 får du icke veta,
 som de till dödsriket gångna drabbar.
@@ -475,6 +542,7 @@ Söta synder
 till svår bot varda;
 ve kommer alltid efter vällust.
 
+[verse]
 69. Män jag såg,
 som mycket gods,
 som gåva efter Guds lag givit.
@@ -482,6 +550,7 @@ Härliga ljus
 över huvudet på dem
 bjärt lysande brunno.
 
+[verse]
 70. Män jag såg,
 som med mycken iver
 främjat fattigas väl.
@@ -489,6 +558,7 @@ Heliga böcker
 och himlaskrift läste
 änglar över deras huvud.
 
+[verse]
 71. Män jag såg,
 som mycket illa
 farit hade genom fasta.
@@ -496,6 +566,7 @@ Guds änglar sig bugade
 för alla dessa;
 det är den högsta hugnad.
 
+[verse]
 72. Män jag såg,
 som sörjt för sin moder
 och givit henne mat i mun.
@@ -503,6 +574,7 @@ Deras vilorum voro
 vackert pyntade,
 ställda på himmelens strålar.
 
+[verse]
 73. De heliga möar
 hade rentvagit
 själen från syndens smitta,
@@ -510,6 +582,7 @@ av sådana män,
 som mången dag
 sig själva plågat och pinat.
 
+[verse]
 74. Höga vagnar såg jag
 längs himlarne fara;
 gång de äga till Gud.
@@ -517,6 +590,7 @@ Dem styra de män,
 som mördade äro
 för alls ingen orsak.
 
+[verse]
 75. Allsmäktig fader,
 lika mäktige son,
 och du himmelens helige ande!
@@ -524,6 +598,7 @@ Dig beder jag oss skilja,
 du som själv oss skapat,
 från allt, som ont är.
 
+[verse]
 76. Bjugvor och Listvor
 sitta i Herders dörrar
 uppå orgelstolen.
@@ -531,6 +606,7 @@ Järnens blod
 göts ur deras näsa
 och fiendskap väcker bland folk.
 
+[verse]
 77. Odens viv,
 vällustlysten,
 på jordens fartyg färdas.
@@ -538,6 +614,7 @@ Hennes segel
 sent bärgas,
 som på trängtans tackling sitta.
 
+[verse]
 78. O son, din fader
 har framställt tydningen
 jämte Solkatlas söner,
@@ -545,6 +622,7 @@ av det horn av hjort,
 som ur högen bar
 den vise Vigdvalin.
 
+[verse]
 79. Här äro runor
 som ristat hava
 Njords nio döttrar.
@@ -552,6 +630,7 @@ Radveig är den äldsta,
 den yngsta Kreppvor,
 tillsammans med systrar sju.
 
+[verse]
 80. Allt slags ont
 de övat hava
 Svavr och Svavrlogi.
@@ -559,6 +638,7 @@ De blodvite gjorde
 och banesår sögo
 av evig ondskefull vana.
 
+[verse]
 81. Detta kväde,
 som dig kungjort jag har
 skall du för levande läsa.
@@ -566,6 +646,7 @@ Solens sång
 som synas skall
 långtifrån lögnaktig vara.
 
+[verse]
 82. Må vi här skiljas
 och mötas åter
 på folkens fröjdedag!
@@ -573,6 +654,7 @@ Du, Herre, giv
 de hädangångne ro
 och dem hjälp, som på jorden leva!
 
+[verse]
 83. Dyrbar visdom
 i drömmen dig sades
 och sanning då du såg.

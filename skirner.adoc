@@ -2,12 +2,15 @@
 
 Frej, Njords son, hade en dag satt sig i Lidskjalv och såg ikring alla världar.
 Han såg in i Jotunheim och såg där en fager mö, när hon gick från sin faders storstuga till kvinnostugan; därav fick han stor hjärtesorg.
-Skirner hette Frejs skosven. Njord bad honom uppmana Frej att tala ut.
+Skirner hette Frejs skosven.
+Njord bad honom uppmana Frej att tala ut.
 
 .Njord
 image::ed0008.jpg[]
 
 Då sade Skade: 
+
+[verse]
 1. »Res dig nu, Skirner, 
 gå raskt att bedja 
 vår son om samtal, 
@@ -15,7 +18,9 @@ och fråga den vise,
 på vem han kan vara 
 så övermåttan ond!»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 2. »Vreda ord 
 jag väntar av er son, 
 om jag går att tala honom till 
@@ -23,7 +28,9 @@ och fråga den vise,
 på vem han kan vara 
 så övermåttan ond.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 3. »Säg du mig, Frej, 
 du furste bland gudar, 
 det som jag veta vill, 
@@ -31,7 +38,9 @@ vi allena du sitter
 i den långa salen 
 om dagarna, min drott!»
 
-Frej sade: 
+Frej sade:
+
+[verse]
 4. »Vi skulle jag yppa 
 ungersven, för dig 
 min svåra sorg, 
@@ -39,7 +48,9 @@ ty skimrande sol
 skiner alla dagar 
 men lyser dock ej, som jag åtrår.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 5. »Så mycken din åtrå 
 jag menar ej vara, 
 att förtro den åt mig du ej törs, 
@@ -50,7 +61,9 @@ väl vi två varann kunna tro.»
 .Skade
 image::ed0009.jpg[]
 
-Frej sade: 
+Frej sade:
+
+[verse]
 6. »I Gymers gårdar 
 jag gånga såg 
 en mö, som till kärlek mig tjusat; 
@@ -58,6 +71,7 @@ armarne lyste,
 och återsken 
 gåvo både himlen och havet.
 
+[verse]
 7. Mer mön är mig kär 
 än en mö någonsin 
 för en ung man i all tid har varit; 
@@ -65,7 +79,9 @@ av asar och alfer
 ingen vill, 
 att vi skola vara tillsammans.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 8. »Häst mig då giv, 
 som hastigt mig bär 
 över mörk, trolsk, fladdrande flamma, 
@@ -75,7 +91,9 @@ förgörande jättars ätt!»
 
 image::ed0010.jpg[]
 
-Frej sade: 
+Frej sade:
+
+[verse]
 9. »En häst jag dig då giver, 
 som hastigt dig bär 
 över mörk, trolsk, fladdrande flamma, 
@@ -83,7 +101,9 @@ och det svärd,
 som svingar sig självt, 
 om dristig den är, som det drager.»
 
-Skirner talade till hästen: 
+Skirner talade till hästen:
+
+[verse]
 10. »Mörkt är det ute; 
 inne är tiden, 
 att vi fara över våta fjäll, 
@@ -96,6 +116,7 @@ Skirner red in i Jotunheim till Gymers gårdar.
 Där voro arga hundar bundna framför ledet på den inhägnad, som var omkring Gärds sal.
 Han red dit, där en fäherde satt på högen, och tilltalade honom:
 
+[verse]
 11. »Säg du, herde, 
 som på högen sitter 
 och vaktar åt varje håll, 
@@ -103,14 +124,18 @@ hur med den unga mön
 till möte jag kommer 
 för Gymers gläfsande hundar!»
 
-Herden sade: 
+Herden sade:
+
+[verse]
 12. »Är åt döden du vigd 
 eller död allaredan? 
 Om möte du alltid 
 skall miste gå 
 med Gymers goda mö.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 13. »Bättre råd jag känner 
 än kinka och klaga, 
 då till färd man är färdig; 
@@ -118,7 +143,9 @@ intill en dag
 blev min ålder utmätt 
 och livets längd bestämd.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 14. »Vad är det för buller 
 och bråk jag hör 
 inne här i vårt hus; 
@@ -126,12 +153,16 @@ jorden darrar
 och därav alla 
 Gymers gårdar skälva.»
 
-En tjänstekvinna sade: 
+En tjänstekvinna sade:
+
+[verse]
 15. »Det står en man härute, 
 stigen från hästryggen, 
 i gräset får gångaren beta.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 16. »Bed honom in 
 i vår boning stiga 
 och dricka det mustiga mjöd; 
@@ -139,6 +170,7 @@ dock med ängslan jag anar
 att härute är 
 min broders baneman.»
 
+[verse]
 17. »Vem är det av alfer 
 eller asars söner 
 eller visa vaner? 
@@ -146,7 +178,9 @@ Vi kom du ensam
 över ursinning eld 
 att se vår sal?»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 18. »Jag är ej av alfer 
 eller asars söner 
 eller visa vaner; 
@@ -154,6 +188,7 @@ dock kom jag ensam
 över ursinning eld 
 att se eder sal.
 
+[verse]
 19. Elva äpplen 
 jag äger av guld, 
 dem som gåva dig, Gärd, skall jag giva, 
@@ -161,7 +196,9 @@ att köpa din älskog
 och, att kärast dig Frej 
 är av alla, för sann di säger.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 20. »Elva äpplen 
 jag aldrig tager 
 för att vara någon till viljes, 
@@ -169,7 +206,9 @@ Aldrig vi, jag och Frej,
 medan vårt liv varar, 
 skola båda tillsammans bo.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 21. »Jag bjuder dig ringen, 
 som bränd blev 
 med Odens unge son; 
@@ -177,7 +216,9 @@ med Odens unge son;
 av honom drypa 
 varje nionde natt.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 22. »Jag bryr mig ej om ringen, 
 fast bränd han är 
 med Odens unga son; 
@@ -185,7 +226,9 @@ guld mig ej fattas
 i Gymers gårdar; 
 jag får av min faders gods.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 23. »Ser du detta svärd, mö? 
 smalt och sirat, 
 som jag här i handen har; 
@@ -193,7 +236,9 @@ huvudet hugga
 av halsen skall jag dig, 
 om ej mig ditt jaord du giver.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 24. »Tvång jag aldrig 
 tåla vill 
 för att vara någon till viljes; 
@@ -201,7 +246,9 @@ dock känner jag nog,
 att kämpar som du 
 och Gymer till kamp skola komma.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 25. »Ser du detta svärd, mö, 
 smalt och sirat, 
 som jag här i handen har; 
@@ -209,6 +256,7 @@ för eggen däruppå
 skall åldrig jätte segna, 
 faller i döden din fader.
 
+[verse]
 26. Med tamtrollspö slår jag dig, 
 och tämja dig skall jag, 
 mö, att vara mig till viljes; 
@@ -216,6 +264,7 @@ dit måste du gå,
 där människors söner 
 sedan dig aldrig se.
 
+[verse]
 27. På örnens klippa 
 du arla skall sitta, 
 blicka bort ur världen, 
@@ -224,6 +273,7 @@ Mat mer led dig vare
 än för människors barn 
 glänsande ormen är.
 
+[verse]
 28. Till undran du blive, 
 då ut du kommer. 
 På dig må Rimner bliga, 
@@ -232,6 +282,7 @@ vittberyktad du varde
 mer än väktaren hos gudar; 
 gape du från grindarne ut!
 
+[verse]
 29. Sinnessvaghet, våpighet, 
 smärta och otålighet; 
 må tåren din växa med betrycket! 
@@ -240,6 +291,7 @@ och säga dig skall jag
 en svår sorgens våg 
 och tvefaldigt trångmål.
 
+[verse]
 30. Gastar skola 
 dig gruvligt plåga 
 alltjämt i jättarnas gårdar. 
@@ -251,6 +303,7 @@ Med gråt för gamman
 må till godo du hålla 
 och ledsaga ditt betryck med tårar!
 
+[verse]
 31. Med trehövdad turs 
 skall du tillbringa livet 
 eller ingen make möta. 
@@ -260,11 +313,13 @@ Var du som tisteln,
 som man trycker ihop, 
 mot slutet av sädesskörden!
 
+[verse]
 32. Till skogen jag vandrade, 
 till de växande träd 
 en trollstav att träffa, 
 och trollstav jag träffade.
 
+[verse]
 33. Vred är dig Oden, 
 vred på dig asafursten, 
 Frej skall din fiende vara. 
@@ -272,6 +327,7 @@ Ondskefulla mö,
 du ådragit dig 
 gudarnes gränslösa vrede.
 
+[verse]
 34. Höre det jättar, 
 höre det rimtursar, 
 Suttungs söner, 
@@ -281,6 +337,7 @@ hur med bann jag belägger,
 för mön människors samkväm, 
 för mön att med människor umgås!
 
+[verse]
 35. Rimgrimner heter tursen, 
 som du tillhöra skall 
 långt nedom likgrinden. 
@@ -292,6 +349,7 @@ må du aldrig få,
 du mö, emot din vilja, 
 du mö, men med min vilja!
 
+[verse]
 36. Turs jag ristar 
 och trenne stavar: 
 otukt, lidelse och otålighet. 
@@ -299,7 +357,9 @@ Jag ristar det så bort,
 som jag ristade det dit, 
 om sådant nödigt synes.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 37. »Hellre, sven, då, hell dig! 
 Här får du bägarn, 
 full med flerårigt mjöd! 
@@ -307,7 +367,9 @@ Tänkt dock jag hade,
 att mitt tycke aldrig 
 vanernas ättling skulle vinna.»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 38. »Om ärendet mitt 
 vill allt jag veta, 
 innan hädan hem jag rider, 
@@ -315,7 +377,9 @@ när vid ett möte
 du medgiva vill, 
 att sonen av Njord dig nalkas.»
 
-Gärd sade: 
+Gärd sade:
+
+[verse]
 39. »Barre heter, 
 som båda vi känna, 
 lunden, lugn och stilla; 
@@ -325,6 +389,7 @@ skall Gärd där unna sin älskog.»
 
 Då red Skirner hem; Frej stod ute och hälsade honom och sporde honom om nyheter:
 
+[verse]
 40. »Säg mig, Skirner, 
 förrn du sadel av häst tar, 
 och stiger ett steg framåt, 
@@ -332,7 +397,9 @@ vad gjort du har
 i Jotunheim 
 till bästa för bådas vår önskan!»
 
-Skirner sade: 
+Skirner sade:
+
+[verse]
 41. »Barre heter, 
 som vi båda känna, 
 lunden, så lugn och stilla; 
@@ -340,7 +407,9 @@ efter nio nätter
 åt Njords son 
 skall Gärd där unna sin älskog.»
 
-Frej sade: 
+Frej sade:
+
+[verse]
 42. »Lång är en natt, 
 långa äro två, 
 hur kan jag under tre tråna? 

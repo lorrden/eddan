@@ -1,18 +1,28 @@
 = Sången om Sigrdriva
 
-Sigurd red upp på Hindarfjället och styrde sin kosa söderut till Frankland. På fjället såg han ett stort ljus, som om eld brunne, och det sken därav upp till himlen. Men när han kom dit, stod där en sköldborg och upp ur den en fana. Sigurd gick in i sköldborgen och såg, att en man låg där och sov i full rustning. Han tog först hjälmen av huvudet på honom, och då såg han, att det var en kvinna. Brynjan satt hårt, som om hon vore fastväxt. Då ristade han med Gram från halsöppningen hela brynjan ned igenom och så ut genom båda ärmarna. Därpå tog han brynjan av henne, och hon vaknade och satte sig upp, fick se Sigurd och sade:
+Sigurd red upp på Hindarfjället och styrde sin kosa söderut till Frankland.
+På fjället såg han ett stort ljus, som om eld brunne, och det sken därav upp till himlen.
+Men när han kom dit, stod där en sköldborg och upp ur den en fana.
+Sigurd gick in i sköldborgen och såg, att en man låg där och sov i full rustning.
+Han tog först hjälmen av huvudet på honom, och då såg han, att det var en kvinna.
+Brynjan satt hårt, som om hon vore fastväxt.
+Då ristade han med Gram från halsöppningen hela brynjan ned igenom och så ut genom båda ärmarna.
+Därpå tog han brynjan av henne, och hon vaknade och satte sig upp, fick se Sigurd och sade:
 
+[verse]
 1. »Vad bet på brynjan? 
 Vi bröts min sömn? 
 Vem fogade, att fjättrarna 
 föllo, de blekgrå?»
 
+[verse]
 Han svarade: 
 »Sigmunds son; 
 Sigurds svärd 
 åt korpen riste lik 
 för kort tid sedan.»
 
+[verse]
 Hon svarade: 
 2. »Länge jag sov, 
 länge var jag somnad, 
@@ -21,16 +31,24 @@ Oden vållar,
 att icke jag mäktade 
 slita min djupa sömn.»
 
-Sigurd satte sig ned och frågade henne om hennes namn. Hon kallade sig Sigrdriva och var valkyria. Hon sade, att två konungar hade stridit: den ene hette Hjalmgunnar, han var då gammal och en den störste krigare, och Oden hade lovat honom seger, men:
+Sigurd satte sig ned och frågade henne om hennes namn.
+Hon kallade sig Sigrdriva och var valkyria.
+Hon sade, att två konungar hade stridit:
+den ene hette Hjalmgunnar, han var då gammal och en den störste krigare, och Oden hade lovat honom seger, men:
 
+[verse]
 den andre hette Agnar, 
 Audas broder, 
 som ingen varelse 
 ville hjälpa.
 
-Sigrdriva fällde Hjalmgunnar i striden, men Oden stack henne med sömntörne till hämnd därför och sade att hon aldrig mera skulle kämpa och giva seger i strid, utan sade, att hon skulle gifta sig. »Men jag sade honom, att jag gav ett löfte däremot att icke gifta mig med någon man, som kunde rädas.» Han svarar och ber henne lära honom vishet, om hon visste tidender ur alla världar.
+Sigrdriva fällde Hjalmgunnar i striden, men Oden stack henne med sömntörne till hämnd därför och sade att hon aldrig mera skulle kämpa och giva seger i strid, utan sade, att hon skulle gifta sig.
+»Men jag sade honom, att jag gav ett löfte däremot att icke gifta mig med någon man, som kunde rädas.»
+Han svarar och ber henne lära honom vishet, om hon visste tidender ur alla världar.
 
-Sigrdriva sade: 
+Sigrdriva sade:
+
+[verse]
 3. »Hell dag! 
 Hell dagens söner! 
 Hell natt och närmaste fränka! 
@@ -41,6 +59,7 @@ gen seger åt oss, som här sitta!
 .Sigrdriva
 image::ed0033.jpg[]
 
+[verse]
 4. Hell eder, asar! 
 Hell er, asynjor! 
 Hell dig, du givmilda jord! 
@@ -50,6 +69,7 @@ och läkande händer i livet!»
 
 Hon tog då ett horn fullt av mjöd, och gav honom en minnesdryck:
 
+[verse]
 5. »Jag bjuder dig öl, 
 du brynjetings apel, 
 blandat med styrka 
@@ -59,6 +79,7 @@ och hugsvalande stavar,
 goda galdrar 
 och gammanrunor.
 
+[verse]
 6. Segerrunor skall du kunna, 
 om seger du vill hava, 
 och sätta dem på svärdets fäste, 
@@ -66,6 +87,7 @@ somliga på slagstången,
 somliga pa svärdkavlen 
 och nämna två gånger Tyr.
 
+[verse]
 7. Ölrunor skall du kunna 
 om du vill, att annans hustru 
 ej sviker dig, då säker du tror dig. 
@@ -73,6 +95,7 @@ På hornet skall du rista dem
 och på handens bak 
 och märka på nageln Naud.
 
+[verse]
 8. Fyllda bägarn signa 
 och för fara dig akta, 
 du skall lägga i vätskan lök; 
@@ -80,6 +103,7 @@ då vet jag,
 att det varder dig aldrig 
 något menligt i mjödet blandat.
 
+[verse]
 9. Hjälprunor skall du kunna, 
 om du hjälpa vill, 
 och lösa livsfrukt från kvinnor. 
@@ -87,6 +111,7 @@ I handen skall du dem rista
 och om handlederna spänna 
 och bedja diserna giva dig hjälp.
 
+[verse]
 10. Bränningsrunor skall du rista, 
 om bärga du vill 
 på havet seglets hästar. 
@@ -97,6 +122,7 @@ Så brådstört är ej brottsjö,
 så blå ej vågor, 
 att ej från havet du helbrägda kommer.
 
+[verse]
 11. Kvistrunor skall du kunna, 
 om kunnig du vill vara 
 att som läkare se på sår. 
@@ -104,6 +130,7 @@ Skriv dem på barken
 och det skogens träd, 
 vars lövkvistar luta åt öster.
 
+[verse]
 12. Målrunor skall du kunna 
 att icke någon människa 
 med hat skall harm dig löna. 
@@ -114,6 +141,7 @@ på det ting,
 där talrik menighet 
 råkas till fullsutten rätt.
 
+[verse]
 13. Tankerunor skall du kunna, 
 om du tankekraft vill äga 
 mer än varje man. 
@@ -128,6 +156,7 @@ och ur Hoddrovners horn.
 .Oden vid Mims lik
 image::ed0034.jpg[]
 
+[verse]
 14. På berget han stod 
 med Brimers eggar 
 och hade på huvudet hjälm. 
@@ -135,6 +164,7 @@ Då höjde Mims huvud
 först sin rådande röst 
 och sade sanna ord.
 
+[verse]
 15. Sade dem på skölden ristade, 
 som för skinande guden står, 
 på Arvakrs öra, 
@@ -144,6 +174,7 @@ under Rungners banes vagn,
 på Sleipners tänder 
 och på slädens fjättrar.
 
+[verse]
 16. På björnens ramar 
 och på Brages tunga, 
 på ulvens klor 
@@ -153,6 +184,7 @@ och på brons landfäste,
 på förlossande love 
 och i lisans spår.
 
+[verse]
 17. På glas och på guld 
 och på godlyckesmycken, 
 i vin och i vört 
@@ -162,6 +194,7 @@ och på Granes bröst,
 på nornans nagel 
 och på näbben av ugglan.
 
+[verse]
 18. Alla avskavna blevo, 
 som in voro ristade 
 och mängda med det heliga mjöd 
@@ -171,6 +204,7 @@ de äro hos alfer,
 somliga hos visa vaner, 
 somliga hos människors menighet.
 
+[verse]
 19. Det är bokrunor, 
 det är bärgerunor, 
 och alla ölrunor, 
@@ -181,6 +215,7 @@ kan dem sig till båtnad bruka.
 Lev väl, om du lärt dem, 
 tills gudamakterna förgås!
 
+[verse]
 20. Nu skall du välja, 
 då val dig bjudes, 
 du vassa vapnens stam! 
@@ -191,7 +226,9 @@ Allt ont är av ödet tillmätt.»
 .Sigurd hos Sigrdriva
 image::ed0035.jpg[]
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 21. »Fly jag ej skall, 
 fast förfallen åt död, 
 blödig är jag ej boren. 
@@ -199,7 +236,9 @@ Dina vänskapsråd
 alla vinna jag vill, 
 så länge som jag lever.»
 
-Sigrdriva sade: 
+Sigrdriva sade:
+
+[verse]
 22. »Det råder jag dig för det första, 
 att mot dina fränder, 
 utan vank du må vara. 
@@ -207,6 +246,7 @@ Hämnas må du ej,
 fast harm de dig göra; 
 det båtar dig bäst efter döden.
 
+[verse]
 23. För det andra jag dig råder, 
 att du ed icke svär, 
 om ej därmed sanning du säger. 
@@ -214,6 +254,7 @@ Svåra följder
 har sviken förlikning; 
 usel är menedig man.
 
+[verse]
 24. För det tredje jag dig råder, 
 att du på tinget 
 ej strider med stolliga sällar, 
@@ -221,6 +262,7 @@ ty ovis man
 ofta säger 
 värre ord, än han vet.
 
+[verse]
 25. Allt är svart; 
 säger du intet, 
 så tyckes du blödig boren 
@@ -231,6 +273,7 @@ Låt andra dagen
 honom uppgiva andan 
 och löna så folk för lögn.
 
+[verse]
 26. För det fjärde jag dig råder, 
 om det bor en fläckfull 
 trollpacka tätt invid vägen. 
@@ -238,6 +281,7 @@ Hellre giv dig i väg
 än gästa där, 
 även om natten är nära!
 
+[verse]
 27. Ögon som spana, 
 önskvärda äro, 
 då i vrede vapen skiftas; 
@@ -245,6 +289,7 @@ ofta vrångvisa kvinnor
 vid vägen sitta, 
 som döva svärd och sinne.
 
+[verse]
 28. För det femte jag dig råder, 
 fast du ser fagra 
 brudar på bänkarne sitta, 
@@ -252,6 +297,7 @@ låt ej de silversmyckade
 för din sömn råda, 
 locka ej i kärlek dem till kyssar!
 
+[verse]
 29. För det sjätte jag dig råder, 
 om det sker bland män, 
 att vid öl fällas avoga ord, 
@@ -259,6 +305,7 @@ giv dig ej i delo
 med druckna slagskämpar; 
 vin stjäl mångens vett.
 
+[verse]
 30. Öl och trätor 
 ha ofta varit 
 mången man till sorg; 
@@ -266,6 +313,7 @@ somliga till undergång,
 somliga till ofärd, 
 mycket vållar människor ve.
 
+[verse]
 31. För det sjunde jag råder dig, 
 om du själv i delo 
 råkar med modiga män, 
@@ -273,6 +321,7 @@ bättre är slåss
 än brännas inne 
 själv med gård och grund.
 
+[verse]
 32. För det åttonde jag dig råder 
 att akta dig för ont 
 och all slags falskhet fly. 
@@ -280,6 +329,7 @@ Ej mö må du locka
 eller mans hustru 
 och till brottslig älskog ej egga.
 
+[verse]
 33. För det nionde jag dig råder 
 att ge nödig vård åt lik, 
 evar dem i världen du varsnar, 
@@ -287,6 +337,7 @@ om av sjukdom de dött,
 om på sjön de dött, 
 om dem vapen på valplatsen dödat.
 
+[verse]
 34. Bad skall man göra 
 åt dem, som bortgångna äro, 
 två deras händer och huvud; 
@@ -294,6 +345,7 @@ dem kamma och torka,
 förrn de komma i kista, 
 och bedja dem saligen sova.
 
+[verse]
 35. För det tionde jag dig råder, 
 tro du aldrig ord 
 av en fredlös fiendes son! 
@@ -302,6 +354,7 @@ eller har fadern du fällt,
 är en ulv i unge sonen, 
 fast glad han göres med guld.
 
+[verse]
 36. Aldrig hinna harm 
 och hätskhet att somna 
 och sorgen lika litet. 
@@ -309,6 +362,7 @@ Att få vett och vapen
 är vanskligt för fursten, 
 som främst i folket skall gå.
 
+[verse]
 37. För det elfte jag dig råder, 
 att för ont du dig aktar 
 i varje fall från en vän. 

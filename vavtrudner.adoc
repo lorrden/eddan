@@ -1,6 +1,8 @@
 = Sången om Vavtrudner
 
-Oden sade: 
+Oden sade:
+
+[verse]
 1. »Råd du mig nu, Frigg, 
 då fara att gästa 
 Vavtrudner jag vill! 
@@ -8,7 +10,9 @@ Högst ivrig är jag
 att allvise jättens 
 forntidskunskap fresta.»
 
-Frigg sade: 
+Frigg sade:
+
+[verse]
 2. »Hemma jag ville hålla 
 Härjafader kvar 
 i gudarnes gårdar, 
@@ -16,7 +20,9 @@ ty ingen jätte
 jag jämnstark känner 
 med Vavtrudner vara.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 3. »Mycket jag for, 
 mycket jag frestade, 
 mycket jag makterna prövat; 
@@ -24,7 +30,9 @@ det vill jag nu veta,
 hurudana Vavtrudners 
 salar mig synas.»
 
-Frigg sade: 
+Frigg sade:
+
+[verse]
 4. »Lycklig du fare! 
 Lycklig du åter komme! 
 Lycklig du på vägen vare! 
@@ -34,6 +42,7 @@ då du samtal söker med jätten!»
 
 image::ed0005.jpg[]
 
+[verse]
 5. For så Oden 
 att fresta jättens 
 vida frejdade visdom. 
@@ -41,7 +50,9 @@ Anländ till salen,
 som Ims fader ägde, 
 gick Ygg genast in.
 
-Oden sade: 
+Oden sade:
+
+[verse]
 6. »Hell dig, Vavtrudner, 
 nu till hallen är jag kommen 
 att se dig själv, där du sitter. 
@@ -49,7 +60,9 @@ Först vill jag veta,
 om vis du är 
 och gömmande all kunskap, jätte.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 7. »Vem är den man, 
 som i min sal 
 slungar ut slika ord? 
@@ -57,7 +70,9 @@ Ut du ej kommer
 ur vår sal, 
 är av oss du icke visast.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 8. »Gagnråd jag heter: 
 nyss, av gången tröttad, 
 törstig jag trädde i din sal. 
@@ -65,7 +80,9 @@ Länge jag färdats,
 längtar att hälsas 
 och att mig du mottager, jätte.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 9. »Vi står du då, Gagnråd, 
 på golvet och talar? 
 Sätt dig på bänk i salen! 
@@ -73,7 +90,9 @@ Utröna skall vi,
 om åldrige talarn 
 vet mer eller mindre än gästen.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 10. »Ringa man, 
 som till rik man kommer, 
 tale, vad som hövs, eller tige. 
@@ -81,7 +100,9 @@ Ordsvall tänker jag
 illa båtar 
 den, som kommer till kallsinning värd.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 11. »Säg mig, Gagnråd, 
 då på golvet du vill 
 fresta din framgång, 
@@ -89,7 +110,9 @@ hur den hästen
 heter, som drager 
 dagen över människor var morgon!»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 12. »Skinfaxe han kallas, 
 som den klara dagen 
 var morgon över människor drar. 
@@ -97,7 +120,9 @@ För den bästa av hästar
 han hålles av reidgoter, 
 ljus sprider springarens man.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 13. »Säg mig, Gagnråd, 
 då på golvet du vill 
 fresta din framgång, 
@@ -105,7 +130,9 @@ hur den hästen
 heter, som från öster 
 drager natten över nådiga gudar!»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 14. »Rimfaxe heter 
 den häst, som drager 
 var natt över nådige gudar; 
@@ -113,7 +140,9 @@ ur munnen från betslet
 var morgon det droppar, 
 och så kommer dagg i dalar.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 15. »Säg mig, Gagnråd, 
 då på golvet du vill 
 fresta din framgång, 
@@ -121,7 +150,9 @@ hur den å heter,
 som åtskiljer 
 jättars och gudars jord!»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 16. »Iving heter ån, 
 som åtskiljer 
 jättars och gudars jord; 
@@ -129,7 +160,9 @@ jättars och gudars jord;
 i alla tider, 
 is bliver ej på den ån.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 17. »Säg mig, Gagnråd, 
 då på golvet du vill 
 fresta din framgång, 
@@ -137,7 +170,9 @@ vad den slätt heter,
 där till slag mötas 
 Surt och de milda makter!»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 18. »Vigrid heter slätten, 
 där till slag mötas 
 Surt och de milda makter; 
@@ -145,7 +180,9 @@ Surt och de milda makter;
 är den hundra mil, 
 denna valplats dem visats an.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 19. »Gäst, du kunnig är. 
 Till jättens bänk kom! 
 Låt oss sitta tillsammans och tala! 
@@ -153,7 +190,9 @@ Om huvudet, främling,
 i hallen vi slå vad, 
 vem som av oss är visast.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 20. »Säg du ett, 
 om du äger förstånd 
 och du, Vavtrudner, vet det, 
@@ -161,7 +200,9 @@ vadan jorden först kom,
 du kunnige jätte, 
 eller den höga himlen!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 21. »Av Ymers kött 
 åstadkoms jorden 
 och av benen berg; 
@@ -169,7 +210,9 @@ av rimfrostjättens huvudskål
 himlen blev skapad, 
 böljan av hans blod.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 22. »Säg du det andra, 
 om insikt du äger, 
 och du, Vavtrudner, vet det, 
@@ -177,7 +220,9 @@ vadan månen kom,
 som över människor far, 
 sammaledes ock solen!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 23. »Mundelföre heter 
 han, som är månens fader, 
 sammaledes också solens. 
@@ -185,7 +230,9 @@ På himlen vandra
 de varje dag skola 
 för människorna tiden att tälja.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 24. »Säg du det tredje, 
 då man talar om din kunskap 
 och du, Vavtrudner, vet det, 
@@ -193,7 +240,9 @@ vadan dagen kom
 som drager över människor, 
 eller natten med nedan!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 25. »Delling han heter, 
 han är dagens fader, 
 men natten av Norve föddes; 
@@ -201,7 +250,9 @@ ny och nedan
 skapade nådiga gudar 
 att för människorna tiden tälja.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 26. »Säg du det fjärde, 
 då du frejdad är för kunskap 
 och du, Vavtrudner, vet det, 
@@ -209,12 +260,16 @@ vadan vintern först kom
 eller varma sommaren 
 bland visa gudar att vara!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 27. »Vindsval han heter, 
 som är vinterns fader, 
 men Svasud är sommarens.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 28. »Säg du det femte, 
 då du frejdad är för kunskap 
 och du, Vavtrudner, vet det, 
@@ -222,7 +277,9 @@ vem äldst av asar
 eller Ymers fränder 
 i urtiden alstrades!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 29. »Ett jätteantal vintrar, 
 innan jorden var skapad, 
 vart Bergelmer boren; 
@@ -230,7 +287,9 @@ vart Bergelmer boren;
 och än äldre Aurgelmer, 
 hans fader och farfader.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 30. »Säg du det sjätte, 
 då man skicklig dig kallar 
 och du, Vavtrudner, vet det, 
@@ -238,7 +297,9 @@ varifrån jätten Aurgelmer
 bland jättars söner 
 först kom, du kunnige jätte!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 31. »Ur Elivågor 
 etterdroppar stänkte; 
 det växte, tills det vart till en jätte; 
@@ -246,7 +307,9 @@ därav våra ätter
 allesammans kommit, 
 äro därför alla elaka.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 32. »Säg du det sjunde, 
 då man skicklig dig kallar 
 och du, Vavtrudner, vet det, 
@@ -254,7 +317,9 @@ huru barn han fick
 den bålde jätten, 
 då ej till gifte jättekvinna fanns!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 33. »Under armen växte 
 på väldige rimtursen 
 mö och man tillsammans; 
@@ -262,7 +327,9 @@ fot med fot
 födde åt jätten, 
 den vise, en sexhövdad son.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 34. »Säg du det åttonde, 
 då du anses kunnig, 
 och du, Vavtrudner, vet det, 
@@ -270,7 +337,9 @@ vad det första är, du minnes,
 och det fjärmaste, du vet, 
 du gömmer all kunskap, jätte!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 35. »Ett jätteantal vintrar, 
 innan jorden var skapad, 
 vart Bergelmer boren; 
@@ -278,7 +347,9 @@ det är det första jag minnes,
 när förfarne jätten 
 på urholkad ökstock lades.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 36. »Säg du det nionde, 
 då du nämnes vis 
 och du, Vavtrudner, vet det, 
@@ -286,7 +357,9 @@ varifrån vinden kommer,
 som över vågen far! 
 Aldrig man skönjer honom själv.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 37. »Räsvälg han heter, 
 som vid himlens ända sitter, 
 en jätte med örns utseende; 
@@ -294,7 +367,9 @@ av hans vingar
 säges vinden komma, 
 som far över alla folk.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 38. »Säg du det tionde, 
 då förtälja om gudars 
 alla öden du, Vavtrudner, vet, 
@@ -304,7 +379,9 @@ bland asars söner,
 och tempel han råder - 
 fast åt fader bland asar han ej föddes!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 39. »I Vanahem han skaptes 
 av visa makter 
 och gavs som gisslan åt gudar; 
@@ -312,7 +389,9 @@ i åldrarnes ände
 skall han åter komma 
 hem till de visa vaner.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 40. »Säg du det elfte 
 var med svärd de i gården 
 var dag skifta duktiga hugg; 
@@ -320,7 +399,9 @@ de kora, vem skall falla,
 och från kampen rida, 
 sitta sedan försonta tillsammans.»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 41. »Alla einhärjar 
 i Odens gårdar 
 var dag skifta duktiga hugg, 
@@ -328,7 +409,9 @@ kora, vem skall falla,
 och från kampen rida, 
 sitta sedan försonta tillsammans.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 42. »Säg du det tolfte, 
 hur förtälja om gudars 
 alla öden du, Vavtrudner, vet; 
@@ -337,7 +420,9 @@ och jämväl alla gudar
 på det sannaste du säger, 
 du jätte, som gömmer all vishet!»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 43. »Om jättars hemlighet 
 och jämväl alla gudars 
 jag sanning kan säga, 
@@ -347,7 +432,9 @@ till nio världar kom jag,
 ända nedom Nivlhel, 
 hit avlida döda från Hel.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 44. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -355,7 +442,9 @@ Vad för människor leva,
 medan den långa 
 fimbulvintern varar i världen?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 45. »Liv och Leivtraser, 
 och leva de skola, 
 gömda i Hoddmimers hult; 
@@ -363,7 +452,9 @@ morgondagg
 till mat de hava; 
 de bliva människornas moder och fader.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 46. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -371,7 +462,9 @@ Vadan kommer sol
 på den släta himlen, 
 när ulven denna sol hunnit upp?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 47. »Alvrodul föder 
 en fager dotter, 
 innan henne ulven hunnit upp; 
@@ -379,7 +472,9 @@ hon skall gå,
 när gudarne dö, 
 en mö på sin moders vägar.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 48. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -387,7 +482,9 @@ Vilka äro de flickor,
 som fara över havet, 
 och med klokhet och kunskap färdas?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 49. »Tre väldiga floder 
 falla över bygden, 
 som Mogtrasers möar behärska; 
@@ -395,7 +492,9 @@ som Mogtrasers möar behärska;
 de enda i världen, 
 dock bland jättar de fötts och fostrats.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 50. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -403,7 +502,9 @@ Vilka asar råda
 för gudarnes ägor, 
 då Surts låga slocknar?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 51. »Vidar bor och Vale 
 i de vigda gudaboningar, 
 när Surts låga slocknar; 
@@ -411,7 +512,9 @@ Mode och Magne
 skola Mjollner hava, 
 då Vingners strid har stannat.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 52. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -419,7 +522,9 @@ Vad blir Oden
 till undergång, 
 då alla gudar förgås?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 53. »Ulven skall sluka 
 Aldafader, 
 men honom skall Vidar hämna; 
@@ -427,7 +532,9 @@ kalla käftar
 han klyva skall 
 på vargen i stridens stund.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 54. »Mycket for jag, 
 mycket jag frestade, 
 mycket jag makterna prövat. 
@@ -435,7 +542,9 @@ Vad sade Oden
 i sonens öra, 
 innan denne å bålet bars?»
 
-Vavtrudner sade: 
+Vavtrudner sade:
+
+[verse]
 55. »Ingen vet, 
 vad du i urtiden 
 sade i örat på sonen. 

@@ -6,6 +6,7 @@ Efter denna saga är detta kväde.
 .Heimdall
 image::ed0022.jpg[]
 
+[verse]
 1. En gång gå man sade 
 på gröna vägar 
 en kraftfull, åldrig, 
@@ -13,6 +14,7 @@ kunnig asagud;
 den raske, starke 
 Rig kom stigande.
 
+[verse]
 2. Han vandrade vidare 
 på vägens mitt, 
 han kom till ett hus, 
@@ -24,6 +26,7 @@ med håren grå:
 Ae och Edda 
 med åldrigt huckle.
 
+[verse]
 3. Rig kunde dem 
 råd säga, 
 sedan på bänken 
@@ -31,6 +34,7 @@ han satte sig mittpå,
 och på vardera sidan 
 salens hjon.
 
+[verse]
 4. Då tog Edda 
 en degig bulle, 
 tung och tjock, 
@@ -42,6 +46,7 @@ som på bordet hon satte,
 en kalv var kokt 
 av kräsligheter ypperst.
 
+[verse]
 5. Rig kunde dem 
 råd säga; 
 han reste sig upp 
@@ -51,6 +56,7 @@ i sängens mitt,
 men på vardera sidan 
 salens hjon.
 
+[verse]
 6. Där han dröjde 
 i dagar tre, 
 gick därpå vidare 
@@ -58,12 +64,14 @@ på vägens mitt,
 ledo medan 
 månader nio.
 
+[verse]
 7. Ett barn fick Edda, 
 som östes med vatten 
 - - - - - - 
 i lin den svarte (klädde), 
 kallade honom Träl.
 
+[verse]
 8. Han tog att växa 
 och väl trivas, 
 på händerna var 
@@ -75,6 +83,7 @@ fult var ansiktet,
 lutande ryggen 
 och långa hälarne.
 
+[verse]
 9. Han började sedan 
 försöka sin kraft, 
 binda bast 
@@ -82,6 +91,7 @@ och bördor göra,
 och drog hem ris 
 dagen i ända.
 
+[verse]
 10. Där kom till gården 
 krokbenta mön, 
 hade ärr under foten, 
@@ -89,6 +99,7 @@ armen solbränd,
 nedböjd är näsan, 
 hon nämndes Trälinna.
 
+[verse]
 11. Mitt på bänken 
 sig mön satte, 
 hos henne satt 
@@ -98,6 +109,7 @@ vilade i säng,
 Träl och Trälinna, 
 under tunga dagar.
 
+[verse]
 12. Barn de födde, 
 bodde nöjda. 
 Följande voro namnen: 
@@ -113,6 +125,7 @@ gödde svin,
 vallade getter, 
 gingo på torvtäkt.
 
+[verse]
 13. Döttrar funnos där: 
 Drumba och Kumba, 
 Ökkvenkalva 
@@ -124,6 +137,7 @@ och Tronubeina;
 upphov till trälars 
 ätter de äro.
 
+[verse]
 14. Rig gick därpå 
 raka vägen, 
 kom till en hall, 
@@ -133,6 +147,7 @@ eld var på golvet,
 satt där ett äkta par, 
 sysslorna skötte.
 
+[verse]
 15. Mannen täljde 
 trä till vävbom, 
 skägget han hyfsat, 
@@ -140,6 +155,7 @@ håret låg i pannan,
 glatt satt skjortan; 
 på golvet var en kista.
 
+[verse]
 16. Hustrun satt där, 
 svängde spinnrocken, 
 bredde famnen för sländan, 
@@ -151,6 +167,7 @@ duk var på halsen,
 Ave och Amma 
 ägde huset.
 
+[verse]
 17. Rig kunde dem 
 råd säga; 
 sedan han på bänken 
@@ -158,6 +175,7 @@ satte sig mittpå
 och på vardera sidan 
 salens hjon.
 
+[verse]
 18. Då tog Amma etc. 
 en degig bulle, 
 tung och tjock, 
@@ -169,6 +187,7 @@ som på bordet hon satte,
 en kalv var kokt 
 av kräsligheter ypperst.
 
+[verse]
 19. [Rig kunde dem 
 råd säga], 
 reste sig från bordet, 
@@ -178,6 +197,7 @@ i sängens mitt,
 men på vardera sidan 
 salens hjon.
 
+[verse]
 20. Där han dröjde 
 i dagar tre, 
 [gick därpå vidare 
@@ -185,6 +205,7 @@ på vägens mitt],
 ledo medan 
 månader nio.
 
+[verse]
 21. Ett barn fick Amma, 
 som östes med vatten, 
 de kallade det Karl; 
@@ -192,6 +213,7 @@ i kläde han lindades,
 hår och hy voro rödlätta, 
 rappa hans ögon.
 
+[verse]
 22. Han tog till att växa 
 och väl trivas, 
 oxar han tämde, 
@@ -201,6 +223,7 @@ och hopsatte lador,
 gjorde kärror 
 och körde plog.
 
+[verse]
 23. Hem förde de mön 
 med hängande nycklar 
 och getskinnskjortel 
@@ -212,6 +235,7 @@ håvor utdelade,
 bäddade säng 
 och bo satte.
 
+[verse]
 24. Barn de födde, 
 bodde nöjda. 
 De hette Hal och Dräng, 
@@ -221,6 +245,7 @@ Bundinskegge,
 Bue och Bodde, 
 Brattskegg och Segg.
 
+[verse]
 25. Dessa namn vidare 
 döttrarna hade: 
 Snot, Brud, Svanne, 
@@ -230,6 +255,7 @@ Feima, Ristil.
 Början det var 
 till böndernas ätter.
 
+[verse]
 26. Rig gick därpå 
 raka vägen, 
 han kom till en sal, 
@@ -237,6 +263,7 @@ han kom till en sal,
 dörren var öppen, 
 vid dörrkarmen ringen.
 
+[verse]
 27. Så in han steg, 
 strött var golvet; 
 makarne sutto där 
@@ -244,6 +271,7 @@ och sågo på varandra,
 Fader och Moder, 
 och med fingrarne lekte.
 
+[verse]
 28. Husfadern satt 
 och snodde bågsträng, 
 pilbågen krökte 
@@ -253,6 +281,7 @@ ihågkom på sig,
 strök linnet, 
 stärkte ärmarna.
 
+[verse]
 29. Satte duk högt på huvudet, 
 hängsmycke på bröstet. 
 Blått sirat var linnet 
@@ -262,6 +291,7 @@ bröstet ljusare,
 halsen vitare 
 än vitaste snö.
 
+[verse]
 30. Rig kunde dem 
 råd säga; 
 sedan han på bänken 
@@ -269,6 +299,7 @@ satte sig mittpå
 och på vardera sidan 
 salens hjon.
 
+[verse]
 31. Då tog Moder 
 en märkt duk, 
 vit av lin, 
@@ -278,6 +309,7 @@ tunna kakor
 och lade dem, vita 
 av vete, på duken.
 
+[verse]
 32. Fulla fat 
 fram hon satte, 
 silverbeslagna, 
@@ -292,6 +324,7 @@ dagen gick till ända.
 .Heimdall
 image::ed0023.jpg[]
 
+[verse]
 33. Rig kunde dem 
 råd säga, 
 reste sig därpå, 
@@ -303,6 +336,7 @@ på vägens mitt,
 ledo medan 
 månader nio.
 
+[verse]
 34. En son födde Moder 
 och i siden lindade; 
 på honom vatten de göto, 
@@ -312,6 +346,7 @@ blomstrande kinderna,
 ögonen skarpa 
 som på ormyngel.
 
+[verse]
 35. Upp där växte 
 den unge Jarl, 
 sköld han bar 
@@ -325,6 +360,7 @@ och på hästar red,
 svängde svärd 
 och simning övade.
 
+[verse]
 36. Kom då ur risbuskar 
 Rig gående, 
 Rig gående, 
@@ -336,6 +372,7 @@ odalmarkerna,
 odalmarkerna, 
 de urgamla bygder.
 
+[verse]
 37. Jarl red sedan 
 över svartan skog, 
 över frostiga fjäll 
@@ -349,6 +386,7 @@ och valplats blotade,
 stridsmän han fällde 
 och stred för landvinning.
 
+[verse]
 38. Därpå ensam han rådde 
 över aderton gårdar, 
 gods han skiftade. 
@@ -358,6 +396,7 @@ och smärta hästar,
 slösade ringar, 
 högg sönder guldten.
 
+[verse]
 39. Sändemän på våta 
 vägar åkte, 
 kommo till den hall, 
@@ -367,6 +406,7 @@ med mjuka fingrar,
 ljuslätt och klok, 
 kallad Erna.
 
+[verse]
 40. Till henne de friade 
 och hem henne förde, 
 gifte henne med Jarl, 
@@ -376,6 +416,7 @@ och lycka njöto,
 fostrade ättlingar, 
 fröjdades åt livet.
 
+[verse]
 41. Bur var den äldste, 
 och Barn den andre, 
 Jod och Adal, 
@@ -387,6 +428,7 @@ simning och brädspel;
 Kund hette en, 
 Kon var den yngste.
 
+[verse]
 42. Jarls arvingar 
 upp där växte, 
 redo in hästar, 
@@ -394,6 +436,7 @@ rundade sköldar,
 skavde pilar 
 och skakade spjut.
 
+[verse]
 43. Men Kon den unge 
 kunde runor, 
 livsrunor 
@@ -403,6 +446,7 @@ att människor frälsa,
 döva eggar 
 och dämpa hav.
 
+[verse]
 44. Fåglars låt han lärde, 
 lågor att släcka, 
 sorger att söva, 
@@ -410,6 +454,7 @@ sinnen att stilla,
 hade åtta karlars 
 kraft och styrka.
 
+[verse]
 45. Han med Rig Jarl 
 i runor tävlade, 
 konstgrepp brukade 
@@ -419,11 +464,13 @@ och vann åt sig
 att heta Rig 
 och runor kunna.
 
+[verse]
 46. Kon den unge red käckt 
 genom kärr och skogar, 
 lät trubbig pil flyga, 
 fåglar lockade
 
+[verse]
 47. Då sade kråkan, 
 på kvisten satt ensam: 
 »Vi sätter du, Kon unge, 
@@ -433,6 +480,7 @@ hästar rida,
 [hugga med svärd] 
 och här fälla.
 
+[verse]
 48. Dan och Damp 
 äga dyrbara salar, 
 yppare odal, 

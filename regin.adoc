@@ -1,8 +1,19 @@
 = Sången om Regin
 
-Sigurd gick till Hjalpreks hästhjord och valde sig därav en häst, som sedan kallades Grane. Då hade Regin, Reidmars son, kommit till Hjalprek; han var händigare än varje annan och dvärg till växten; han var klok, grym och trollkunnig. Regin gav Sigurd uppfostran och undervisning och tyckte mycket om honom. Han sade Sigurd om sina föräldrar och hur det hänt sig, att Oden och Höner och Loke hade kommit till Andvarafors; i den forsen var en stor hop fiskar. En dvärg hette Andvare; han var länge i forsen i en gäddas skepnad och skaffade sig mat. Otr (utter) hette vår broder, sade Regin, och han gick ofta i forsen i en utters skepnad; han hade tagit en lax och satt på åstranden och åt den blundande. Loke kastade en sten på honom, så att han dog; asarne tyckte sig hava haft mycken lycka och flådde skinnet av uttern. Samma kväll sökte de att få gästa hos Reidmar och visade sitt jaktbyte. Då togo vi dem till fånga och ålade dem för att lösa sitt liv att fylla utterskinnet med guld och hölja det utanpå också med rött guld. Då sände de Loke att skaffa guldet; han gick till Ran och fick hennes nät och begav sig därpa till Andvarafors och kastade nätet för gäddan, men hon lopp i nätet.
+Sigurd gick till Hjalpreks hästhjord och valde sig därav en häst, som sedan kallades Grane.
+Då hade Regin, Reidmars son, kommit till Hjalprek; han var händigare än varje annan och dvärg till växten; han var klok, grym och trollkunnig.
+Regin gav Sigurd uppfostran och undervisning och tyckte mycket om honom.
+Han sade Sigurd om sina föräldrar och hur det hänt sig, att Oden och Höner och Loke hade kommit till Andvarafors; i den forsen var en stor hop fiskar.
+En dvärg hette Andvare; han var länge i forsen i en gäddas skepnad och skaffade sig mat.
+Otr (utter) hette vår broder, sade Regin, och han gick ofta i forsen i en utters skepnad; han hade tagit en lax och satt på åstranden och åt den blundande.
+Loke kastade en sten på honom, så att han dog; asarne tyckte sig hava haft mycken lycka och flådde skinnet av uttern.
+Samma kväll sökte de att få gästa hos Reidmar och visade sitt jaktbyte.
+Då togo vi dem till fånga och ålade dem för att lösa sitt liv att fylla utterskinnet med guld och hölja det utanpå också med rött guld.
+Då sände de Loke att skaffa guldet; han gick till Ran och fick hennes nät och begav sig därpa till Andvarafors och kastade nätet för gäddan, men hon lopp i nätet.
 
 Då sade Loke: 
+
+[verse]
 1. »Vad är det för fisk, 
 som i floden ränner, 
 kan sig ej för fara frälsa. 
@@ -10,7 +21,9 @@ Lös du ditt huvud
 ur Hels våld, 
 skaffa mig guldets glans!»
 
-Gäddan sade: 
+Gäddan sade:
+
+[verse]
 2. »Andvare heter jag, 
 Oin hette min fader, 
 i mången fors jag farit; 
@@ -18,7 +31,9 @@ en olycklig norna
 i urtid bestämde, 
 att jag skulle i vattnet vada.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 3. »Säg du, Andvare, 
 om du äga vill 
 ditt liv i de levandes salar! 
@@ -26,7 +41,9 @@ Vad straff möter
 människors söner 
 om med ord de ömsesidigt såra?»
 
-Andvare sade: 
+Andvare sade:
+
+[verse]
 4. »Mycken vedergällning 
 få människors söner, 
 som i Vadgelmer vada. 
@@ -34,8 +51,10 @@ Från de osanna ord,
 som på en annan man ljuger, 
 gå grenarna ganska långt.»
 
-Loke såg allt det guld! som Andvare ägde, men då han hade lämnat fram guldet, så hade han kvar en ring, och den tog Loke av honom. Dvärgen gick in i stenen och sade:
+Loke såg allt det guld! som Andvare ägde, men då han hade lämnat fram guldet, så hade han kvar en ring, och den tog Loke av honom.
+Dvärgen gick in i stenen och sade:
 
+[verse]
 5. »Detta guld 
 som Gust hade, 
 skall tvänne bröder 
@@ -45,9 +64,13 @@ egga till strid;
 ingen människa skall 
 av mitt gods njuta.»
 
-Asarne betalade Reidmar pengarne och stoppade upp utterskinnet och reste det på fötter; därpå skulle asarne stapla upp guldet och hölja. Men när det var gjort, gick Reidmar fram och såg ett morrhår och bad dem hölja. Da drog Oden fram ringen Andvaranaut och höljde håret.
+Asarne betalade Reidmar pengarne och stoppade upp utterskinnet och reste det på fötter; därpå skulle asarne stapla upp guldet och hölja.
+Men när det var gjort, gick Reidmar fram och såg ett morrhår och bad dem hölja.
+Da drog Oden fram ringen Andvaranaut och höljde håret.
 
 Då sade Loke: 
+
+[verse]
 6. »Guld är dig nu givet, 
 och gäldat är dig 
 mycket för mitt huvud. 
@@ -55,7 +78,9 @@ mycket för mitt huvud.
 sällhet bestämd, 
 det varder bådas eder bane.»
 
-Reidmar sade: 
+Reidmar sade:
+
+[verse]
 7. »Gåvor du gav, 
 du gav ej vängåvor, 
 du gav ej av gott hjärta. 
@@ -63,7 +88,9 @@ Ert liv I skullen
 förlora fått, 
 om jag anat er olycksspådom.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 8. »Än värre är 
 - det veta jag tror mig - 
 den fränders fejd, som hotar. 
@@ -71,7 +98,9 @@ De furstar tror jag
 ej födda ännu, 
 som till oenighet det är ämnat.»
 
-Reidmar sade: 
+Reidmar sade:
+
+[verse]
 9. »Över röda guldet 
 tror jag mig råda skola, 
 så länge som jag lever. 
@@ -79,18 +108,25 @@ För ditt hot
 ej ett dugg jag rädes. 
 Hallen nu hem härifrån!»
 
-Favner och Regin krävde Reidmar på frändeböter efter sin broder Otr. Han sade nej därtill, och Favner stack igenom sin fader Reidmar med svärdet, medan han sov. Reidmar ropade då på sina döttrar:
+Favner och Regin krävde Reidmar på frändeböter efter sin broder Otr.
+Han sade nej därtill, och Favner stack igenom sin fader Reidmar med svärdet, medan han sov.
+Reidmar ropade då på sina döttrar:
 
+[verse]
 10. »Lyngheid och Lovnheid, 
 veten, livet mitt är ute! 
 Mycket är, vartill tvång tvingar.»
 
-Lyngheid sade: 
+Lyngheid sade:
+
+[verse]
 »Få systrar torde, 
 fast fadern mistats, 
 hämnas på broder sin harm.»
 
-Reidmar sade: 
+Reidmar sade:
+
+[verse]
 11. »En dotter dock föd, 
 du dis med ulvahåg, 
 om ej du får 
@@ -100,9 +136,12 @@ då så mycken är nöden,
 då skall hennes son 
 hämnas din sorg.»
 
-Favner tog allt guldet. Då bad Regin att få sitt fadersarv, men Favner sade nej därtill. Då sökte Regin råd av Lyngheid, sin syster, hur han skulle få ut sitt fadersarv.
+Favner tog allt guldet. Då bad Regin att få sitt fadersarv, men Favner sade nej därtill.
+Då sökte Regin råd av Lyngheid, sin syster, hur han skulle få ut sitt fadersarv.
 
-Hon sade: 
+Hon sade:
+
+[verse]
 12. »Med blidhet din broder 
 du bedja skall 
 om arv och huldare håg. 
@@ -110,9 +149,12 @@ Ej synes det rätt,
 att med svärdet du skall 
 fordra av Favner gods.»
 
-Dessa ting sade Regin för Sigurd. En dag då han kom till Regins hus, blev han väl emottagen.
+Dessa ting sade Regin för Sigurd.
+En dag då han kom till Regins hus, blev han väl emottagen.
 
-Regin sade: 
+Regin sade:
+
+[verse]
 13. »Hit är Sigmunds 
 son kommen, 
 snabbtänkt sven, 
@@ -122,6 +164,7 @@ Mod har han mera
 av vilde vargen 
 väntar jag rov.
 
+[verse]
 14. Stridsdjärve fursten 
 fostra jag skall, 
 nu är Yngves ättling 
@@ -134,8 +177,11 @@ kring alla land.»
 .Sigurd
 image::ed0032.jpg[]
 
-Sigurd var sedan ständigt hos Regin, och han sade Sigurd, att Favner låg på Gnitaheden och var i en orms skepnad. Han hade en skräckhjälm, som allt levande räddes för. Regin gjorde åt Sigurd ett svärd, som hette Gram; det var så vasst, att han stack ned det i Ren och lät en ulltapp driva för strömmen, och det skar igenom ulltappen liksom vattnet. Med detta svärd klöv Sigurd sönder Regins städ. Därefter eggade Regin Sigurd att döda Favner, men han sade:
+Sigurd var sedan ständigt hos Regin, och han sade Sigurd, att Favner låg på Gnitaheden och var i en orms skepnad. Han hade en skräckhjälm, som allt levande räddes för.
+Regin gjorde åt Sigurd ett svärd, som hette Gram; det var så vasst, att han stack ned det i Ren och lät en ulltapp driva för strömmen, och det skar igenom ulltappen liksom vattnet.
+Med detta svärd klöv Sigurd sönder Regins städ. Därefter eggade Regin Sigurd att döda Favner, men han sade:
 
+[verse]
 15. »Hundings söner 
 högt skola skratta, 
 de som ändade 
@@ -145,8 +191,11 @@ manas att söka
 fagra ringar 
 än fadershämnd.»
 
-Konung Hjalprek gav Sigurd skepp och folk för att hämna sin fader. De fingo en stor storm och kryssade framför en bergsudde. En man stod på berget och sade:
+Konung Hjalprek gav Sigurd skepp och folk för att hämna sin fader.
+De fingo en stor storm och kryssade framför en bergsudde.
+En man stod på berget och sade:
 
+[verse]
 16. »Vilka rida där 
 med Rävils hästar 
 på höga böljor, 
@@ -156,7 +205,9 @@ svallet sprutar;
 mot vinden skola ej 
 vågfålar stå sig.»
 
-Regin sade: 
+Regin sade:
+
+[verse]
 17. »Här är Sigurd och jag 
 på simmande plankor, 
 by är oss given 
@@ -166,7 +217,9 @@ störtsjön bryter,
 fartygen sjunka. 
 Vem frågar oss därom?»
 
-Mannen sade: 
+Mannen sade:
+
+[verse]
 18. »Jag kallades Nikar, 
 då jag korpen gladde, 
 volsung unge, 
@@ -178,7 +231,9 @@ eder följa vill jag få.»
 
 De lade då i land, karlen gick ombord, och då lade sig stormen.
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 19. »Säg mig, Nikar, 
 då således gudars 
 och människors varsel du vet! 
@@ -186,7 +241,9 @@ Vilka varsel vittna,
 då man väntar strid, 
 bäst vid svärdens svingning?»
 
-Nikar sade: 
+Nikar sade:
+
+[verse]
 20. »Många äro goda, 
 om människor dem visste, 
 varsel vid svärdens svingning. 
@@ -194,6 +251,7 @@ Pålitligt sällskap
 tror jag svarte korpen 
 vara för väpnad man.
 
+[verse]
 21. Ett annat är, 
 om ut du kommit 
 och färdig är att fara, 
@@ -201,6 +259,7 @@ du ser tvänne
 tappra män 
 stå tätt utanför stugan.
 
+[verse]
 22. Ett tredje det är, 
 om det träffar in, 
 att ulv under askgrenar tjuter; 
@@ -208,6 +267,7 @@ att ulv under askgrenar tjuter;
 ges dig varsel om seger, 
 om först du ser deras färd.
 
+[verse]
 23. Ingen skall kämpa 
 med ansiktet vänt 
 mot månens syster, 
@@ -217,6 +277,7 @@ som se kunna,
 de käcka kämpar, 
 eller kilformigt fylka.
 
+[verse]
 24. Det är mycket farligt, 
 om med foten du snavar, 
 när du till valplats vandrar; 
@@ -224,6 +285,7 @@ då stå på båda sidor
 svekfulla diser 
 och vilja dig sårad se.
 
+[verse]
 25. Kammad och tvagen 
 var klok skall vara 
 och på morgonen mätt, 
@@ -231,8 +293,10 @@ ty ovisst är,
 var till afton han kommer; 
 illa är av järtecken gäckas.»
 
-Sigurd hade en stor strid med Lyngve, Hundings son, och hans bröder; där föll Lyngve och hans två bröder. Efter striden sade Regin:
+Sigurd hade en stor strid med Lyngve, Hundings son, och hans bröder; där föll Lyngve och hans två bröder.
+Efter striden sade Regin:
 
+[verse]
 26. »Nu är blodig örn 
 med bitande svärd 
 på ryggen av Sigmunds 

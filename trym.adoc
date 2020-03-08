@@ -1,5 +1,6 @@
 = Kvädet om Trym
 
+[verse]
 1. Vred var Ving-Tor, 
 när han vaknade, 
 och sin hammare 
@@ -9,6 +10,7 @@ han ruskade sitt hår;
 Jordens son 
 satt och trevade.
 
+[verse]
 2. Det första ord, 
 han fällde, var detta: 
 »Hör nu, Loke, 
@@ -18,6 +20,7 @@ vare sig på jorden
 eller i höga himlen: 
 hammarn från asaguden stulits.»
 
+[verse]
 3. De gingo till Frejas 
 fagra gårdar, 
 och det första ord, 
@@ -28,11 +31,14 @@ om jag min hammare
 hitta kunde?»
 
 Freja sade: 
+
+[verse]
 4. »Jag gåve den dig ock, 
 fast av guld den vore, 
 satte i din hand, 
 fast den vore av silver.»
 
+[verse]
 5. Loke flög då, 
 fjäderhamnen ven, 
 tills han kom utanför 
@@ -40,6 +46,7 @@ asars gårdar
 och jagade in 
 i jättars bygder.
 
+[verse]
 6. Trym satt å högen, 
 tursadrotten, 
 snodde tränsar av guld 
@@ -48,17 +55,24 @@ och manen jämnade
 på manken av hästarna.
 
 Trym sade: 
+
+[verse]
 7. »Hur är det med asar? 
 Hur är det med alfer? 
 Vi har ensam du givit dig 
 in i jättebygderna?» 
+
 Loke sade: 
+
+[verse]
 »Illa är med asar, 
 illa är med alfer. 
 Håller du Lorrides 
 hammare gömd?»
 
 Trym sade: 
+
+[verse]
 8. »Jag håller Lorrides 
 hammare gömd 
 åtta mil 
@@ -68,6 +82,7 @@ Ingen densamma
 om ej Freja till mig 
 han för som hustru.»
 
+[verse]
 9. Loke då flög, 
 fjäderhamnen ven, 
 tills han jagade ut 
@@ -79,6 +94,7 @@ mitt på gården,
 och det första ord, 
 han fällde, var detta:
 
+[verse]
 10. »Har målet du nått, 
 såsom möda du haft? 
 Säg i luften 
@@ -89,6 +105,8 @@ och den liggande
 med lögn kommer.»
 
 Loke sade: 
+
+[verse]
 11. »Målet jag nått 
 och möda jag haft. 
 Trym har din hammare, 
@@ -98,6 +116,7 @@ Ingen densamma
 om ej Freja till honom 
 han för som hustru.»
 
+[verse]
 12. De gå att den fagra 
 Freja träffa, 
 och det första ord, 
@@ -107,6 +126,7 @@ i brudelin;
 vi två skola åka 
 till tursarnes värld.»
 
+[verse]
 13. Vred vart då Freja 
 och fnyste av harm; 
 hela asasalen 
@@ -118,6 +138,7 @@ månde jag vara,
 om jag med dig åker 
 till jättarnes bygder.»
 
+[verse]
 14. Tillsammans voro alla 
 asar på tinget 
 och asynjorna alla 
@@ -127,6 +148,7 @@ mäktiga gudar,
 huru Lorrides hammare 
 de hämta skulle.
 
+[verse]
 15. Då yttrade Heimdall, 
 av asar den vitaste, - 
 han visste väl framtiden 
@@ -136,6 +158,7 @@ brudelin;
 bäre han det stora 
 brisingasmycket!
 
+[verse]
 16. Ned från midjan 
 låtom nycklar skramla 
 och kvinnokläder 
@@ -145,6 +168,7 @@ breda stenar,
 och händigt vi skola 
 hans huvud pryda.»
 
+[verse]
 17. Då yttrade Tor, 
 asen den starke: 
 »Mig skola asarne 
@@ -152,6 +176,7 @@ omanlig kalla,
 om mig binda jag lät 
 i brudelin.»
 
+[verse]
 18. Då sade Loke, 
 Lauveys son: 
 »Tig du, Tor, 
@@ -163,6 +188,7 @@ du hämtar ej åter.»
 
 image::ed0019.jpg[]
 
+[verse]
 19. De bundo på Tor då 
 brudelin 
 och det bålstora 
@@ -176,6 +202,7 @@ breda stenar
 och händigt de 
 hans huvud prydde.
 
+[verse]
 20. Då sade Loke, 
 Lauveys son: 
 »Jag skall som tärna 
@@ -183,6 +210,7 @@ träda i din tjänst;
 vi två skola åka 
 till tursarnes värld.»
 
+[verse]
 21. Hemåt blevo bockarne 
 båda drivna, 
 spända i skacklar, 
@@ -192,6 +220,7 @@ brann jorden i lågor;
 till Jotunheim åkte 
 Odens son.
 
+[verse]
 22. Då sade Trym, 
 tursarnes drott: 
 »Stån jättar, upp, 
@@ -201,6 +230,7 @@ Freja som hustru,
 Njords dotter 
 från Noatun!
 
+[verse]
 23. Här gå på gården 
 guldhornade kor, 
 helsvarta oxar 
@@ -210,6 +240,7 @@ smiden har jag många
 Freja ensam 
 ägde jag icke.»
 
+[verse]
 24. Snart till kvällen 
 det kommet var, 
 och öl blev buret 
@@ -221,6 +252,7 @@ bekomma skulle,
 Sivs man drack 
 tre såar öl.
 
+[verse]
 25. Då sade Trym, 
 tursarnes drott: 
 »Var såg du brudar 
@@ -230,6 +262,7 @@ bita bredare
 eller mer mjöd 
 en mö dricka.»
 
+[verse]
 26. Men den sluga tärnan 
 satt framför dem 
 och genmäle hittade 
@@ -239,6 +272,7 @@ på åtta dagar,
 så gärna hon ville 
 till jättarnes bygder.»
 
+[verse]
 27. Han lutade sig under linklädet, 
 lysten att kyssa, 
 men for tillbaka 
@@ -248,6 +282,7 @@ så fruktansvärda?
 Mig tycktes, att eld 
 ur ögonen brinner.»
 
+[verse]
 28. Men den sluga tärnan 
 satt framför dem 
 och genmäle hittade 
@@ -257,6 +292,7 @@ på åtta nätter,
 så gärna hon ville 
 till jättarnes bygder.»
 
+[verse]
 29. In kom jättarnes 
 arma syster 
 och brudgåva 
@@ -268,6 +304,7 @@ vänskap av mig,
 vänskap av mig 
 och välvilja all!»
 
+[verse]
 30. Då sade Trym, 
 tursarnes drott: 
 »Bären hammaren in 
@@ -277,6 +314,7 @@ i möns knä!
 Vigen oss tillsammans 
 med Vars hand!»
 
+[verse]
 31. På Lorride hjärtat 
 log i bröstet, 
 när, hård till sinnes, 
@@ -286,6 +324,7 @@ tursarnes drott,
 och all jättens 
 ätt han lamslog.
 
+[verse]
 32. Han ihjälslog den åldriga 
 jättarnes syster, 
 henne, som brudgåva 

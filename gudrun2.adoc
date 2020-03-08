@@ -3,6 +3,7 @@
 Konung Tjodrek var hos Atle och hade där mist nästan alla sina män.
 Tjodrek och Gudrun klagade för varandra sina sorger; hon talade till honom och sade:
 
+[verse]
 1. »Jag var flicka bland flickor, 
 fostrad av min moder, 
 ljuslätt i jungfrubur, 
@@ -12,6 +13,7 @@ guld mig skänkte,
 guld mig skänkte 
 och gav mig åt Sigurd.
 
+[verse]
 2. Så var Sigurd 
 över sönerna till Gjuke, 
 som grön vitlök 
@@ -21,6 +23,7 @@ som högbent hjort
 eller glödrött guld 
 över grått silver.
 
+[verse]
 3. Tills mina bröder 
 mig ej unnade, 
 att en man jag hade, 
@@ -30,6 +33,7 @@ eller saker döma,
 förrn Sigurd de låtit 
 slå ihjäl.
 
+[verse]
 4. Grane sprang till tinget, 
 gny var att höra, 
 men Sigurd själv 
@@ -39,6 +43,7 @@ av svett skummande,
 hade dryg möda 
 med dråparne på ryggen.
 
+[verse]
 5. Gråtande gick jag 
 att med Grane tala, 
 med fuktiga kinder 
@@ -48,11 +53,13 @@ sänkte huvudet i gräset;
 hästen visste, 
 att hans herre ej levde.
 
+[verse]
 6. Länge jag tvekade, 
 länge var jag tvehågse, 
 förrn om fursten jag frågade 
 folkets styresman.
 
+[verse]
 7. Gunnar hängde huvudet, 
 men Hogne mig sade 
 om Sigurds 
@@ -62,6 +69,7 @@ på hinsidan vattnet
 Guttorms baneman 
 ett byte för ulvar.
 
+[verse]
 8. Se där Sigurd 
 i söderled! 
 Då kommer du att höra 
@@ -71,6 +79,7 @@ korpar kraxa,
 vargar tjuta 
 vid kärestan din.»
 
+[verse]
 9. »Varför, Hogne, 
 vill du mig säga 
 sådan sorg, 
@@ -80,6 +89,7 @@ ur kroppen slita
 över vida land! 
 Du värst är av män!»
 
+[verse]
 10. Då svarade Hogne 
 så en gång, 
 trög till godsinthet, 
@@ -89,6 +99,7 @@ att gråta mera,
 om korpar mitt hjärta 
 ur kroppen slita.»
 
+[verse]
 11. Ensam gick jag bort 
 från ordskiftet, 
 att på skogen samla upp 
@@ -100,6 +111,7 @@ som kvinnor göra,
 då jag satt i sorg 
 vid Sigurds lik.
 
+[verse]
 12. Natten så mörk 
 som i nedan mig tycktes, 
 då i sorg jag satt 
@@ -111,11 +123,13 @@ livet mista
 och man mig brände 
 som björkens ved.
 
+[verse]
 13. Från fjället jag färdades 
 fem hela dagar, 
 tills Halvs höga 
 hall jag varsnade.
 
+[verse]
 14. Sju halva år 
 jag höll mig hos Tora, 
 dotter till Hakon, 
@@ -125,6 +139,7 @@ i guld hon sydde
 sydländska salar 
 och svanor danska.
 
+[verse]
 15. Vi virkade på väven 
 vapenlekar, 
 på konstrikt arbete 
@@ -134,6 +149,7 @@ rustade kämpar,
 svärdsflock, hjälmflock 
 hjältens följe.
 
+[verse]
 16. Sigmunds fartyg 
 foro från land, 
 med gyllene stävbild 
@@ -143,6 +159,7 @@ de strider de hade,
 Sigar och Siggeir 
 söderut på Five.
 
+[verse]
 17. Då frågade Grimhild, 
 gotiska kvinnan, 
 hurudan Tora 
@@ -156,6 +173,7 @@ för sonen bota
 eller vedergälla makan 
 för mannens dråp.
 
+[verse]
 18. Gunnar var villig 
 att guld bjuda 
 för att böta för brottet; 
@@ -169,6 +187,7 @@ och hök låta flyga,
 att avsända pil 
 från idegransbåge.
 
+[verse]
 19. Valdar for till danskarna 
 jämte Jaritsleiv 
 Eymod den tredje 
@@ -182,6 +201,7 @@ kupiga hjälmar,
 vid bältet svärd 
 och brunt var håret.
 
+[verse]
 20. Envar mig ville 
 juveler skänka, 
 juveler skänka, 
@@ -191,6 +211,7 @@ många sorger
 tillgift vinna; 
 jag trodde dem icke.
 
+[verse]
 21. Grimhild bjöd mig 
 bägare att dricka, 
 sval och bitter, 
@@ -200,6 +221,7 @@ var kommen av jord,
 av sval, kall sjö 
 och svinets blod.
 
+[verse]
 22. Där voro i hornet 
 varjehanda stavar, 
 ristade och rödfärgade, 
@@ -209,6 +231,7 @@ oskuret ax
 från sjökonungs land, 
 led inom dörr.
 
+[verse]
 23. I ölet var 
 mycket ont tillsamman, 
 blad från all skogen 
@@ -218,6 +241,7 @@ offrade inälvor,
 kokt svinlever, 
 som klagomål dövar.
 
+[verse]
 24. Att förgäta jag gick, 
 som de gissat hade, 
 av ölet i salen 
@@ -228,6 +252,8 @@ innan hon sökte
 samtal med mig själv.
 
 Grimhild sade: 
+
+[verse]
 25. »Jag giver dig, Gudrun, 
 guld till skänks 
 och en dryg del gods 
@@ -237,6 +263,7 @@ Lodvers salar,
 allt sängomhänget 
 efter slagne fursten.
 
+[verse]
 26. Hunska möar, 
 som handhava vävstol 
 och göra guldväv så fager, 
@@ -246,6 +273,7 @@ Ensam skall du bjuda
 i gyllene prydnad 
 och given åt Atle.»
 
+[verse]
 27. »Jag önskar icke 
 äkta en man 
 och vill ej Brynhilds 
@@ -256,6 +284,8 @@ att med Budles son
 och åtnjuta lycka.»
 
 Grimhild sade: 
+
+[verse]
 28. »Bry dig ej, att hämnd 
 på hövdingar söka, 
 därför att vi 
@@ -265,6 +295,7 @@ som om båda levde,
 Sigurd och Sigmund, 
 om söner du föder.»
 
+[verse]
 29. »Ej kan jag, Grimhild, 
 glädje känna 
 eller giva om mig 
@@ -275,6 +306,8 @@ vargen och korpen,
 som voro vid liket.»
 
 Grimhild sade: 
+
+[verse]
 30. »Till ätt av alla 
 den yppersta är han, 
 den furste, jag funnit, 
@@ -284,6 +317,7 @@ tills dig ålderdom besegrar,
 eller sakna man, 
 försmår du honom.»
 
+[verse]
 31. »Bry dig ej du 
 att bjuda ut 
 denna ondskefulla ätt 
@@ -297,6 +331,7 @@ från levnadslustige
 stridens eggare 
 ej stanna jag skall.»
 
+[verse]
 32. Gråtande grep 
 Grimhild det ord, 
 som spådde, att ont 
@@ -305,6 +340,8 @@ hennes båda söner,
 och ej barnen fördärv.
 
 Grimhild sade: 
+
+[verse]
 33. »Mer land jag dig giver 
 och lydande följe: 
 Vinbjorg, Valbjorg, 
@@ -312,6 +349,7 @@ om du vill dem taga.
 Äg dem i ditt liv 
 och var lycklig, dotter!»
 
+[verse]
 34. »Den skall jag kora 
 av konungar 
 och dock nödtvungen få 
@@ -321,6 +359,7 @@ till mycken hugnad,
 ej brödernas bane 
 till barnens skydd.»
 
+[verse]
 35. Snart sågs till häst 
 var hurtig sven, 
 och välska damer 
@@ -332,17 +371,21 @@ vi piskade böljorna,
 trampade torrt land 
 de tredje sju.
 
+[verse]
 36. Den väldiga borgens 
 väktare vid porten 
 grinden öppnade, 
 förrn i gården vi redo.
 
+[verse]
 37. Atle mig väckte, 
 men vara jag kände mig 
 full av hätskhet 
 över frändernas död.
 
 Atle sade: 
+
+[verse]
 38. »Nyss mig sålunda 
 nornorna väckte» 
 - olycksspådom 
@@ -352,6 +395,7 @@ Gjukes dotter,
 hjärtlöst med svärd 
 mig genomstinga.»
 
+[verse]
 39. »Det järtecknar eld, 
 nar om järn man drömmer, 
 något inbilskt och vänligt, 
@@ -362,6 +406,8 @@ läka och lindra,
 fast led du mig är.»
 
 Atle sade: 
+
+[verse]
 40. »Jag tyckte mig på gården 
 se telningar fallna, 
 sådana som jag ville 
@@ -371,6 +417,7 @@ rödfärgade i blod,
 burna fram på bänkarne, 
 bjudna mig att tugga.
 
+[verse]
 41. Jag tyckte av min hand 
 hökar flyga, 
 utan rov, 
@@ -380,6 +427,7 @@ tugga till honung
 med sorgmodigt sinne, 
 svullna av blod.
 
+[verse]
 42. Jag tyckte från min hand 
 hundvalpar lösa, 
 och glädjelöst 
@@ -389,6 +437,7 @@ mig kommo före,
 och jag tyckte mig tvungen 
 att tära liken.»
 
+[verse]
 43. »Det betyder, att män 
 tala om fiskfångst 
 och vrida huvudet 
@@ -399,6 +448,8 @@ ej många nätter
 de mera skola leva.»
 
 Atle sade: 
+
+[verse]
 44. »Jag tyckte sedan jag låg 
 och ej sova ville, 
 styvsint i sängen; 

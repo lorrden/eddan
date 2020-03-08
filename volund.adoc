@@ -15,6 +15,7 @@ Konung Nidud lät taga honom till fånga, såsom här omtalas:
 .De tre valkyriorna vid Ulvsjön
 image::ed0025.jpg[]
 
+[verse]
 1. Möar flögo sunnan 
 Mörkskogen igenom, 
 Allvitr den unga 
@@ -24,6 +25,7 @@ de sköna att vila,
 kvinnor från södern, 
 kostbart lin spunno.
 
+[verse]
 2. Egil slöts 
 av en av dem, 
 en fager mö, 
@@ -35,6 +37,7 @@ slog sin arm
 omkring Volunds 
 vita hals.
 
+[verse]
 3. Sju år sutto de 
 sedan stilla, 
 hela det åttonde 
@@ -46,6 +49,7 @@ till mörkan skog
 - Allvitr den unga - 
 att örlog föra.
 
+[verse]
 4. Hem väderbitne skytten 
 vände från jakten; 
 Slagfinn och Egil 
@@ -60,6 +64,7 @@ efter Svanvit.
 .Volund
 image::ed0026.jpg[]
 
+[verse]
 5. Ensam satt Volund 
 i Ulvdalarne, 
 slog guldet röda 
@@ -71,6 +76,7 @@ väntade han så,
 i hopp, att hon skulle 
 till honom komma.
 
+[verse]
 6. Det spörjer Nidud, 
 njarernas drott, 
 att ensam Volund 
@@ -80,6 +86,7 @@ med nitade brynjor,
 deras sköldar blänkte 
 vid skenet av nedanet.
 
+[verse]
 7. De stego ur sadlarne 
 vid salens gavel 
 gingo därifrån in, 
@@ -89,6 +96,7 @@ bundna ringar,
 sju hundra av alla, 
 som husbonden ägde.
 
+[verse]
 8. De togo dem av, 
 och de trädde dem på, 
 förutom en, 
@@ -98,6 +106,7 @@ väderbitne skytten,
 Volund, vandrande 
 en väg så lång.
 
+[verse]
 9. Han gick att av bruna 
 björnhonan steka, 
 snart den torra 
@@ -105,6 +114,7 @@ tallens ris,
 den vindtorra veden, 
 för Volund brann.
 
+[verse]
 10. På huden av björnen 
 satt härskaren över alfer, 
 räknade ringarne, 
@@ -114,6 +124,7 @@ av Lodvers dotter,
 Allvitr den unga, 
 att hon återkommit.
 
+[verse]
 11. Han satt så länge, 
 att han somnade, 
 i ve och vånda 
@@ -123,12 +134,15 @@ bundna på händerna
 och på fötterna 
 en fjätter spänd.
 
-Volund sade: 
+Volund sade:
+
+[verse]
 12. »Vilka krigare är det, 
 som knöto på mig 
 band av bast 
 och bundo mig?»
 
+[verse]
 13. Nu ropade Nidud, 
 njarernas drott: 
 »Var fick du, Volund, 
@@ -136,22 +150,27 @@ furste för alfer,
 vårt egna guld 
 i Ulvdalarne?
 
+[verse]
 14. Guld fanns där icke 
 på Granes väg, 
 fjärran är vårt land 
 från fjällen vid Ren.»
 
-Volund sade: 
+Volund sade:
+
+[verse]
 »Mera kostbarheter 
 minns jag, att vi ägde, 
 då vi bröder med hustrur 
 ännu hemma voro.
 
+[verse]
 15. Ladgunn och Hervor, 
 av Lodver var hon barn, 
 bekant var Olrun 
 som Kjars dotter.»
 
+[verse]
 16. [Ute står Niduds 
 illsluga drottning, 
 och] in hon gick 
@@ -163,6 +182,7 @@ som föres ur skogen.»
 
 Konung Nidud gav sin dotter Bodvild den guldring, som han tog av bastet hos Volund, men han själv bar svärdet, som Volund ägde och, drottningen sade:
 
+[verse]
 17. "Hans tänder synas, 
 då svärdet visas honom 
 och den ring, som Bodvild 
@@ -178,7 +198,9 @@ Så gjordes, att hans senor skuros av i knävecken och han sattes på en holme, 
 Där förfärdigade han allehanda dyrbarheter åt konungen.
 Ingen människa tordes gå till honom utom konungen allena.
 
-Volund sade: 
+Volund sade:
+
+[verse]
 18. »Jag ser på Nidud 
 ett svärd vid bältet, 
 som jag vässat har, 
@@ -190,11 +212,13 @@ denna blixtrande klinga,
 jag ser den ej buren 
 till smedjan åt Volund.
 
+[verse]
 19. Nu bär Bodvild 
 min bruds 
 röda ringar 
 - rånet ej bötas.»
 
+[verse]
 20. Han satt och sov ej 
 och slog med hammaren, 
 gjorde ganska snart 
@@ -204,6 +228,7 @@ kommo de två unga
 sönerna av Nidad 
 till Sävarstad.
 
+[verse]
 21. De kommo till kistan, 
 krävde nycklarne, 
 uppenbar var ondskan, 
@@ -213,7 +238,9 @@ som för sönerna vistes,
 att rött guld det vore 
 och rikedomar.
 
-Volund sade: 
+Volund sade:
+
+[verse]
 22. »Kom allena, ni två! 
 Kom en annan dag! 
 Som gåva åt eder 
@@ -223,6 +250,7 @@ och folket i salen,
 för ingen människa, 
 att mig ni träffat!»
 
+[verse]
 23. Snart ropade 
 småttingen den andre, 
 broder till broder: 
@@ -232,6 +260,7 @@ krävde nycklarne,
 uppenbar var ondskan 
 när i den de sågo.
 
+[verse]
 24. Gossarnas huvud 
 högg han av 
 och lade benen 
@@ -241,6 +270,7 @@ som under håret voro,
 svepte han i silver 
 och sände till Nidad.
 
+[verse]
 25. Men av ögonen gjorde han 
 ädelstenar, 
 sände dem till Nidads 
@@ -250,6 +280,7 @@ på de två gossarne
 smidde han bröstsmycken 
 och sände till Bodvild.
 
+[verse]
 26. Ringen Bodvild 
 att rosa begynte 
 - - - 
@@ -258,7 +289,9 @@ då hon brutit den sönder:
 »Annat än åt dig 
 jag dristar ej säga det.»
 
-Volund sade: 
+Volund sade:
+
+[verse]
 27. »Bräckan på guldet 
 botar jag så, 
 att din fader 
@@ -268,6 +301,7 @@ mycket bättre
 och dig själv 
 lika skönt också.»
 
+[verse]
 28. Genom öl han henne 
 överlistade, 
 så att hon somnade, 
@@ -277,6 +311,7 @@ vad mig harm har gjort,
 allt utom ett 
 av det ondskefulla.»
 
+[verse]
 29. »Bra», sade Volund, 
 »må på benen jag komma, 
 som Nidads kämpar 
@@ -288,6 +323,7 @@ fick gå från ön,
 sörjde älskarens färd 
 och sin faders vrede.
 
+[verse]
 30. Ute stod Niduds 
 illsluga drottning, 
 och in hon gick 
@@ -297,7 +333,9 @@ han satte sig att vila. -
 »Är du vaken, Nidud, 
 njarernas drott?»
 
-Nidud sade: 
+Nidud sade:
+
+[verse]
 31. »Jag vakar alltid, 
 välbehag saknar, 
 jag sover föga, 
@@ -307,12 +345,15 @@ köld ge dina råd,
 jag vill nu gärna 
 med Volund tala.»
 
+[verse]
 32. »Yppa mig, Volund, 
 alfernas furste, 
 vad blev av blomstrande 
 barnen mina!»
 
-Volund sade: 
+Volund sade:
+
+[verse]
 33. »Först skall du alla 
 eder svärja: 
 vid skeppets bord 
@@ -328,6 +369,7 @@ som I kännen,
 eller i din boning 
 barn jag äger.
 
+[verse]
 34. Gå bort till den smedja, 
 du byggt åt mig, 
 där finner du bälgarne 
@@ -337,6 +379,7 @@ högg jag av
 och lade benen 
 under bälgens vattengrop.
 
+[verse]
 35. Men huvudskålarna, 
 som under håret voro, 
 svepte jag i silver 
@@ -346,6 +389,7 @@ och av ögonen gjorde jag
 sände dem till Nidads 
 sluga drottning.
 
+[verse]
 36. Men av tänderna 
 på de två gossarne 
 smidde jag bröstsmycken 
@@ -355,7 +399,9 @@ ett barn under hjärtat,
 enda dottern 
 till eder båda.»
 
-Nidud sade: 
+Nidud sade:
+
+[verse]
 37. »Ej något du sagt mig, 
 som jag sörjt över mera 
 eller ville, att det värre 
@@ -367,12 +413,15 @@ att här nedifrån dig skjuta,
 där du hänger svävande 
 i högan sky.»
 
+[verse]
 38. Leende Volund 
 i luften sig höjde 
 och kvar, i sorg 
 sänkt, satt Nidud.
 
-Nidud sade: 
+Nidud sade:
+
+[verse]
 39. »Stig upp, Tackrad, 
 min träl den bäste, 
 bed du Bodvild, 
@@ -380,12 +429,15 @@ den bländvita mön,
 gå fagert smyckad 
 med sin fader att tala.»
 
+[verse]
 40. »Är det sant, Bodvild, 
 som de sagt till mig? 
 Var du på holmen 
 till hopa med Volund?»
 
-Bodvild sade: 
+Bodvild sade:
+
+[verse]
 41. »Sant är det, Nidad, 
 som man sade dig. 
 Jag var på holmen 

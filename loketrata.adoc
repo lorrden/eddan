@@ -25,7 +25,9 @@ varom här inne
 vid ölet tala 
 segergudarnes söner.»
 
-Elder sade: 
+Elder sade:
+
+[verse]
 2. »Om vapen tala 
 och sin visade mandom 
 segergudarnes söner; 
@@ -33,7 +35,9 @@ av asar och alfer,
 som här inne äro, 
 ingen i ord är din vän.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 3. »In skall jag gå 
 i Ägers sal 
 att akt på gillet ge; 
@@ -41,7 +45,9 @@ ondska och ilska
 för jag åt asars söner 
 och blandar dem så men i mjödet.»
 
-Elder sade: 
+Elder sade:
+
+[verse]
 4. »Vet du, om du in går 
 i Ägers sal 
 att akt på det gillet ge; 
@@ -49,7 +55,9 @@ om skällsord på gudar
 och skymf du öser, 
 torka de nog det på dig.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 5. »Vet du, Elder, 
 om vi två skola 
 strida med stickande ord; 
@@ -63,7 +71,9 @@ Men när de, som sutto där, sågo, vem som kommit in, tystnade de alla:
 .Loke
 image::ed0015.jpg[]
 
-Loke sade: 
+Loke sade:
+
+[verse]
 6. »Törstig jag hit 
 till hallen kom, 
 Lopt, från långan väg 
@@ -71,6 +81,7 @@ att asarne bedja,
 det en de mig giva 
 dråplig dryck av mjöd.
 
+[verse]
 7. Vi tigen I så, 
 I trumpna gudar, 
 att målet ni mistat ha? 
@@ -78,7 +89,9 @@ Visen mig sittplats
 att vara på vid gillet 
 eller på dörren mig driven!»
 
-Brage sade: 
+Brage sade:
+
+[verse]
 8. »Visa dig sittplats 
 att vara på vid gillet 
 asarne aldrig göra, 
@@ -86,7 +99,9 @@ ty asarne veta
 åt vad folk de skola 
 ypperligt gille giva.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 9. »Minns du, Oden, 
 när vi i urtiden 
 blandade blod tillsamman; 
@@ -94,7 +109,9 @@ blandade blod tillsamman;
 du sade dig ej skola, 
 om det ej at oss båda bures.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 10. »Res dig då, Vidar, 
 och låt vargens fader 
 sitta i vårt samkväm, 
@@ -104,6 +121,7 @@ här i Ägers hall.»
 
 Då steg Vidar upp och hällde i åt Loke, men innan han drack, tilltalade han asarne:
 
+[verse]
 11. »Hell eder, asar! 
 Hell, asynjor! 
 Hell, alla heliga gudar! 
@@ -111,7 +129,9 @@ Blott den asagud icke,
 som inåt sitter 
 på bänken, nämligen Brage!»
 
-Brage sade: 
+Brage sade:
+
+[verse]
 12. »Häst och svärd 
 av mina håvor jag dig giver, 
 och så bötar dig ock Brage en ring, 
@@ -119,7 +139,9 @@ på det du ej asarne
 elakhet visar. 
 Gör gudarne ej dig gramse!»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 13. »Häst och armringar, 
 du alltid skall 
 båda sakna, Brage; 
@@ -128,7 +150,9 @@ som här inne äro,
 är du i fejd fegast 
 och för skott skrämdast.»
 
-Brage sade: 
+Brage sade:
+
+[verse]
 14. »Vore jag utanför, 
 som nu inne jag är 
 uti Ägers sal, 
@@ -136,7 +160,9 @@ ditt huvud jag bure
 i handen på mig; 
 litet det vore för din lögn.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 15. »Dristig är du, där du 
 sitter, 
 du dylikt ej skall göra, 
@@ -145,7 +171,9 @@ Till vapen grip,
 om vred du är! 
 Den tappre sig icke betänker.»
 
-Idun sade: 
+Idun sade:
+
+[verse]
 16. »Jag beder dig, Brage, 
 vid barnen vara, 
 egna och upptagna, 
@@ -153,7 +181,9 @@ att till Loke du ej talar
 lastande ord 
 här i Ägers hall.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 17. »Tig du, Idun» 
 Av alla kvinnor 
 jag menar dig mangalnast vara, 
@@ -161,7 +191,9 @@ sen du lade dina armar,
 lysande tvagna, 
 kring din broders baneman.»
 
-Idun sade: 
+Idun sade:
+
+[verse]
 18. »Till Loke jag ej talar 
 lastande ord 
 här i Ägers hall. 
@@ -169,14 +201,18 @@ Brage jag lugnar,
 som är lustig av ölet. 
 Jag vill ej, att vreda ni kämpa.»
 
-Gevjon sade: 
+Gevjon sade:
+
+[verse]
 19. »Varför skolen I två asar inne här 
 strida med stickande ord? 
 Loke vet, att gyckel 
 liknar Brage 
 och allt levande vill honom väl.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 20. »Tig du, Gevjon! 
 Nu talar jag om, 
 huru ditt hjärta den ljuse 
@@ -184,7 +220,9 @@ svennen besvek,
 som dig smycke gav 
 och som dig famna fick.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 21. »Tokig är du, Loke, 
 och har tappat förståndet 
 då du Gevjon gramse dig gör, 
@@ -192,7 +230,9 @@ ty världens öden
 vet hon alla 
 och skönjer så väl som jag själv.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 22. »Tig du, Oden! 
 Aldrig du rätt 
 kunde dela lyckan i drabbning; 
@@ -200,7 +240,9 @@ ofta skänkte du den,
 som du skänka ej skulle, 
 den sämre nämligen, seger.»
 
-Oden sade: 
+Oden sade:
+
+[verse]
 23. »Vet du, skänkte jag den, 
 som jag skänka ej skulle, 
 den sämre nämligen, seger, 
@@ -210,7 +252,9 @@ kor mjölkande och kvinna;
 där barn du till världen bringat, 
 det för skamlig omanlighet skattas.
 
-Loke sade: 
+Loke sade:
+
+[verse]
 24. »Också sejd man sade dig 
 öva på Samsö, 
 du valors vidskepelse brukte; 
@@ -218,7 +262,9 @@ i gestalt av trollkarl
 du strövade kring världen; 
 det för skamlig omanlighet skattas.»
 
-Frigg sade: 
+Frigg sade:
+
+[verse]
 25. »Edra öden 
 skolen I aldrig 
 nämna om för någon, 
@@ -226,7 +272,9 @@ vad ni båda asar
 i urtiden gjorde; 
 det forna förblive folk fjärran!»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 26. »Tig du, Frigg! 
 Du är Fjorgyns mö, 
 och mangalen mycket du varit; 
@@ -234,7 +282,9 @@ Vee och Vile
 lät du, Vidrers hustru, 
 båda två dig taga i famn.»
 
-Frigg sade: 
+Frigg sade:
+
+[verse]
 27. »Vet, om här inne 
 i Ägers sal 
 jag hade son av Balders sinne, 
@@ -242,7 +292,9 @@ ut du ej komme
 från asarnes söner, 
 slag dig i vrede sloges.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 28. »Än mer vill du, Frigg, 
 att jag meddelar dig 
 av obehagliga ämnen! 
@@ -250,7 +302,9 @@ Jag rår därför,
 att du rida ej ser 
 Balder sedan till salen.»
 
-Freja sade: 
+Freja sade:
+
+[verse]
 29. »Tokig är du, Loke, 
 då du förtäljer 
 edra nedrigheter öppet; 
@@ -258,7 +312,9 @@ alla framtidens öden
 tror jag Frigg veta, 
 änskönt hon dem själv ej säger.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 30. »Tig du, Freja; 
 Dig till fullo jag känner; 
 du vanära visst icke saknar; 
@@ -266,7 +322,9 @@ de asar och alfer,
 som här inne äro, 
 ha alla dina älskare varit.
 
-Freja sade: 
+Freja sade:
+
+[verse]
 31. »Falsk är din tunga; 
 framdeles, tror jag, 
 skall den dig ådraga ofärd; 
@@ -274,7 +332,9 @@ vreda äro dig asar,
 så ock asynjor, 
 med bedrövelse hem du skall draga.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 32. »Tig du, Freja! 
 En trollpacka är du 
 och mängd med mycket men, 
@@ -282,7 +342,9 @@ sedan blida makter
 med din broder dig beträdde, 
 och fult skämde, Freja, du dig ut.»
 
-Njord sade: 
+Njord sade:
+
+[verse]
 33. »Föga det gör, 
 om fruntimmer sig 
 äkta män eller älskare skaffa; 
@@ -290,7 +352,9 @@ men ett under det är,
 att en omanlig as 
 kommit hit in, som barn har burit.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 34. »Tig du, Njord! 
 Till östlig trakt 
 du gick som gisslan för gudar. 
@@ -298,7 +362,9 @@ Hymers mör nyttjade
 till nattkärl dig, 
 med sitt vatten vätte din mun.»
 
-Njord sade: 
+Njord sade:
+
+[verse]
 35. »Den lisa jag fick, 
 då jag långt härifrån 
 som gisslan för gudarne gick; 
@@ -306,7 +372,9 @@ en son mig föddes,
 som fiende ej har, 
 en ädling bland asar han synes.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 36. »Håll nu, Njord, 
 och hov visa! 
 Ej längre det lönligt jag håller: 
@@ -314,7 +382,9 @@ med syster din
 fick du sådan son 
 och är dock ej värre än van var.»
 
-Tyr sade: 
+Tyr sade:
+
+[verse]
 37. »Frej är bäst 
 bland bålda hjältar 
 uti gudars gårdar; 
@@ -322,7 +392,9 @@ mö han ej grämer
 eller mans hustru 
 och löser ur länkar envar.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 38. »Tig du, Tyr! 
 Två du kunde 
 aldrig att ena sig bringa. 
@@ -333,7 +405,9 @@ som Fenrer ifrån dig slet.»
 .Tyr
 image::ed0016.jpg[]
 
-Tyr sade: 
+Tyr sade:
+
+[verse]
 39. »Handen mig rövats 
 men Rodvitner dig, 
 oss båda vallar saknaden sorg. 
@@ -341,7 +415,9 @@ Ej heller ulven har det bra,
 som bunden skall 
 i bojor ragnarök bida.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 40. »Tig du, Tyr! 
 Min tillfälligtvis 
 var den son, som din hustru hade; 
@@ -349,7 +425,9 @@ aldrig du fick
 en aln eller penning 
 för oförrätten, din usling!»
 
-Frej sade: 
+Frej sade:
+
+[verse]
 41. »Ulven ser jag ligga 
 framför åns mynning, 
 tills makternas samband slites. 
@@ -357,7 +435,9 @@ Tiger du ej,
 du torde bredvid 
 fjättras, du fiende lede!
 
-Loke sade: 
+Loke sade:
+
+[verse]
 42. »Med guld du köpte dig 
 Gymers dotter 
 och sålde så ditt svärd, 
@@ -365,7 +445,9 @@ men när Muspells söner
 över Mörkskog rida, 
 vad vapen värjer dig då, usling?»
 
-Byggver sade: 
+Byggver sade:
+
+[verse]
 43. »Om jag anor ägde 
 som Ingunar-Frej 
 och bebodde så ståtligt ställe, 
@@ -373,7 +455,9 @@ till mindre än märg
 jag malde dig, olycksfågel, 
 och lamsloge alla dina lemmar.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 44. »Vad är det för en varelse, 
 som vifta jag ser 
 och sniket snappa? 
@@ -381,7 +465,9 @@ Vid Frejs öron
 du alltid torde vara 
 och under kvarnarna kraxa .»
 
-Böggver sade: 
+Böggver sade:
+
+[verse]
 45. »Böggver jag heter, 
 men hetsig mig vara 
 gudar och människor mena. 
@@ -389,7 +475,9 @@ Här jag därav rosas,
 att Ropts söner 
 alla dricka öl tillsammans.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 46. »Tig du, Byggver» 
 Bra du ej kunde 
 skifta bland männen mat, 
@@ -397,7 +485,9 @@ och i bänkplatsens halm
 man dig hitta ej kunde, 
 när män i vapenskifte möttes.»
 
-Heimdall sade: 
+Heimdall sade:
+
+[verse]
 47. »Rusig är du, Loke, 
 rent från vettet; 
 vi låter du ej hejda dig, Loke; 
@@ -405,7 +495,9 @@ ty dryckenskap
 driver envar 
 att ej tänka på vad han talar.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 48. »Tig du, Heimdall! 
 Tidigt blev dig 
 ett ledsamt liv bestämt: 
@@ -413,7 +505,9 @@ rak skall du alltid
 i ryggen vara 
 och som gudars väktare vaka.»
 
-Skade sade: 
+Skade sade:
+
+[verse]
 49. »Lätt till mods är du, Loke! 
 Länge skall du ej så 
 springa lös och ledig; 
@@ -421,7 +515,9 @@ ty på kantig klippa
 med kalle sonens tarmar 
 skola gramse gudar dig binda.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 50. »Om på kantig klippa 
 med kalle sonens tarmar 
 gramse gudar mig binda, 
@@ -429,7 +525,9 @@ så vet, den förste och siste
 i fejden jag var, 
 när Tjatse förlorade livet.»
 
-Skade sade: 
+Skade sade:
+
+[verse]
 51. »Om den förste och siste 
 i fejden du var, 
 när Tjatse förlorade livet, 
@@ -437,7 +535,9 @@ så vet, från min helgedom
 och heliga fält 
 för dig skola kalla råd komma.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 52. »Lättare i målet 
 mot Lauveys son du var, 
 då du bjöd mig in till din bädd; 
@@ -450,6 +550,7 @@ image::ed0017.jpg[]
 
 Då gick Siv fram och hällde i en kristallbägare mjöd åt Loke och sade:
 
+[verse]
 53. »Hell dig, Loke! 
 Här får du bägarn, 
 full med flerårigt mjöd, 
@@ -459,6 +560,7 @@ låter fri fran fel vara.»
 
 Han tog emot hornet och drack därav:
 
+[verse]
 54. »Ensam du vore, 
 om du så vore, 
 aktsam och ärbar mot maken; 
@@ -467,7 +569,9 @@ och med visshet känner,
 som har Lorrides hustru förlett, 
 och det var den lömske Loke.»
 
-Beyla sade: 
+Beyla sade:
+
+[verse]
 55. »Fjällen alla darra, 
 nu drager, tror jag, 
 hemifran Lorride hit 
@@ -476,7 +580,9 @@ den som här tillmälen ger
 och grovt människor och 
 gudar beskyller.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 56. »Tig du, Beyla! 
 Du är Byggvers hustru 
 och mängd med mycket men; 
@@ -484,7 +590,9 @@ ett värre utskum
 kom ej bland asars söner; 
 smörjig är du, deja, och smetig.»
 
-Då kom Tor dit och sade: 
+Då kom Tor dit och sade:
+
+[verse]
 57. »Tig, ditt kräk! 
 Dig skall min krafthammar, 
 Mjollner, målet betaga; 
@@ -492,7 +600,9 @@ ditt huvud slår jag
 av halsen på dig 
 och så blir det slut med ditt liv.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 58. »Jordens son 
 in i salen nu kommit; 
 vi väsnas du så väldigt, Tor? 
@@ -500,7 +610,9 @@ Då vagar du icke,
 när med vargen du skall kämpa 
 och han slukar Segerfader hel.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 59. »Tig, ditt kräk! 
 Dig skall min krafthammar, 
 Mjollner, målet betaga. 
@@ -508,7 +620,9 @@ Upp jag dig slungar
 och i österled; 
 sedan dig ingen ser.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 60. »Om österfärderna dina 
 aldrig du skall 
 säga människor mycket, 
@@ -516,7 +630,9 @@ sedan i handskens tumme
 ihop du kröp, kämpe, 
 och tycktes du då Tor ej vara.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 61. Tig, ditt kräk! 
 Dig skall min krafthammar, 
 Mjollner, målet betaga. 
@@ -525,7 +641,9 @@ med hammarn, som drap Rungner,
 så att i dig vart ben 
 blir bräckt.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 62. »Ett långt liv 
 leva jag hoppas, 
 fast du mig med hammaren hotar. 
@@ -534,7 +652,9 @@ tycktes dig Skrymers vara,
 du mäktade ej matsäcken öppna, 
 höll på att svälta ihjäl, fastän sund.»
 
-Tor sade: 
+Tor sade:
+
+[verse]
 63. »Tig, ditt kräk! 
 Dig skall min krafthammar, 
 Mjollner, målet betaga. 
@@ -542,7 +662,9 @@ Rungners dråpare
 skall dig till dödsriket skicka 
 långt under likgrinden nedan.»
 
-Loke sade: 
+Loke sade:
+
+[verse]
 64. »Jag sade inför asar, 
 och inför asars söner 
 det, vartill lusten mig lockat; 
@@ -551,6 +673,7 @@ skall ut jag gå,
 ty jag vet, att du slår 
 till slut.
 
+[verse]
 65. Ölgille gjorde du, Äger, 
 men aldrig du skall 
 mera gästabud göra; 
@@ -567,5 +690,6 @@ image::ed0018.jpg[]
 
 Skade tog en etterorm och fäste upp den över ansiktet på Loke, och etter dröp ur den.
 Sigyn, Lokes hustru, satt där och höll ett fat under ettret.
-Men när fatet var fullt, bar hon ut ettret. Men under tiden dröp ettret på Loke.
+Men när fatet var fullt, bar hon ut ettret
+Men under tiden dröp ettret på Loke.
 Då ryckte han till så hårt, att hela jorden skälvde därav, och det kallas nu jordskalv.

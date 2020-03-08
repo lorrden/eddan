@@ -1,5 +1,6 @@
 = Sången om Hamder
 
+[verse]
 1. Sorgliga sysslor 
 sattes i gång 
 en glädjelös morgon 
@@ -9,6 +10,7 @@ många bekymmer
 över världens ve 
 väcka sorgen.
 
+[verse]
 2. Ej har det skett nu, 
 ej heller i går, 
 lång tid har 
@@ -20,6 +22,7 @@ Gjukes dotter,
 sina unga söner 
 att Svanhild hämna.
 
+[verse]
 3. »Eder syster 
 Svanhild hette, 
 som Jormunrek 
@@ -29,11 +32,13 @@ av vita och svarta,
 gråa, gångvana 
 gotiska hästar.
 
+[verse]
 4. Tillbaka I ären trängda 
 fast båda konungar; 
 av alla ättens grenar 
 I ensamma leven.
 
+[verse]
 5. Ensam jag blivit 
 som asp i skogsbacken, 
 fränder från mig fallit, 
@@ -43,6 +48,7 @@ som lövet på trädet,
 då kvistsvedande sol 
 kommer en het dag.»
 
+[verse]
 6. Då sade Hamder 
 i hågen djärv: 
 »Högt du ej lovade 
@@ -52,6 +58,7 @@ ur sömnen upp.
 Du satt på bädden, 
 men banemännen skrattade.
 
+[verse]
 7. Dina blåvita täcken 
 i blod av din man 
 färgades röda, 
@@ -61,6 +68,7 @@ hos den döde du satt,
 glömsk av all glädje; 
 så Gunnar dig velat.
 
+[verse]
 8. Mot Atle du ämnade strida 
 genom att Erp mörda 
 och Eitils liv taga; 
@@ -70,6 +78,7 @@ till dess ofärd sig må värja
 med sårbitande svärd, 
 att han sig därvid ej skadar.»
 
+[verse]
 9. Det sade då Sorle, 
 snabbtänkt han var: 
 »Mot vår moder jag vill ej 
@@ -79,6 +88,7 @@ av eder båda vara.
 Varom beder du nu, Gudrun, 
 som till din gråt du ej får?
 
+[verse]
 10. Begråt dina bröder 
 och barnen kära, 
 dina nära fränder 
@@ -88,6 +98,7 @@ begråta skall du,
 som här dödsvigda rida; 
 dö vi skola fjärran.»
 
+[verse]
 11. Det talade den stolta, 
 stod ovan dem hon skyddat, 
 smalfingrad hon sade 
@@ -101,6 +112,7 @@ tio hundra goter,
 binda och besegra 
 i borgen den höga.»
 
+[verse]
 12. I rasande vrede 
 de redo ut från gården 
 och sågo på gatan 
@@ -108,6 +120,7 @@ sin sluge halvbror:
 »Vad bistånd vill oss 
 brunhåringen giva?»
 
+[verse]
 13. Halvbrodern svarade 
 och sade sig skola 
 hjälpa sina fränder 
@@ -117,6 +130,7 @@ den andre hjälp giva
 eller handen, som hänga 
 vid hullet, åt den andra?
 
+[verse]
 14. Ännu en gång 
 Erp då talade, 
 härlig han lekte 
@@ -126,6 +140,7 @@ vägen åt en feg.»
 Oförskräckt man säger 
 en oäkting vara.
 
+[verse]
 15. De drogo ur skidan 
 skidejärnet, 
 svärdets eggar, 
@@ -135,6 +150,7 @@ minskade de,
 läto unge mannen 
 till marken segna.
 
+[verse]
 16. Över fuktiga fjäll 
 färdades de unge 
 på hunniska hästar 
@@ -144,6 +160,7 @@ sina klingor omgjordade,
 de ädelborna satte 
 silkeskläder på.
 
+[verse]
 17. Framåt förde vägen, 
 de funno olycksstigar, 
 och systerns son 
@@ -153,6 +170,7 @@ väster om byn;
 tranans kost där krälade. 
 kusligt var att bida.
 
+[verse]
 18. Glam var i hallen 
 de voro glada av ölet, 
 och hörde icke 
@@ -160,6 +178,7 @@ hästarne komma,
 förrän modige kämpen 
 tjöt uti hornet.
 
+[verse]
 19. För Jormunrek 
 de gingo att säga, 
 att varsnade voro 
@@ -169,6 +188,7 @@ ty stormän hava kommit,
 för mäktiga män 
 ni mön låtit trampa.»
 
+[verse]
 20. Storskrattade då Jormunrek, 
 mustaschen drog med handen, 
 önskade till sin ofärd, 
@@ -178,6 +198,7 @@ på blanka skölden såg,
 lät guldbägaren 
 gunga i handen.
 
+[verse]
 21. »Säll jag mig syntes, 
 om se jag kunde 
 Hamder och Sorle 
@@ -187,11 +208,13 @@ jag binda skulle,
 Gjukes goda barn 
 på galgen fästa.»
 
+[verse]
 22. Strid blev i huset, 
 ned störtade bägare 
 i blodet, där männen lågo, 
 ur bröstet på goter kommet.
 
+[verse]
 23. Då sade Hamder, 
 i hågen djärv: 
 »Du önskade, Jormunrek, 
@@ -203,6 +226,7 @@ du ser dina händer
 slungade, Jormunrek, 
 i svedande eld.»
 
+[verse]
 24. Då röt den gamle 
 från gudarne stammande 
 fursten i brynja, 
@@ -212,6 +236,7 @@ då de stå emot spjuten,
 då järn icke biter 
 på Jonakrs söner!»
 
+[verse]
 25. Det sade då Hamder 
 i hågen djärv: 
 »Ej bra var det broder, 
@@ -220,12 +245,16 @@ fördärvliga råd
 rikligt ur den komma.»
 
 Sorle sade: 
+
+[verse]
 26. »Mod hade du, Hamder, 
 blott hovsamhet du hade; 
 på en människa felas mycket, 
 då manvett fattas.»
 
 Hamder sade: 
+
+[verse]
 27. Av vore nu ock huvudet, 
 om Erp levde, 
 vår vapendjärve broder, 
@@ -236,6 +265,8 @@ han som skyddade sig i striden;
 vi skickade oss då till kamp.»
 
 Sorle sade: 
+
+[verse]
 28. »Ej oss anstår 
 ulvars vana 
 att sak med varandra söka, 
@@ -243,6 +274,7 @@ likt nornors gråa,
 glupska hundar, 
 som i ödemarken avlas.
 
+[verse]
 29. Väl hava vi stridit 
 vi stå över goter, 
 som av eggarne ödda blivit, 
@@ -253,6 +285,7 @@ till kvällen ej lever
 den som kallats av 
 nornor.»
 
+[verse]
 30. Där foll Sorle 
 vid salens gavel, 
 och Hamder stupade 

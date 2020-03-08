@@ -1,5 +1,6 @@
 = Det korta kvädet om Sigurd
 
+[verse]
 1. En gång var det, Sigurd 
 till Gjuke kom, 
 den unge volsungen, 
@@ -9,6 +10,7 @@ tro och loven;
 de växlade eder 
 de väldiga kämpar.
 
+[verse]
 2. Mö de honom bjödo 
 och en mängd av skatter, 
 unga Gudrun, 
@@ -18,6 +20,7 @@ de drucko och språkade,
 Sigurd den unge 
 och sönerna av Gjuke.
 
+[verse]
 3. Tills de foro att bedja 
 om Brynhilds hand 
 och Sigurd i deras 
@@ -27,6 +30,7 @@ vapenövad;
 han hade henne ägt, 
 om ödet så velat.
 
+[verse]
 4. Hjälten från södern 
 lade svärdet draget; 
 den sirade klingan 
@@ -38,6 +42,7 @@ tog henne i famn,
 åt Gjukes arvinge 
 ungmön bevarade.
 
+[verse]
 5. Vid sitt liv ej last 
 hon låda visste 
 och vid sin bana 
@@ -47,6 +52,7 @@ eller föreföll vara;
 grymma skickelser 
 skilde dem åt.
 
+[verse]
 6. Ensam satt hon ute 
 på aftonen av dagen, 
 hon tog att tänka 
@@ -56,6 +62,7 @@ eller se honom död,
 jag ynglingen skall 
 i mina armar sluta.
 
+[verse]
 7. Ett ord jag nu talte 
 och ångrar det sedan. 
 Hans hustru är Gudrun, 
@@ -63,6 +70,7 @@ men Gunnars jag;
 oss längtan lång 
 gåvo leda nornor.»
 
+[verse]
 8. Ofta går hon ut 
 av ondska fylld, 
 av isar och ispiggar, 
@@ -74,11 +82,13 @@ sveper henne,
 den hunske konungen 
 sin hustru att smeka.
 
+[verse]
 9. »Brudgum och lycka 
 bägge jag mister; 
 mig glädja jag skall 
 åt grymma tankar.»
 
+[verse]
 10. Av denna hätskhet 
 hon hetsade sig till dråp: 
 »Gunnar, mitt land 
@@ -88,6 +98,7 @@ och mig själv därhos;
 lycklig jag aldrig 
 lever med dig, furste.
 
+[verse]
 11. Dit fara vill jag åter, 
 där jag förut var, 
 hos mina närskylde, 
@@ -99,6 +110,7 @@ omkomma låter
 och en härskare bliver 
 högre än andra.
 
+[verse]
 12. Låtom sonen fara 
 i sällskap med fadern, 
 ej länge skall man ulvens 
@@ -111,6 +123,7 @@ det att sonen lever?»
 .Gunnar
 image::ed0037.jpg[]
 
+[verse]
 13. Ledsen blev Gunnar, 
 förlorade modet, 
 satt dagen i ända 
@@ -126,6 +139,7 @@ av volsungen tagen
 och efter Sigurd 
 saknad stor.
 
+[verse]
 14. Han lika länge 
 var lott betänkte: 
 förr det icke 
@@ -137,6 +151,7 @@ till hemligt samtal;
 han fann i honom 
 en fulltrogen vän.
 
+[verse]
 15. »Mig Brynhild ensam 
 är bättre än alla, 
 Budles dotter, 
@@ -146,6 +161,7 @@ jag låta skall
 än mista denna 
 mös skatter.
 
+[verse]
 16. Vill du, att vi döda 
 drotten för hans gods? 
 Gott är att råda 
@@ -155,6 +171,7 @@ rikedom äga,
 sitta i fred 
 och sällhet njuta.»
 
+[verse]
 17. Hogne på detta 
 honom blott svarade: 
 »Oss höves icke 
@@ -164,6 +181,7 @@ svurna eder,
 svurna eder, 
 sagda löften.
 
+[verse]
 18. Visst leva ej på jorden 
 lyckligare män, 
 så länge vi fyra 
@@ -177,12 +195,15 @@ föda söner
 och ätten den goda 
 öka kunde.
 
+[verse]
 19. Väl jag vet, 
 vilken väg dit leder, 
 Brynhilds lidelse 
 brinner för häftigt.»
 
 Gunnar sade: 
+
+[verse]
 20. »Låtom oss Guttorm 
 locka till dråpet, 
 vår yngre broder, 
@@ -192,11 +213,13 @@ de eder, som svurits,
 svurna eder, 
 sagda löften.»
 
+[verse]
 21. Lätt var att egga 
 den ej länge ville töva; 
 till hjärtat på Sigurd 
 svärdet stod.
 
+[verse]
 22. Härförarn redde sig 
 till hämnd i salen 
 och slungade svärdet 
@@ -206,6 +229,7 @@ till Guttorm flög,
 med kraft kastat 
 ur konungens hand.
 
+[verse]
 23. Hans fiende tumlade, 
 i två delar skuren, 
 hälften med händer 
@@ -213,6 +237,7 @@ och huvud för sig,
 men fotdelen 
 föll på stället
 
+[verse]
 24. Somnad var 
 i sängen Gudrun 
 vid Sigurds sida, 
@@ -222,6 +247,7 @@ vaknade hon,
 då hon flöt 
 i Frejs väns blod.
 
+[verse]
 25. Så hårt hon slog 
 med händerna sina, 
 att raske hjälten 
@@ -231,6 +257,7 @@ och gräm dig ej,
 min unga brud; 
 dina bröder leva.
 
+[verse]
 26. Alltför ung 
 arvinge har jag; 
 fly han kan ej 
@@ -240,6 +267,7 @@ för nära de sig tagit,
 ett ödesdigert 
 och olyckligt steg.
 
+[verse]
 27. Ej med dem sedan, 
 fast söner sju du föder, 
 till tinget en sådan 
@@ -249,6 +277,7 @@ på vad vis det är;
 Brynhild ensam 
 allt ont vållar.
 
+[verse]
 28. Mig älskade mön 
 mera än någon, 
 dock grep jag ej in 
@@ -258,6 +287,7 @@ eller svurna eder,
 på det icke jag hette 
 hans hustrus käresta.»
 
+[verse]
 29. Gudrun suckade, 
 men Sigurd gav upp andan. 
 Så hårt hon slog 
@@ -267,6 +297,7 @@ giva i vrån
 och gässen på gården 
 gällt kacklade.
 
+[verse]
 30. Då skrattade Brynhild, 
 Budles dotter, 
 en enda gång 
@@ -276,6 +307,7 @@ höra kunde
 högljudd gråt 
 från Gjukes dotter.
 
+[verse]
 31. Då sade Gunnar, 
 godättades hövding: 
 »Ej skrattar du därför, 
@@ -287,6 +319,7 @@ din vita hy,
 illdåds alstrare? 
 Ofärd dig väntar.
 
+[verse]
 32. Du vore av kvinnor 
 mest värd den lotten, 
 att för dina ögon 
@@ -296,7 +329,9 @@ på din broder du såge
 och blödande hugg 
 förbinda du finge.»
 
-Brynhild sade: 
+Brynhild sade:
+
+[verse]
 33. »För feghet du ej förebrås, 
 fullt upp har du dräpit; 
 föga Atle fruktar 
@@ -306,6 +341,7 @@ längst av er båda
 och alltid hava 
 övermakten.
 
+[verse]
 34. Jag säger dig, Gunnar, 
 vad du granneligen själv vet, 
 hurusom sakskyldige 
@@ -315,6 +351,7 @@ och tvång jag ej led
 eller brist på gods 
 i min broders hus.
 
+[verse]
 35. Ej heller maka 
 åt man jag ville bli, 
 innan ni gjukungar 
@@ -324,6 +361,7 @@ härskare över folken,
 och eder färd 
 onödig varit.
 
+[verse]
 36. Till mig i enrum 
 Atle sade, 
 att av egendomen 
@@ -337,6 +375,7 @@ han lämnade det att äga
 och åt mig som liten 
 mynt betalade.
 
+[verse]
 37. I tvekan då var 
 min tanke därom, 
 om väl jag skulle vapen 
@@ -348,6 +387,7 @@ vara det skulle
 för mången man 
 till mycket bekymmer.
 
+[verse]
 38. Vi läto det så 
 till förlikning komma; 
 det lekte mig i hågen 
@@ -357,6 +397,7 @@ till Sigmund hade;
 ej önskade jag äga 
 annan mans skatter.
 
+[verse]
 39. Åt den folkens furste 
 jag fäste mig då, 
 som med guldet satt 
@@ -368,6 +409,7 @@ till utseende sådan,
 och dock kommen I mig 
 som konungar före.
 
+[verse]
 40. En jag älskade, 
 ej ömsom flera, 
 ej visste valkyrian 
@@ -377,6 +419,7 @@ efteråt finna,
 när min hädanfärd 
 han höra får.
 
+[verse]
 41. Dock livet leva 
 som lättsinnig kvinna 
 med en annans man 
@@ -384,6 +427,7 @@ man aldrig skall.
 Hämnd jag skall då ha 
 för den harm, jag lidit.»
 
+[verse]
 42. Upp steg följets 
 furste Gunnar 
 och om hustruns hals 
@@ -393,11 +437,13 @@ efter varandra
 och avrådde henne 
 av all sin själ.
 
+[verse]
 43. Hon kastade från sig, 
 vem som kom henne när, 
 lät sig ej lockas 
 från långa färden.
 
+[verse]
 44. Han kallade Hogne 
 till hemligt samtal: 
 »Må männen alla, 
@@ -411,6 +457,7 @@ den timar sedan;
 då låtom ödet 
 över den råda.»
 
+[verse]
 45. Hogne på detta 
 honom blott svarade: 
 »Locke henne ingen 
@@ -424,11 +471,13 @@ för all sin tid
 och mången man 
 till mycken sorg.»
 
+[verse]
 46. Sorgsen Gunnar 
 från samtalet gick, 
 då drottningen delade 
 dyrbarheterna.
 
+[verse]
 47. Hon såg sig om 
 på allt sitt gods, 
 på tärnorna, som dödats, 
@@ -438,11 +487,13 @@ var ej glad i håg,
 innan hon sig sårade 
 med svärdets eggar.
 
+[verse]
 48. Bort åt sidan 
 mot bolstret hon sjönk 
 och, sårad av svärdet, 
 sade sin tanke.
 
+[verse]
 49. »Nu gånge de i döden, 
 som guld vilja 
 mottaga av mig 
@@ -452,6 +503,7 @@ ett gyllene halssmycke,
 lakan och sticktäcke, 
 lysande kläder.»
 
+[verse]
 50. De tego alla 
 och tänkte sig för 
 och på samma gång 
@@ -463,6 +515,7 @@ tillräcklig heder.»
 
 image::ed0038.jpg[]
 
+[verse]
 51. Länge tänkte 
 linklädd kvinna, 
 ung till åren, 
@@ -472,6 +525,7 @@ nödbjuden och trögt
 livet för var skull 
 förlora skall.
 
+[verse]
 52. Dock brinna på bålet 
 över benen av eder 
 färre skatter, 
@@ -479,6 +533,7 @@ då fram I kommen
 att mig besöka 
 och mindre guld.
 
+[verse]
 53. Sätt dig, Gunnar! 
 Säga dig skall jag, 
 att ljuslockig brud 
@@ -488,6 +543,7 @@ på sjön förgås,
 fastän mitt liv 
 jag låtit har.
 
+[verse]
 54. Du och Gudrun försonas 
 snarare än du tror, 
 den kloka kvinnan 
@@ -495,6 +551,7 @@ mot konungen har dock
 bedrövat minne 
 av döda maken.
 
+[verse]
 55. En mö blir född, 
 modern henne fostrar; 
 vacker som dagen 
@@ -502,6 +559,7 @@ och vitare i hyn
 skall Svanhild vara 
 än solens stråle.
 
+[verse]
 56. Gudrun skall du giva 
 åt en god man, 
 hon är det vapen, som skall vålla 
@@ -513,6 +571,7 @@ henne skall Atle
 Budles son, 
 broder till mig.
 
+[verse]
 57. Mycket jag har att minnas, 
 hur mot mig de förforo, 
 då I mig svårligen 
@@ -520,6 +579,7 @@ svikit haden;
 min levnads lycka 
 förlustig jag gick.
 
+[verse]
 58. Du skall Oddrun 
 äga vilja, 
 men Atle skall 
@@ -531,11 +591,13 @@ så ömt, som jag skolat,
 om blid oss skickelsen 
 blivit hade.
 
+[verse]
 59. Dig skall Atle 
 illa göra, 
 i trånga ormgården 
 inlagd du bliver.
 
+[verse]
 60. Det lider ej heller 
 lång tid därefter, 
 förrn Atle skall 
@@ -547,6 +609,7 @@ med svärdets eggar
 ur vägen röjer 
 vred till sinnes.
 
+[verse]
 61. Värdigare vore, 
 att vår syster Gudrun 
 följde i döden 
@@ -556,6 +619,7 @@ gode mäns råd
 eller hon lynne 
 likt oss hade.
 
+[verse]
 62. Tungt är det mig 
 att tala nu. 
 Ej livet för vår skull 
@@ -565,6 +629,7 @@ bära henne skola
 till de jordagods, 
 som Jonakr ärvt.
 
+[verse]
 63. [Ättlingar hon föder 
 och arvtagare], 
 söner som arvingar 
@@ -574,6 +639,7 @@ sända ur landet,
 sin dotter 
 och Sigurds barn.
 
+[verse]
 64. Bickes råd 
 henne bita skola, 
 ty Jormunrek 
@@ -583,6 +649,7 @@ då omkommen är,
 dess mer att begråta 
 för Gudrun finns.
 
+[verse]
 65. En enda bön 
 jag dig bedja vill, 
 i världen den sista 
@@ -594,6 +661,7 @@ rikligt bliver
 åt oss, som med Sigurd, 
 sökte döden!
 
+[verse]
 66. Gör tjäll över bålet 
 med bonad och sköldar, 
 sirat välskt tyg 
@@ -601,6 +669,7 @@ och slavars mängd!
 Må vid min sida 
 Sigurd brännas!
 
+[verse]
 67. Må på andra sidan 
 om Sigurd brännas 
 mina svenner, 
@@ -610,6 +679,7 @@ och hökar två;
 då är allt skiftat 
 i skäligt mått.
 
+[verse]
 68. Vile ock mellan oss 
 vapnet med ringfästet, 
 eggvassa järnet, 
@@ -619,6 +689,7 @@ bädden delade
 och makar hette, 
 man och hustru!
 
+[verse]
 69. Ej hittas han 
 på hälen då 
 av porten till salen, 
@@ -628,6 +699,7 @@ följer hädan;
 ej skall vår färd 
 vanheder giva.
 
+[verse]
 70. Ty honom följa 
 fem tärnor, 
 åtta tjänare 
@@ -637,6 +709,7 @@ det fädernearv,
 som Budle gav 
 åt barnet sitt.
 
+[verse]
 71. Mycket jag sade, 
 mera jag skulle 
 säga, om tala 

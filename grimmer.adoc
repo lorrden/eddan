@@ -32,6 +32,7 @@ Agnar gick till Grimner och gav honom ett horn fullt att dricka och sade, att ha
 Grimner drack därav; då var elden så vitt kommen, att kappan brann på Grimner.
 Han sade:
 
+[verse]
 1. »Het är du, eld, 
 och nästan alltför stor. 
 Gå fjärran från mig, fyr! 
@@ -39,6 +40,7 @@ Ludna kappan svedes,
 fast jag lyfter den upp, 
 fällen för mig brinner.
 
+[verse]
 2. Åtta nätter satt jag 
 mellan eldarne här, 
 och ingen människa mat mig bjöd, 
@@ -46,6 +48,7 @@ utom Agnar allena,
 som ensam skall råda, 
 Geirröds son, över goter.
 
+[verse]
 3. Lycklig blir du, Agnar, 
 då lycklig dig beder 
 Veratyr vara; 
@@ -53,6 +56,7 @@ för en enda dryck
 dig aldrig skall 
 bättre lön lämnas.
 
+[verse]
 4. Det land är heligt, 
 som jag ligga ser 
 asar och alfer nära, 
@@ -62,6 +66,7 @@ tills alla gudar förgås.
 
 image::ed0006.jpg[]
 
+[verse]
 5. Ydalar det heter, 
 där Ull åt sig 
 har sina salar byggt; 
@@ -69,6 +74,7 @@ Alvheim gåvo
 gudarne till tandskänk 
 åt Frej i fjärran urtid.
 
+[verse]
 6. En tredje är den gård, 
 där goda makter 
 med silver salarna täckt; 
@@ -78,6 +84,7 @@ asagud i urtiden byggt.
 
 image::ed0007.jpg[]
 
+[verse]
 7. Söckvabäck heter den fjärde, 
 men däröver svala 
 böljor brusa fram; 
@@ -85,6 +92,7 @@ Oden och Saga
 i all tid där dricka 
 glada ur kärl av guld.
 
+[verse]
 8. Gladsheim heter den femte, 
 där guldglänsande 
 Valhall sig vidsträckt reser; 
@@ -92,6 +100,7 @@ där väljer Ropt
 varje dag 
 hjältar, som vapendöd ljutit.
 
+[verse]
 9. Lätt de alla, 
 som till Oden komma, 
 känna kynnet av hans sal; 
@@ -99,6 +108,7 @@ spjutskaft äro sparrar,
 spån på taket sköldar, 
 och brynjor på bänkarna strödda.
 
+[verse]
 10. Lätt de alla, 
 som till Oden komma, 
 känna kynnet av hans sal; 
@@ -106,6 +116,7 @@ en varg hänger
 väster om dörren, 
 en örn ovanför svävar.
 
+[verse]
 11. Trymheim heter den sjätte, 
 där Tjatse bodde, 
 den mycket mäktige jätten; 
@@ -113,6 +124,7 @@ där bor nu Skade,
 gudars brud den ljusa, 
 på faderns forna tomter.
 
+[verse]
 12. Breidablick är den sjunde, 
 och Balder har där 
 åt sig byggt salar; 
@@ -120,6 +132,7 @@ och Balder har där
 där ligga jag vet 
 minst av menlighet.
 
+[verse]
 13. Himinbjorg är den åttonde, 
 och Heimdall där säges 
 över helgedomarna härska; 
@@ -127,6 +140,7 @@ i sitt trevna hus
 tömmer gudaväktarn 
 glad sitt goda mjöd.
 
+[verse]
 14. Folkvang är den nionde, 
 och Freja där råder 
 för hur sittplats i sal skall fördelas; 
@@ -134,6 +148,7 @@ hälften av de fallna
 har hon att välja, 
 den andra Oden har.
 
+[verse]
 15. Glitner är den tionde; 
 på guldstolpar stödd 
 och med silver takad är salen. 
@@ -141,6 +156,7 @@ Forsete bor där,
 fredsdomaren, 
 som stillar varje strid.
 
+[verse]
 16. Noatun är den elfte, 
 och Njord har där 
 åt sig salar byggt; 
@@ -148,6 +164,7 @@ männens furste,
 som ej men har, 
 för högtimrad helgedom råder.
 
+[verse]
 17. Höljt av ris 
 och högt gräs 
 är Vidars land Vide; 
@@ -155,6 +172,7 @@ från hästens rygg, lysten
 att hämna sin fader, 
 där sonen sig vara säger.
 
+[verse]
 18. Andrimner låter 
 i Eldrimner 
 Särimner suden varda; 
@@ -162,6 +180,7 @@ av fläsket det bästa,
 men få veta, 
 vad mat einhärjarne mättar.
 
+[verse]
 19. Gene och Freke 
 fodrar stridsvane 
 högtberömde Härfader, 
@@ -169,6 +188,7 @@ men av vin endast
 vapenfrejdade 
 Oden alltid lever.
 
+[verse]
 20. Hugin och Munin 
 var morgon flyga 
 ut över världen vida; 
@@ -176,6 +196,7 @@ jag ängslas för Hugin,
 att ej åter han kommer, 
 dock bekymras jag mera för Munin.
 
+[verse]
 21. Tund tjuter 
 och Tjodvitners 
 fisk trives i floden; 
@@ -183,6 +204,7 @@ fisk trives i floden;
 synes alltför stark 
 att vadaöver Valglaumner.
 
+[verse]
 22. Valgrind den heter, 
 som varsnas på slätten, 
 helig frmaför helig dörrgång; 
@@ -190,6 +212,7 @@ fornåldrig är grinden,
 och få veta, 
 hur hon i lås är lyckt.
 
+[verse]
 23. Fem hundra dörrar 
 och fyrtio därtill 
 tänker jag på Valhall vara; 
@@ -197,6 +220,7 @@ tänker jag på Valhall vara;
 gå på en gång ur var dörr, 
 när till dust emot ulven de draga.
 
+[verse]
 24. Fem hundra rum inalles 
 och fyrtio därtill 
 i Bilskirner byggda jag tänker; 
@@ -204,6 +228,7 @@ mig tyckes av hus,
 som takade äro, 
 ett större än min sons ej stånda.
 
+[verse]
 25. Heidrun heter geten, 
 som på Härfaders sal 
 står och gnager av Lärads grenar; 
@@ -211,6 +236,7 @@ en kanna skall hon fylla
 med det klara mjöd; 
 det mjödet ej minskas kan.
 
+[verse]
 26. Hjorten Eiktyrner heter, 
 som på Härfaders sal 
 står och gnager av Lärads grenar; 
@@ -218,6 +244,7 @@ från hans horn drypa
 droppar i Vergelmer, 
 därifrån alla vatten välla.
 
+[verse]
 27. Sid och Vid, 
 Säkin och Äkin, 
 Sval och Gunntro, 
@@ -230,6 +257,7 @@ Tyn och Vin,
 Toll och Holl, 
 Grad och Gunntorin.
 
+[verse]
 28. Vidare heter en Vina, 
 Vegsvinn en annan, 
 den tredje Tjodnuma; 
@@ -243,6 +271,7 @@ Gjoll och Leipt,
 de löpa människor nära 
 och härifrån falla till Hel.
 
+[verse]
 29. Kormt och Ormt 
 och Kerlaugar två, 
 över vilka Tor skall vada, 
@@ -253,6 +282,7 @@ ty då brinner asarnes
 bro i låga 
 och heta bli heliga vattnen.
 
+[verse]
 30. Glad och Gyller, 
 Gler och Skeidbrimer, 
 Silvrintopp och Siner, 
@@ -263,6 +293,7 @@ var dag till att rida,
 när att döma de fara 
 vid Yggdrasils ask.
 
+[verse]
 31. Tre rötter stå 
 åt tre håll 
 ut från Yggdrasils ask. 
@@ -270,6 +301,7 @@ Hel bor under en,
 under den andra rimtursar, 
 den tredje människor täcker.
 
+[verse]
 32. Ratatosk heter ekorren, 
 som ränna skall 
 på Yggdrasils ask; 
@@ -277,12 +309,14 @@ på Yggdrasils ask;
 skall han uppifrån bära 
 och säga dem för Nidhogg där nere.
 
+[verse]
 33. Hjortar finnas ock fyra 
 med finböjda halsar, 
 som å trädet på grenarna gnaga, 
 Dain och Dvalin, 
 Duneyr och Duratro.
 
+[verse]
 34. Flera ormar ligga 
 under Yggdrasils ask, 
 än en okunnig dåre anar. 
@@ -293,6 +327,7 @@ Ovner och Svavner
 alltid tror jag skola 
 trädets kvistar tära.
 
+[verse]
 35. Yggdrasils ask 
 utstår vedermöda 
 mera, än män veta; 
@@ -300,6 +335,7 @@ hjorten uppifrån raspar
 men det ruttnar på sidan, 
 nedifrån Nidhogg skär.
 
+[verse]
 36. Rist och Mist 
 skola räcka mig hornet; 
 Skeggjold och Skogul, 
@@ -310,6 +346,7 @@ Randgrid och Radgrid
 och Reginleiv, 
 de bära åt einhärjarne öl.
 
+[verse]
 37. Arvakr och Alsvinn, 
 de skola upp på himlen, 
 smärta, solen draga 
@@ -317,6 +354,7 @@ och under deras bogar
 blida makter, 
 asarne, järnbläster gömde.
 
+[verse]
 38. Svalin den heter, 
 som framför solen står, 
 en sköld framför skinande guden; 
@@ -324,6 +362,7 @@ berg och bränning
 vet jag brinna skulle, 
 om han skulle falla ifrån.
 
+[verse]
 39. Skoll heter den ulv, 
 som till skogens hägn 
 den glänsande guden förföljer; 
@@ -331,6 +370,7 @@ en annan är Hate,
 han är ättling av Rodvitner, 
 skall stänga strålande himlabrud vägen.
 
+[verse]
 40. Av Ymers kött 
 åstadkoms jorden, 
 böljan av hans blod; 
@@ -338,6 +378,7 @@ berg skapades av benen,
 buskar av håret, 
 och av huvudskålen himlen.
 
+[verse]
 41. Av hans ögons bryn 
 gjorde blida makter 
 Midgård åt människors söner, 
@@ -345,6 +386,7 @@ och av hans hjärna
 gjordes de tunga 
 moln, som på fästet flockas.
 
+[verse]
 42. Ulls huldhet har den 
 och alla gudarnes, 
 som först med flamman tar i tu, 
@@ -352,6 +394,7 @@ ty öppna bliva världar
 över asars söner, 
 när kittlar från lågan lyftas.
 
+[verse]
 43. Ivaldes söner 
 i urtiden gingo 
 att skapa Skidbladners skepp, 
@@ -359,6 +402,7 @@ det bästa fartyg,
 åt bländande Frej, 
 snarrådige sonen till Njord.
 
+[verse]
 44. Yggdrasils ask 
 är ypperst av träd, 
 men Skidbladner av skepp, 
@@ -369,6 +413,7 @@ och Brage av skalder,
 Habrik av hökar 
 och av hundar Garm.
 
+[verse]
 45. Jag segeregudars söner 
 syn av gudomen givit, 
 därav välkommen hjälp skall väckas. 
@@ -377,6 +422,7 @@ skall det in komma
 på Ägers bänkar, 
 vid Ägers dryckeslag.
 
+[verse]
 46. Jag heter Grim, 
 jag heter Ganglere, 
 Herjan och Hjalmbere, 
@@ -384,6 +430,7 @@ Teck och Tride,
 Tud och Ud, 
 Helblinde och Har.
 
+[verse]
 47. Sann och Svipal 
 och Sanngetal, 
 Herteit och Nikar, 
@@ -392,6 +439,7 @@ Bolverk, Fjolner,
 Grim och Grimner, 
 Glappsvinn och Fjolsvinn.
 
+[verse]
 48. Sidhott, Sidskägg 
 Sigfodr, Nikud, 
 Alfodr, Valfodr, 
@@ -400,6 +448,7 @@ med ett enda namn
 nämnde jag mig aldrig, 
 sålänge jag bland folken farit.
 
+[verse]
 49. Grimner de mig kallade 
 hos Geirröd 
 och Ialk hos Asmund, 
@@ -411,6 +460,7 @@ Oske och Ome,
 Javnha och Bivlinde, 
 Gondler och Harbard bland gudar.
 
+[verse]
 50. Svidur och Svidrer 
 jag hette hos Sockmimer, 
 och då gäckade jag den gamla jätten, 
@@ -418,6 +468,7 @@ då till Midvitner,
 hans märklige son, 
 baneman jag blivit hade.
 
+[verse]
 51. Rusig är du, Geirröd, 
 har riktigt mycket druckit; 
 mycket du mistat, 
@@ -425,6 +476,7 @@ då min hjälp dig frångår,
 alla einhärjar 
 och Odens huldhet.
 
+[verse]
 52. Till fullo jag sagt dig, 
 men föga du minnes, 
 vänner dig listigt lura. 
@@ -432,6 +484,7 @@ Min väns svärd
 ser jag ligga 
 med bladet drypande av blod.
 
+[verse]
 53. Den för eggen fallne 
 skall Ygg nu hava, 
 ditt liv vet jag lidet; 
@@ -439,6 +492,7 @@ vreda äro diserna,
 varse är du Oden, 
 kom, om du kan, till mig.
 
+[verse]
 54. Oden jag nu heter, 
 Ygg jag hette nyss, 
 tidigare Tund var mitt namn, 

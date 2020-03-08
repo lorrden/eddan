@@ -1,5 +1,6 @@
 = Sången om Fjolsvinn
 
+[verse]
 1. Utanför stängslet 
 såg upp han komma 
 tursafolkets tillhåll. 
@@ -9,6 +10,7 @@ och far omkring farliga lågan?»
 
 image::ed0046.jpg[]
 
+[verse]
 2. »Vad söker du väl 
 och vad snokar du efter 
 eller vad vill du, vänlöse, veta? 
@@ -17,6 +19,8 @@ vandra du åter hädan!
 Här, värnlöse, vara du ej får.»
 
 Den ankomne svarade: 
+
+[verse]
 3. »Vad är det för ett troll, 
 som står utanför gården 
 och vandraren ej välkommen bjuder? 
@@ -24,6 +28,7 @@ Utan lott i lovord
 du levat har, karl! 
 Laga dig hädan hem!»
 
+[verse]
 4. »Fjolsvinn jag heter 
 och har fullt upp förstånd, 
 fast ej gärna jag ger av min mat. 
@@ -32,6 +37,8 @@ du aldrig kommer
 och driv nu som fredlös på farled!»
 
 Den ankomne sade: 
+
+[verse]
 5. »Ögonens fägnad 
 åtrår ånyo 
 den, som får det fagraste se. 
@@ -40,15 +47,20 @@ kring gyllene salar.
 Här skulle jag ha lust att leva.»
 
 Fjolsvinn sade: 
+
+[verse]
 6. »Säg mig, sven, åt vem 
 som son du är född, 
 som vilka människors barn du är boren!»
 
 Den ankomne sade: 
+
+[verse]
 »Vindkald jag heter, 
 Varkald hette min fader, 
 Fjolkald var fader till honom.
 
+[verse]
 7. Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -57,6 +69,8 @@ och haver makten,
 egendom och yppiga salar!»
 
 Fjolsvinn sade: 
+
+[verse]
 8. »Menglod hon heter, 
 men modern henne fick 
 med Svavrtorins son. 
@@ -65,6 +79,8 @@ och haver makten,
 egendom och yppiga salar.»
 
 Vindkald sade: 
+
+[verse]
 9. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och det veta vill, 
@@ -73,6 +89,8 @@ då hos gudarne ej ens
 förfärligare fara man såg?»
 
 Fjolsvinn sade: 
+
+[verse]
 10. »Trymgoll hon heter, 
 men trenne henne gjorde, 
 som söner till Solblinde voro. 
@@ -81,6 +99,8 @@ på den, som färdas fram,
 då han lyfter henne från ledet.»
 
 Vindkald sade: 
+
+[verse]
 11. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -89,6 +109,8 @@ då hos gudarne ej ens
 förfärligare fara man såg?»
 
 Fjolsvinn sade: 
+
+[verse]
 12. »Gastropner heter gärdesgården 
 och gjort den jag har 
 av Leirbrimers lemmar, 
@@ -97,6 +119,8 @@ att stå den skall,
 så länge människor leva.»
 
 Vindkald sade: 
+
+[verse]
 13. »Säg di mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -105,6 +129,8 @@ de hungrigaste, någonsin,
 jag sett har i landen leva?»
 
 Fjolsvinn sade: 
+
+[verse]
 14. »Givr heter den ena 
 och Gere den andra, 
 om du vill det veta 
@@ -113,6 +139,8 @@ som de gärda skola,
 till alla gudar förgås.»
 
 Vindkald sade: 
+
+[verse]
 15. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -121,6 +149,8 @@ som må komma in,
 då de snabbt anfallande sova!»
 
 Fjolsvinn sade: 
+
+[verse]
 16. »Helt ojämn sömn 
 dem ålagd blev, 
 sedan de sattes att vakta; 
@@ -129,6 +159,8 @@ den andra om dagarne,
 då kommer ingen fram, om han kommit.»
 
 Vindkald sade: 
+
+[verse]
 17. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -137,6 +169,8 @@ som människor ha,
 och man löper in, då de äta!»
 
 Fjolsvinn sade: 
+
+[verse]
 18. »Två vingstekar ligga 
 i Vidovners leder, 
 om du det veta vill. 
@@ -145,6 +179,8 @@ som människor må giva
 och löpa in, då de äta.»
 
 Vindkald sade: 
+
+[verse]
 19. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -153,6 +189,8 @@ som breder sina grenar
 långt över alla land!»
 
 Fjolsvinn sade: 
+
+[verse]
 20. »Mimameid det heter, 
 men mången ej vet, 
 av vad rötter det rinner upp. 
@@ -161,6 +199,8 @@ som få blott ana;
 det fälles ej av flamma eller järn.
 
 Vindkald sade: 
+
+[verse]
 21. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -169,6 +209,8 @@ på det frejdade trädet,
 då av flammor eller järn det ej fälles.»
 
 Fjolsvinn sade: 
+
+[verse]
 22. »Av dess ollon skall man ut 
 på elden bära 
 för kvinnor, som lida i löndom; 
@@ -177,6 +219,8 @@ vad de inåt skulle,
 mot det bland människor ett medel detta är.»
 
 Vindkald sade: 
+
+[verse]
 23. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -185,6 +229,8 @@ som i höga trädet sitter,
 av guld han glöder all!»
 
 Fjolsvinn sade: 
+
+[verse]
 24. »Vidovner han heter, 
 och i vinden glänsande står han 
 på Mimameids kvistar kvar. 
@@ -193,6 +239,8 @@ han omåttligt trycker
 Surts Sinmara.»
 
 Vindkald sade: 
+
+[verse]
 25. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -201,6 +249,8 @@ genom vilket Vidovner
 kan segna ned till salen hos Hel!»
 
 Fjolsvinn sade: 
+
+[verse]
 26. »Lävatein det heter, 
 och Lopt det gjorde 
 med runor långt nedom likgrind. 
@@ -209,6 +259,8 @@ ligger det hos Sinmara,
 nio starka lås det stängda.»
 
 Vindkald sade: 
+
+[verse]
 27. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -217,6 +269,8 @@ som bort sig beger
 och vill den tenen taga!»
 
 Fjolsvinn sade: 
+
+[verse]
 28. »Tillbaka skall den komma, 
 som bort sig beger 
 och vill den tenen taga, 
@@ -225,6 +279,8 @@ det, som få äga,
 åt glänsande guldets gudinna.»
 
 Vindkald sade: 
+
+[verse]
 29. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -233,6 +289,8 @@ som människor äga
 och som gör bleka jättekvinnan blid!»
 
 Fjolsvinn sade: 
+
+[verse]
 30. »Skinande lie 
 skall i skidan du bära, 
 den som vilar i Vidovners språngben, 
@@ -241,6 +299,8 @@ innan hjälpsam hon blir
 och låter dig stridsvapnet låna.»
 
 Vindkald sade: 
+
+[verse]
 31. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -249,6 +309,8 @@ som slutes om
 av visa fladdrande flamman.»
 
 Fjolsvinn sade: 
+
+[verse]
 32. »Lyr han heter 
 men länge han skall 
 dallra på draget svärds udd; 
@@ -257,6 +319,8 @@ i alla tider
 ha folk blott föga sport.»
 
 Vindkald sade: 
+
+[verse]
 33. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -265,6 +329,8 @@ som jag har sett
 inom asasöners gård?»
 
 Fjolsvinn sade: 
+
+[verse]
 34. »Une och Ire, 
 Bare och Ore, 
 Var och Vegdrasil, 
@@ -273,6 +339,8 @@ Delling var med,
 när borgvallen bragtes till ända.»
 
 Vindkald sade: 
+
+[verse]
 35. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -281,6 +349,8 @@ varpå bruden jag ser
 högt i härlighet sitta!»
 
 Fjolsvinn sade: 
+
+[verse]
 36. »Lyvjaberg det heter 
 och länge det varit 
 till välsignelse för sårade och sjuka; 
@@ -289,6 +359,8 @@ om ock i åratal sjuk,
 den kvinna, som kliver därpå.»
 
 Vindkald sade: 
+
+[verse]
 37. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -297,6 +369,8 @@ som framför Menglods knän
 sitta i fred tillsamman!»
 
 Fjolsvinn sade: 
+
+[verse]
 38. »Liv heter en, 
 den andra Livtrasa, 
 den tredje som Tjodvarta kännes, 
@@ -305,6 +379,8 @@ Blid och Frid,
 Eir och Aurboda.»
 
 Vindkald sade: 
+
+[verse]
 39. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -313,6 +389,8 @@ dem, som giva dem offer,
 om det göres av hjälp behov!»
 
 Fjolsvinn sade: 
+
+[verse]
 40. »Hjälp de kloka giva, 
 om det gives dem offer 
 på stället, där altaren stå. 
@@ -321,6 +399,8 @@ hotar ej människosöner,
 att envar de ur trångmål ej taga.»
 
 Vindkald sade: 
+
+[verse]
 41. »Säg du mig, Fjolsvinn, 
 då dig fråga jag skall 
 och jag det veta vill, 
@@ -329,6 +409,8 @@ som på Menglods arm
 i sällhet sova får!»
 
 Fjolsvinn sade: 
+
+[verse]
 42. »Ingen man det finnes, 
 som på Menglods arm 
 i sällhet sova får, 
@@ -337,6 +419,8 @@ den solbjärta bruden
 åt honom som hustru var lovad.»
 
 Vindkald sade: 
+
+[verse]
 43. »Upp med dörrarna! 
 Öppna grinden! 
 Här kan du Svipdag se. 
@@ -345,6 +429,8 @@ om fröjd njuta
 Menglod vill med mig!»
 
 Fjolsvinn sade: 
+
+[verse]
 44. »Hör du, Menglod, 
 en man har hit kommit; 
 giv på den gästen nu akt! 
@@ -353,6 +439,8 @@ huset har sig öppnat;
 det synes, som han Svipdag vore.»
 
 Menglod sade: 
+
+[verse]
 45. »Kloka korpar 
 skola klösa dina ögon, 
 där på höga galgen du hänger, 
@@ -360,6 +448,7 @@ om du säger ej sant,
 att svennen har kommit 
 från fjärran faren till min sal.»
 
+[verse]
 46. »Varifrån har du farit? 
 Varifrån har du färdats? 
 Vad kallade dig husfolket hemma? 
@@ -368,6 +457,8 @@ skall jag upplysning få,
 om jag dig till hustru är given.»
 
 Svipdag sade: 
+
+[verse]
 47. »Svipdag jag heter, 
 Solbjart hette min fader; 
 bort drevo mig på kalla vägar vindar. 
@@ -379,6 +470,8 @@ om ock lycka ej blir vår lott.»
 image::ed0047.jpg[]
 
 Menglod sade: 
+
+[verse]
 48. »Lyckligt du nu kommit; 
 min längtan jag bidat; 
 på hälsning följe kärlig kyss! 
@@ -386,6 +479,7 @@ I allmänhet åsyn
 övermåttan gläder, 
 då en i en annan är kär.
 
+[verse]
 49. Länge jag satt 
 på Lyvjaberget 
 och väntade dig dagar och dygn. 
@@ -393,6 +487,7 @@ Nu blev det av,
 vad jag bidat hade, 
 att jag ser dig kommen till min sal.
 
+[verse]
 50. Den trånad är över, 
 varmed jag tänkte på dig 
 och du önskade äga min kärlek, 

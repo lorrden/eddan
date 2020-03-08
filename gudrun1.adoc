@@ -1,7 +1,11 @@
 = Första kvädet om Gudrun
 
-Gudrun satt hos den döde Sigurd; hon grät icke som andra kvinnor, men hon var färdig att spricka av sorg. Både kvinnor och karlar kommo dit för att trösta henne, men det var icke lätt gjort. Det är en sägen bland folk, att Gudrun hade ätit av Favners hjärta, och att hon därför förstod fåglalåt. Följande är ocksa diktat om Gudrun:
+Gudrun satt hos den döde Sigurd; hon grät icke som andra kvinnor, men hon var färdig att spricka av sorg.
+Både kvinnor och karlar kommo dit för att trösta henne, men det var icke lätt gjort.
+Det är en sägen bland folk, att Gudrun hade ätit av Favners hjärta, och att hon därför förstod fåglalåt.
+Följande är ocksa diktat om Gudrun:
 
+[verse]
 1. Det var en gång, som Gudrun 
 ville gå att dö, 
 då hon sorgfull satt 
@@ -11,6 +15,7 @@ eller slog med händerna,
 ej heller klagade 
 som andra kvinnor.
 
+[verse]
 2. Visa jarlar 
 gingo fram, 
 som henne manade 
@@ -20,6 +25,7 @@ gråta kunde,
 var så djupt bedrövad, 
 att hjärtat ville brista.
 
+[verse]
 3. Där sutto högborna 
 hustrur till jarlar, 
 guldsmyckade, 
@@ -29,6 +35,7 @@ sade envar av dem,
 den bittraste, 
 hon burit hade.
 
+[verse]
 4. Då sade Gjavlaug, 
 Gjukes syster: 
 »Mig vet jag mest vanlottad 
@@ -40,6 +47,7 @@ trenne systrars,
 åtta bröders, 
 jag ensam dock lever.»
 
+[verse]
 5. Dock icke Gudrun 
 gråta kunde; 
 så bedrövad hon var 
@@ -47,6 +55,7 @@ för sin döde make
 och stel av kval 
 vid konungens lik.
 
+[verse]
 6. Då sade Herborg, 
 Hunalands drottning: 
 »Svårare sorg 
@@ -56,6 +65,7 @@ i södern föllo
 och min man, den åttonde 
 med dem stupade.
 
+[verse]
 7. Fader och moder, 
 fyra bröder, 
 dem blåste på vågen 
@@ -63,6 +73,7 @@ vinden i kvav,
 böljan bröt 
 mot bordplankorna.
 
+[verse]
 8. Själv skulle jag sköta, 
 själv skulle jag kläda, 
 själv skulle jag låta 
@@ -72,6 +83,7 @@ på ett enda halvår,
 utan att hugnad 
 jag hade av någon.
 
+[verse]
 9. Så fick jag fången 
 av fiendehär 
 samma halvår 
@@ -81,6 +93,7 @@ och skorna binda
 varje morgon 
 på makan till hersen.
 
+[verse]
 10. Hon sökte mig skrämma 
 av svartsjuka, 
 och drev till mig med hårda 
@@ -90,6 +103,7 @@ jag herre sett bättre,
 men fru i huset 
 fann jag ej värre.»
 
+[verse]
 11. Dock icke Gudrun 
 gråta kunde, 
 så bedrövad hon var 
@@ -97,6 +111,7 @@ för sin döde make
 och stel av kval 
 vid konungens lik.
 
+[verse]
 12. Då sade Gullrond, 
 Gjukes dotter: 
 »Få trösteord, fast vis, 
@@ -106,6 +121,7 @@ vivet att säga.»
 Hon ville ej längre 
 liket hölja.
 
+[verse]
 13. Snabbt hon lakanet 
 av Sigurd ryckte 
 och kastade en kudde 
@@ -115,6 +131,7 @@ Kyss hans läppar,
 som om du famnade 
 fursten i livet!»
 
+[verse]
 14. En enda gång 
 såg Gudrun på honom, 
 såg furstens hår, 
@@ -124,6 +141,7 @@ brusten i döden,
 hjärtats borg av svärdet 
 genomskuren.
 
+[verse]
 15. Då böjde Gudrun 
 mot bolstret knä, 
 lockarne lossnade, 
@@ -131,6 +149,7 @@ i låga brann kinden,
 och regnet av tårar 
 rann i hennes knä.
 
+[verse]
 16. Då grät Gudrun, 
 Gjukes dotter, 
 så att tårarne forsade 
@@ -140,6 +159,7 @@ gällt kacklade,
 de härliga fåglar, 
 som husfrun ägde.
 
+[verse]
 17. Då sade Gullrond, 
 Gjukes dotter: 
 »Eder kärlek vet jag 
@@ -151,6 +171,7 @@ ute eller inne,
 syster min, 
 om hos Sigurd du ej var.»
 
+[verse]
 18. Då sade Gudrun, 
 Gjukes dotter: 
 »Så var min Sigurd 
@@ -162,6 +183,7 @@ på band dragen,
 en ädel opal, 
 över ädlingar han var.
 
+[verse]
 19. Jag föreföll också 
 furstens kämpar 
 högre än alla 
@@ -171,6 +193,7 @@ som lövet är
 ofta på jolster, 
 efter avliden drott.
 
+[verse]
 20. Jag saknar, då jag sitter, 
 då i sängen jag vilar, 
 min vän att språka med; 
@@ -180,6 +203,7 @@ vålla Gjukes söner
 och sin systers 
 svåra gråt.
 
+[verse]
 21. I läggen öde 
 landet på folk, 
 så visst som I svikit 
@@ -191,6 +215,7 @@ bereda skola,
 sedan du svor 
 Sigurd eder.
 
+[verse]
 22. I gården det ofta 
 gladare var, 
 så, när min Sigurd 
@@ -200,6 +225,7 @@ om Brynhilds hand,
 en eländig varelse, 
 i olycklig stund.»
 
+[verse]
 23. Då sade Brynhild, 
 Budles dotter: 
 »Utan man och barnlös 
@@ -209,6 +235,7 @@ att gråta du skulle,
 och i morse gav dig 
 makt att tala!»
 
+[verse]
 24. Då sade Gullrond, 
 Gjukes dotter: 
 »Tig, du leda, 
@@ -222,6 +249,7 @@ förkrossande sorg
 och det värsta fördärv 
 av vänskap för kvinnor.»
 
+[verse]
 25. Då sade Brynhild, 
 Budles dotter: 
 »Atle allena 
@@ -229,6 +257,7 @@ all olycka vållar,
 son till Budle, 
 broder till mig.
 
+[verse]
 26. I hallen vi två då 
 hos hunska folket 
 sågo guldet 
@@ -238,6 +267,7 @@ jag svårt har umgällt,
 från denna syn 
 ser jag alltid bort.»
 
+[verse]
 27. Hon stod vid stolpen, 
 sin styrka hon samlade; 
 det brann på Brynhild, 
@@ -247,4 +277,5 @@ etter fnyste hon,
 då hon såg såren 
 på Sigurds lik.
 
-Gudrun gick därifrån bort till skogs ut i ödemarken och begav sig ända till Danmark och var där sju halvår med Tora, Hakons dotter. Brynhild ville icke leva efter Sigurd, hon lät döda sina åtta trälar och fem trälinnor; därpa stack hon sig till döds med svärd, såsom det säges i den korta Sigurdarkvida.
+Gudrun gick därifrån bort till skogs ut i ödemarken och begav sig ända till Danmark och var där sju halvår med Tora, Hakons dotter.
+Brynhild ville icke leva efter Sigurd, hon lät döda sina åtta trälar och fem trälinnor; därpa stack hon sig till döds med svärd, såsom det säges i den korta Sigurdarkvida.

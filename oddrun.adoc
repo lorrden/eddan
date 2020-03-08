@@ -5,6 +5,7 @@ Vilmund hette den, som var hennes älskare.
 Hon kunde icke föda barn, innan Oddrun, Atles syster, kom tillstädes, och hon hade varit käresta åt Gunnar, Gjukes son.
 Om denna saga är här ett kväde:
 
+[verse]
 1. I gamla sagor 
 jag sägas hörde, 
 hur en mö kom 
@@ -14,6 +15,7 @@ ovan jorden
 Heidreks dotter giva 
 hjälp till förlossning.
 
+[verse]
 2. Det sporde Oddrun, 
 Atles syster, 
 att mön hon hade 
@@ -23,6 +25,7 @@ styrd av betsel,
 och på svarten 
 sadel lade.
 
+[verse]
 3. Hästen lät hon 
 löpa över slätten, 
 tills hon kom till hallen, 
@@ -34,24 +37,31 @@ upp längs salen,
 och det första ord 
 hon fällde, var detta:
 
+[verse]
 4. »Vad talas om mest 
 i trakten här? 
 Vad höres mest 
 i Hunaland?»
 
 Tärnan sade: 
+
+[verse]
 »Här ligger Borgny 
 bruten av värkar, 
 din väninna, Oddrun. 
 Överlägg, om du kan hjälpa!»
 
 Oddrun sade: 
+
+[verse]
 5. »Vilken furste har 
 fläckat hennes rykte? 
 Vi är Borgny 
 i barnsnöd kommen?»
 
 Tärnan sade: 
+
+[verse]
 6. »Vilmund heter 
 vännen till kämpar; 
 i varma lakanet 
@@ -59,6 +69,7 @@ lindade han mön
 hela fem vintrar, 
 och för fadern hon det dolde.»
 
+[verse]
 7. Jag tror ej att mera 
 de talade än detta, 
 mild hon gick att sitta 
@@ -68,6 +79,7 @@ mäktigt kvad Oddrun
 bitande trollsång 
 Borgny att hjälpa.
 
+[verse]
 8. Då kunde flicka och gosse 
 födas till världen, 
 hennes harmlösa barn 
@@ -77,6 +89,7 @@ på den livsfarligt sjuka,
 och intet ord förr 
 hon yttrade än detta:
 
+[verse]
 9. »Dig hulda väsen 
 så visst må hjälpa, 
 Frigg och Freja 
@@ -84,7 +97,9 @@ och flera gudar,
 som från mig faran 
 du fjärmat har!»
 
-Oddrun sade: 
+Oddrun sade:
+
+[verse]
 10. »Till jord jag ej föll 
 för att hjälpa dig, 
 därför att värd det 
@@ -96,7 +111,9 @@ arvet skiftade,
 att nämligen giva 
 hjälp åt alla.»
 
-Borgny sade: 
+Borgny sade:
+
+[verse]
 11. »Virrig är du, Oddrun, 
 och vanvettig, 
 då mig i fiendskap 
@@ -106,7 +123,9 @@ på jorden med dig,
 som av två bröder 
 vi borna varit.»
 
-Oddrun sade: 
+Oddrun sade:
+
+[verse]
 12. »Än jag minnes, 
 vad om aftonen du sade, 
 när jag åt Gunnar 
@@ -116,11 +135,13 @@ sedermera skulle
 ej hända en mö 
 mer än mig ensam.»
 
+[verse]
 13. Så satte hon sig 
 den sorgsna kvinnan 
 att tälja sina olyckor 
 i tröstlös sorg.
 
+[verse]
 14. »Jag fostrades upp 
 i furstars sal 
 - mest till glädje - 
@@ -130,6 +151,7 @@ och min faders egendom
 blott fem vintrar, 
 som min fader levde.
 
+[verse]
 15. Så sade han 
 sina sista ord, 
 innan han dog, 
@@ -139,6 +161,7 @@ med röda guldet
 och söderut givas 
 åt sonen till Grimhild.
 
+[verse]
 16. Men Brynhild bjöd han 
 bära hjälmen, 
 valkyria, bjöd han, 
@@ -148,6 +171,7 @@ mö skulle födas
 uti all världen, 
 om ödet henne sparde.
 
+[verse]
 17. Brynhild i jungfruburen 
 bonad vävde, 
 under sin lydnad, 
@@ -157,6 +181,7 @@ himlen dånade,
 när Favners baneman 
 borgen varsnade.
 
+[verse]
 18. Då slogs ett slag 
 med svärd från Valland, 
 och borgen bröts, 
@@ -166,6 +191,7 @@ utan mycket litet,
 förrn dessa svek 
 hon samtliga kände.
 
+[verse]
 19. Hård lät hon därföre 
 hämnden bliva, 
 så att riktigt vi alla 
@@ -175,11 +201,13 @@ bebos, skall det spridas,
 att vid Sigurds sida 
 hon sökte döden.
 
+[verse]
 20. Men jag åt Gunnar 
 gav min kärlek, 
 ringars brytare, 
 som Brynhild skolat.
 
+[verse]
 21. Åt Atle de röda 
 ringar bjödo 
 och åt min broder 
@@ -189,6 +217,7 @@ bjöd Gunnar för mig,
 vad på Grane klövjats, 
 om han guld krävde.
 
+[verse]
 22. Men Atle sade sig 
 aldrig vilja 
 få gåva för brud 
@@ -198,6 +227,7 @@ bekämpa kunde,
 utan huvudet jag gömde 
 vid hjältens bröst.
 
+[verse]
 23. Det sade många 
 mina släktingar, 
 påstodo sig oss 
@@ -207,11 +237,13 @@ att icke jag komme
 att låta mig något 
 till last bliva.
 
+[verse]
 24. Men dylikt ej någonsin 
 neka borde 
 en för en annan, 
 där älskog råder.
 
+[verse]
 25. Sina svenner 
 sände Atle 
 över mörka skogen 
@@ -221,6 +253,7 @@ där ej komma de skulle,
 där vi båda tillsammans 
 bredde lakan.
 
+[verse]
 26. Vi bjödo röda 
 ringar åt männen, 
 att de intet skulle 
@@ -230,11 +263,13 @@ de hem skyndade
 och ivrigt det 
 för Atle sade.
 
+[verse]
 27. För Gudrun dolde de 
 detta noga, 
 fast dubbelt hellre 
 hon det höra bort.
 
+[verse]
 28. Dån var att höra 
 av hovar med guldskor, 
 när Gjukes söner 
@@ -244,6 +279,7 @@ ur bröstet på Hogne,
 men i ormgård 
 den andre lade.
 
+[verse]
 29. En annan gång 
 jag till Geirmund for 
 att också göra 
@@ -255,6 +291,7 @@ till hjälp åt honom,
 den ättstore konungen, 
 då komma skulle.
 
+[verse]
 30. Från Lässö då 
 jag lyssnade till, 
 hur av stor sorg 
@@ -264,11 +301,13 @@ att tänka på bortfärd,
 furstens liv 
 jag frälsa ville.
 
+[verse]
 31. Vi läto fartyget 
 flyta över havet, 
 tills Atles gårdar 
 jag alla såg.
 
+[verse]
 32. Då kom Atles 
 usla moder 
 krälande ut - 
@@ -278,6 +317,7 @@ hon grov till hjärtat,
 att jag den frejdade 
 ej frälsa kunde.
 
+[verse]
 33. Ofta jag undrar, 
 hur efteråt jag kan, 
 du lindormsguldets dis, 
@@ -287,6 +327,7 @@ orädde stridshjälten,
 svärdens skiftare, 
 som mig själv jag gör.
 
+[verse]
 34. Du satt och lyssnade, 
 medan jag sade dig 
 många olycksöden 

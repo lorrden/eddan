@@ -1,19 +1,27 @@
 = Gripers spådom
 
-Griper hette Eylimes son, broder till Hjordis; han rådde över land och var klokast av alla människor och spåkunnig. Sigurd red ensam och kom till Gripers sal. Sigurd var lätt igenkännlig; han träffade en man utanför salen, som kallade sig Geiter. Honom tilltalade Sigurd och frågar:
+Griper hette Eylimes son, broder till Hjordis; han rådde över land och var klokast av alla människor och spåkunnig.
+Sigurd red ensam och kom till Gripers sal.
+Sigurd var lätt igenkännlig; han träffade en man utanför salen, som kallade sig Geiter.
+Honom tilltalade Sigurd och frågar:
 
+[verse]
 1. »Vem bor väl här 
 i denna borg? 
 Vad kalla krigarne 
 konungen över folket?»
 
-Geiter sade: 
+Geiter sade:
+
+[verse]
 »Griper heter 
 hövdingen över män, 
 som fasta jorden 
 och folket styr.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 2. »Är vise härskaren 
 hemma i landet? 
 Skall kungen med mig 
@@ -23,18 +31,23 @@ Okänd man
 fort jag vill 
 finna Griper.»
 
-Geiter sade: 
+Geiter sade:
+
+[verse]
 3. »Den glade konungen 
 skall Geiter spörja, 
 vem mannen är, 
 som möta vill Griper.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 »Sigurd jag heter, 
 av Sigmund boren, 
 men Hjordis är 
 hjältens moder.»
 
+[verse]
 4. Då gick Geiter 
 åt Griper att säga: 
 »Härute står kommen 
@@ -44,6 +57,7 @@ till utseendet;
 inför dig, konung, 
 han komma vill.»
 
+[verse]
 5. Då träder krigarnes 
 konung ur salen 
 och hjärtligt hälsar 
@@ -53,18 +67,23 @@ Vi såg jag dig ej förr?
 Men du, Geiter, 
 om Grane tag hand!»
 
+[verse]
 6. De togo till att språka 
 och tala om mycket, 
 när rådvisa männen 
 råkade varandra.
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 »Säg mig, morbror, 
 om du ser förut, 
 hur livet för Sigurd 
 löpa skall?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 7. »En man skall du bliva, 
 mest ärad under sol, 
 och alla furstar 
@@ -74,7 +93,9 @@ men snålande flykt,
 ädel att åse 
 och i ord vis.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 8. »Säg, kloke konung, 
 klarare än jag spörjer, 
 vis, för Sigurd, 
@@ -84,7 +105,9 @@ till framgång för mig,
 då ur din gård 
 gått jag har.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 9. »Först skall du, furste, 
 din fader hämna 
 och allt ont 
@@ -94,7 +117,9 @@ hårda, djärva
 söner fälla 
 och seger vinna.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 10. »Säg, ädle konung, 
 min släkting, för mig, 
 med stor klokhet, 
@@ -104,7 +129,9 @@ snara bragder,
 som högst stiga 
 mot himlens valv?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 11. »Ensam du skall dräpa 
 ormen den glänsande, 
 som glupsk ligger 
@@ -114,7 +141,9 @@ till bane varda,
 Regin och Favner; 
 rätt säger Griper.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 12. »Ymnig blir min rikedom, 
 om jag utföra kan 
 i världen den strid, 
@@ -124,7 +153,9 @@ förtälj än längre,
 vad mera skall hända 
 i mitt liv!»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 13. »Favners bo 
 du finna skall 
 och föra bort 
@@ -134,7 +165,9 @@ på Granes bogar;
 ryktbar av striden, 
 du rider till Gjuke.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 14. »Med kloka ord 
 för konungen skall du, 
 modige furste, 
@@ -144,7 +177,9 @@ och går därifrån;
 vad skall mera hända 
 i mitt liv?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 15. »På fjället sover, 
 furstens dotter, 
 bjärt i brynja 
@@ -154,7 +189,9 @@ svänga skall du,
 med Favners bane 
 brynjan rista.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 16. »Bruten är brynjan, 
 bruden begynner 
 att tala, då vivet 
@@ -164,7 +201,9 @@ till Sigurd jungfrun,
 som till fördel 
 för fursten bliver?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 17. »Hon skall dig, ryktbare, 
 runor lära, 
 alla, som människor 
@@ -174,7 +213,9 @@ av människor tala,
 och helande läkedom. 
 Var lycklig, konung!»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 18. »Lyktat är nu detta, 
 lärd är visdomen, 
 och redo jag är 
@@ -184,7 +225,9 @@ förtälj än längre,
 vad mera skall hända 
 i mitt liv!»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 19. »Hinna skall du 
 Heimers bygder 
 och glad komma 
@@ -194,7 +237,9 @@ vad jag såg av framtiden;
 längre fram det Griper 
 ej lönt är att spörja
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 20. »Ängslan mig vållar 
 det ord, du sade, 
 ty, furste, längre 
@@ -204,7 +249,9 @@ för Sigurd vet du,
 därför, Griper, 
 den du ej säger.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 21. »Av livet ditt 
 låg mig ungdomen 
 ljusast före 
@@ -214,7 +261,9 @@ räknas för vis,
 ej heller för framsynt; 
 vad jag förutsåg, är borta.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 22. »Ovan jord 
 ingen jag vet 
 som framtiden ser 
@@ -224,7 +273,9 @@ fast dåligt det är
 och mig min ställning 
 menlig bliver.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 23. »Med laster är icke 
 ditt liv dig bestämt, 
 låt, ädle furste, 
@@ -234,7 +285,9 @@ medan människor leva,
 du vållare av vapnens 
 vinande storm!»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 24. »Illa sker mig. 
 Skiljas måste 
 Sigurd från fursten, 
@@ -244,7 +297,9 @@ om du vill, morbroder!
 I livet på förhand 
 allt ligger bestämt.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 25. »Nu skall för Sigurd 
 Jag säga noga, 
 då drotten mig 
@@ -254,7 +309,9 @@ att jag visst icke ljuger:
 en dag åt dig, 
 döden är ämnad.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 26. »Vrede jag vill ej 
 från väldige konungen 
 men goda råd 
@@ -264,7 +321,9 @@ fast ej väl behagligt,
 vad som dig synes 
 Sigurd vänta.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 27. »En flicka är hos Heimer, 
 fager att åse, 
 och Brynhild henne 
@@ -274,7 +333,9 @@ men bålde konungen,
 Heimer, fostrar 
 hårdsinta mön.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 28. »Vad gör det mig, 
 att en mö finnes, 
 fager att åse, 
@@ -284,7 +345,9 @@ grant mig säga,
 ty ödet mitt 
 allt du förutser.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 29. »Hon gör, att glädjen 
 går ifrån dig, 
 Heimers fosterdotter, 
@@ -294,7 +357,9 @@ ej om sak dömer,
 på man du ej aktar, 
 om ej mön du ser.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 30. »Vad skall till lisa 
 lända Sigurd? 
 Säg du det, Griper, 
@@ -304,7 +369,9 @@ till maka vinna,
 denna furstens 
 fagra dotter?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 31. »I skolen alla 
 eder svära 
 fullt och fast, 
@@ -314,7 +381,9 @@ du gjort hos Gjuke,
 så minns du ej mera 
 mön hos Heimer.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 32. »Vad för nagot? 
 Nämn mig det, Griper! 
 Ser du flyktighet 
@@ -324,7 +393,9 @@ mot bruden jag skall,
 som jag trodde mig älska 
 av all min själ?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 33. »Du snärjes, ädling, 
 av annans svek, 
 för Grimhilds list 
@@ -334,7 +405,9 @@ ljushårig mö,
 sin egen dotter; 
 anslag hon spinner.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 34. »Blir jag med Gunnar 
 och hans bröder svåger 
 och går att taga 
@@ -344,7 +417,9 @@ fursten då hade,
 om ånger icke 
 ängslade mig.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 35. »Svika dig Grimhild 
 söka skall, 
 egga dig att bedja 
@@ -354,7 +429,9 @@ goterfurstens;
 raskt furstens moder 
 färden du lovar.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 36. »Något menligt mig möter, 
 det märker jag grant; 
 svårligen vacklar 
@@ -364,7 +441,9 @@ till brud åt en annan
 den sköna mö, 
 som själv jag älskar.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 37. »I skolen alla 
 eder svära, 
 Gunnar och Hogne 
@@ -374,7 +453,9 @@ växlen I skepnad,
 Gunnar och du; 
 Griper ej ljuger.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 38. »Vad är skälet till det? 
 Vi skola vi skifta 
 sätt och utseende 
@@ -384,7 +465,9 @@ följa det torde,
 mycket elak. 
 Säg mera, Griper!»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 39. »Gunnars skepnad 
 och skick du har, 
 ditt eget tal 
@@ -394,7 +477,9 @@ fosterdottern
 till Heimer, men henne 
 till hustru ej får.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 40. »Mycket illa det mig tyckes. 
 Usel bland män 
 skall Sigurd sägas, 
@@ -404,7 +489,9 @@ lägga vill
 mot furstedottern, 
 den främsta, jag vet.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 41. »Du, härens hövding, 
 härlig du skall 
 vila hos mön, 
@@ -414,7 +501,9 @@ medan människor leva,
 du folkens furste, 
 ditt frejdade namn.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 42. »Skall Gunnar äga 
 den goda till hustru, 
 ryktbar bland män 
@@ -424,7 +513,9 @@ hans trotsiga brud
 har sovit hos mig? 
 Sådant har ej timat.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 43. »Samman skola bådas 
 bröllop drickas, 
 Sigurds och Gunnars, 
@@ -434,7 +525,9 @@ då hem I kommit,
 till själen var 
 sig själv förbliver.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 44. »Hur skall sedan 
 svågerskapet 
 till gamman oss bliva, 
@@ -444,7 +537,9 @@ till glädje lända
 eller mig själv 
 skänka hugnad?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 45. »Du minns ederna åter, 
 kan ingenting säga, 
 du unnar Gudrun 
@@ -457,7 +552,9 @@ med svek att hämnas.»
 .Brynhild och Gudrun
 image::ed0031.jpg[]
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 46. »Vad skall bruden 
 som böter taga, 
 för att vi smidde 
@@ -467,7 +564,9 @@ eder svurna,
 inga fyllda, 
 och föga kärlek.»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 47. »Hon skall gå 
 att Gunnar säga, 
 att icke du aktade 
@@ -477,7 +576,9 @@ den ädle konungen,
 all sin lit 
 på ditt löfte satte.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 48. »Vad för något! 
 Nämn mig det, Griper! 
 Skall sant det vara, 
@@ -487,7 +588,9 @@ hjältekvinnan
 och på sig själv? 
 Skönjer du det, Griper?»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 49. »Ej väl, av vrede 
 och värkande sorg, 
 dig mäktiga bruden 
@@ -497,7 +600,9 @@ du kränkte icke,
 dock drottningen I 
 bedrogen med list.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 50. »Skall Gunnar, den kloke, 
 Och Guttorm och Hogne 
 av hennes eggelse 
@@ -507,7 +612,9 @@ svärden bloda
 på mig, sin svåger? 
 Säg du det, Griper!»
 
-Griper sade: 
+Griper sade:
+
+[verse]
 51. »Gruvligt det Gudrun 
 går till hjärtat; 
 dig hennes bröder 
@@ -517,6 +624,7 @@ all glädje sedan
 för visa vivet; 
 det vållar Grimhild.
 
+[verse]
 52. Det hugna dig skall, 
 du härens ledare, 
 att den lyckan för furstens 
@@ -526,7 +634,9 @@ ovan mullen skall födas
 under solens säte 
 än, Sigurd, du anses.»
 
-Sigurd sade: 
+Sigurd sade:
+
+[verse]
 53. »Skiljoms i vänskap! 
 Man skickelsen ej motstår. 
 Väl har du, Griper, 

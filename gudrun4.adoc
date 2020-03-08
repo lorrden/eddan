@@ -12,6 +12,7 @@ Men när Gudrun fick veta detta, då talade hon till sina söner.
 
 image::ed0043.jpg[]
 
+[verse]
 1. Den ordväxling sporde jag 
 mest olycksbringande, 
 tunga ord, talade 
@@ -21,6 +22,7 @@ hetsade till strid
 med bistra ord 
 sina båda söner.
 
+[verse]
 2. »Vi sitten I stilla 
 och soven bort livet? 
 Vi ledsnen I ej 
@@ -34,6 +36,7 @@ av svarta och vita,
 gråa, gångvana, 
 gotiska hästar?
 
+[verse]
 3. I bleven ej lika 
 den bragdrike Gunnar, 
 ej heller modiga, 
@@ -45,6 +48,7 @@ som mina bröder
 eller hunkonungarnes 
 hårda sinne.»
 
+[verse]
 4. Då sade Hamder, 
 i hågen djärv: 
 »Högt du ej lovade 
@@ -56,6 +60,7 @@ i blod av din man
 färgades röda, 
 flöto i mordvätska.
 
+[verse]
 5. Dig blev för dina båda 
 bröder hämnden 
 svår och smärtsam, 
@@ -65,11 +70,13 @@ på Jormunrek
 samstämmiga 
 vår syster kunnat hämna.
 
+[verse]
 6. Hämten oss hit 
 hunkonungarnas praktvapen! 
 Sporrat oss har du 
 till spjutens ting.»
 
+[verse]
 7. Leende begav sig 
 Gudrun till fatburn, 
 konungarnas hjälmar 
@@ -79,6 +86,7 @@ och till sönerna förde;
 de satte sig hurtiga 
 på hästarnes rygg.
 
+[verse]
 8. Då sade Hamder 
 i hågen djärv: 
 »Så kommer jag sedermera 
@@ -90,6 +98,7 @@ du arvöl dricker,
 över Svanhild men ock 
 över sönerna dina.»
 
+[verse]
 9. Gråtande Gudrun, 
 Gjukes dotter, 
 gick att sig sätta 
@@ -99,6 +108,7 @@ med tårade kinder
 sagan om sina 
 sorger många.
 
+[verse]
 10. »Tre eldar jag kände, 
 tre ärilar kände jag, 
 till tre mäns hem 
@@ -108,6 +118,7 @@ den allra bästa,
 som mina bröder 
 till bane blevo.
 
+[verse]
 11. Svårt och smärtsamt 
 [sin syster de bedrogo, 
 så att svårare] 
@@ -117,6 +128,7 @@ de menade illa,
 när ädlingarne mig 
 åt Atle gåvo.
 
+[verse]
 12. Mina hurtiga småttingar 
 jag hemligen kallade; 
 jag ej kunde för mitt onda 
@@ -124,6 +136,7 @@ upprättelse få,
 förr än jag huvudet 
 högg av nivlungarne.
 
+[verse]
 13. Jag begav mig till stranden, 
 gramse på nornorna, 
 stacka jag ville 
@@ -133,6 +146,7 @@ buro mig, ej dränkte mig,
 och på land jag steg, 
 att leva jag skulle.
 
+[verse]
 14. I brudsäng jag gick 
 - bättre jag förr tyckte det - 
 gav för tredje gången 
@@ -145,6 +159,7 @@ efter Jonakr.
 .Svanhild
 image::ed0044.jpg[]
 
+[verse]
 15. Men kring Svanhild 
 sutto tärnor, 
 och jag tyckte av barnen 
@@ -154,6 +169,7 @@ i salen hos mig,
 som solens stråle 
 med sitt starka ljus.
 
+[verse]
 16. Jag gav henne guld 
 och glänsande siden, 
 förrn jag gav henne bort 
@@ -165,6 +181,7 @@ lockar jag tänker,
 som de i gruset under hästars 
 hovar läto trampas.
 
+[verse]
 17. Den smärtsammaste 
 då min Sigurd, 
 seger berövad, 
@@ -178,6 +195,7 @@ då med kortsvärd de skuro
 till hjärtat på levande 
 hjältemodig konung.
 
+[verse]
 18. Av ont minns jag mycket 
 [och många sorger]. 
 Betsla, Sigurd, 
@@ -189,6 +207,7 @@ sonhustru eller dotter,
 som at Gudrun 
 gåve klenoder.
 
+[verse]
 19. Minns nu, Sigurd, 
 vad vi sade varandra, 
 då vi på bädden 
@@ -198,6 +217,7 @@ modige, gästa
 som vålnad från Hel 
 och ur världen jag dig!
 
+[verse]
 20. Byggen nu, karlar, 
 bålet av ekved, 
 till högsta höjd 
@@ -207,6 +227,7 @@ bräddfullt av olycka!
 Må sorgerna tina 
 kring tryckta hjärtat!
 
+[verse]
 21. För alla karlar 
 ont må bättras, 
 må för alla kvinnor 

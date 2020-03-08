@@ -5,6 +5,8 @@ Hon sade för Atle, att hon hade sett Tjodrek och Gudrun tillsammans.
 Atle var då mycket ledsen.
 
 Då sade Gudrun: 
+
+[verse]
 1. »Varför är du, Atle, 
 alltid, du Budles son, 
 ledsen till sinnes? 
@@ -15,6 +17,8 @@ att vid män du talte
 och mig såge.»
 
 Atle svarade: 
+
+[verse]
 2. »Mig grämer, Gudrun, 
 Gjukes dotter, 
 vad Herkja mig 
@@ -24,6 +28,7 @@ sova under täcket
 och lägga kärligt 
 linnet om er.»
 
+[verse]
 3. »Dig om allt det 
 eder jag svärja 
 vill vid den heliga 
@@ -33,6 +38,7 @@ gjorde ej sådant,
 som kvinna eller man 
 ej kunde få företa.
 
+[verse]
 4. Blott en enda gång 
 den orädde fursten, 
 härarnes hövding 
@@ -42,6 +48,7 @@ våra samtal,
 då vi två sorgsna 
 tillsamman språkade.
 
+[verse]
 5. Till oss kom Tjodrek 
 med trettio man, 
 ingen enda lever 
@@ -51,17 +58,21 @@ och brynjeklädda kämpar,
 du avhänt mig samtliga 
 släktingar, de närmaste.
 
+[verse]
 6. Sänd efter Saxe, 
 södermännens furste, 
 han kan viga vattnet 
 i vällande kittel.»
 
+[verse]
 7. Sju hundraden män 
 in i hallen gingo, 
 innan konungens hustru 
 stack handen i kitteln.
 
 Gudrun sade: 
+
+[verse]
 8. »Nu kommer ej Gunnar, 
 nu kallar jag ej Hogne, 
 aldrig mer jag ser 
@@ -71,6 +82,7 @@ slik orätt hämna,
 nu har jag själv att visa 
 beskyllningens falskhet.»
 
+[verse]
 9. Till bottnen hon sträckte 
 bländvit handlove, 
 och upp hon tog 
@@ -80,6 +92,7 @@ skuldlös är jag vorden,
 genom heligt prov, 
 hur än kitteln sjuder.»
 
+[verse]
 10. Då jublade Atles 
 hjärta i bröstet, 
 då Gudruns händer 
@@ -89,6 +102,7 @@ hit till kitteln,
 hon, som skyllde Gudrun 
 för skändlighet.»
 
+[verse]
 11. Något ömkligt den ej såg, 
 som ej åsåg det, 
 hur på Herkja 
