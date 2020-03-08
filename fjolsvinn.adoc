@@ -8,7 +8,7 @@ tursafolkets tillhåll.
 som står utanför gården 
 och far omkring farliga lågan?»
 
-image::ed0046.jpg[]
+image::ed0046.jpg[align="center"]
 
 [verse]
 2. »Vad söker du väl 
@@ -467,7 +467,7 @@ står ingen emot,
 om ock lycka ej blir vår lott.»
 
 .Menglod
-image::ed0047.jpg[]
+image::ed0047.jpg[align="center"]
 
 Menglod sade: 
 

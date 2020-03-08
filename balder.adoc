@@ -11,7 +11,7 @@ vi åt Balder drömmar
 bådade ofärd.
 
 .Balder
-image::ed0020.jpg[]
+image::ed0020.jpg[align="center"]
 
 [verse]
 2. Upp steg Oden, 
@@ -90,7 +90,7 @@ och livet från Odens
 ättling röva.»
 
 .Höder och Loke
-image::ed0021.jpg[]
+image::ed0021.jpg[align="center"]
 
 Valan sade: 
 

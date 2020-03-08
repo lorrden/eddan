@@ -612,7 +612,7 @@ men eftermålet
 aldrig dör 
 för envar, som ett gott har vunnit.
 
-image::ed0002.jpg[]
+image::ed0002.jpg[align="center"]
 
 [verse]
 77. Fä dör, 
@@ -854,7 +854,7 @@ Ej få ord
 till min fromma jag talte 
 i Suttungs salar.
 
-image::ed0003.jpg[]
+image::ed0003.jpg[align="center"]
 
 [verse]
 105. Gunnlod mig gav 
@@ -1217,7 +1217,7 @@ ord skapade,
 verk mig av verk 
 verk alstrade.
 
-image::ed0004.jpg[]
+image::ed0004.jpg[align="center"]
 
 [verse]
 142. Runor skall du finna, 

@@ -57,7 +57,7 @@ med blida ögon,
 gen seger åt oss, som här sitta!
 
 .Sigrdriva
-image::ed0033.jpg[]
+image::ed0033.jpg[align="center"]
 
 [verse]
 4. Hell eder, asar! 
@@ -154,7 +154,7 @@ ur Heiddraupners huvudskål
 och ur Hoddrovners horn.
 
 .Oden vid Mims lik
-image::ed0034.jpg[]
+image::ed0034.jpg[align="center"]
 
 [verse]
 14. På berget han stod 
@@ -224,7 +224,7 @@ Tänk därpå själv!
 Allt ont är av ödet tillmätt.»
 
 .Sigurd hos Sigrdriva
-image::ed0035.jpg[]
+image::ed0035.jpg[align="center"]
 
 Sigurd sade:
 

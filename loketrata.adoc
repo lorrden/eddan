@@ -10,7 +10,7 @@ Loke var där, och Frejs tjänare Böggver och Beyla.
 Många voro där av asar och alfer.
 
 .Den stora bryggkitteln; Äger, Ran samt deras nio döttrar
-image::ed0014.jpg[]
+image::ed0014.jpg[align="center"]
 
 Äger hade två tjänare: Fimafeng och Elder.
 Där hade man lysande guld för eldsljus; ölet bars fram av sig självt; stället var lyst i helig frid.
@@ -69,7 +69,7 @@ Sedan gick Loke in i salen.
 Men när de, som sutto där, sågo, vem som kommit in, tystnade de alla:
 
 .Loke
-image::ed0015.jpg[]
+image::ed0015.jpg[align="center"]
 
 Loke sade:
 
@@ -403,7 +403,7 @@ henne vill jag nämna,
 som Fenrer ifrån dig slet.»
 
 .Tyr
-image::ed0016.jpg[]
+image::ed0016.jpg[align="center"]
 
 Tyr sade:
 
@@ -546,7 +546,7 @@ om vi noga skola
 uppräkna alla våra fel.»
 
 .Siv
-image::ed0017.jpg[]
+image::ed0017.jpg[align="center"]
 
 Då gick Siv fram och hällde i en kristallbägare mjöd åt Loke och sade:
 
@@ -686,7 +686,7 @@ Men efter detta dolde sig Loke i Franangers fors i laxskepnad; där togo asarne 
 Han blev bunden med sin son Nares tarmar, men hans son Narve blev till en varg.
 
 .Sigyn, Loke och etterormen
-image::ed0018.jpg[]
+image::ed0018.jpg[align="center"]
 
 Skade tog en etterorm och fäste upp den över ansiktet på Loke, och etter dröp ur den.
 Sigyn, Lokes hustru, satt där och höll ett fat under ettret.

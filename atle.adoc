@@ -303,7 +303,7 @@ glamsal gången,
 gråten sväljde.
 
 .Gudrun
-image::ed0040.jpg[]
+image::ed0040.jpg[align="center"]
 
 Hon sade: 
 

@@ -6,7 +6,7 @@ Skirner hette Frejs skosven.
 Njord bad honom uppmana Frej att tala ut.
 
 .Njord
-image::ed0008.jpg[]
+image::ed0008.jpg[align="center"]
 
 Då sade Skade: 
 
@@ -59,7 +59,7 @@ fostrades tillsamman,
 väl vi två varann kunna tro.»
 
 .Skade
-image::ed0009.jpg[]
+image::ed0009.jpg[align="center"]
 
 Frej sade:
 
@@ -89,7 +89,7 @@ och det svärd,
 som svingar sig självt, 
 förgörande jättars ätt!»
 
-image::ed0010.jpg[]
+image::ed0010.jpg[align="center"]
 
 Frej sade:
 

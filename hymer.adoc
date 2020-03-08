@@ -234,7 +234,7 @@ den som gudarne hata,
 som runt kring världen 
 sig ringlar i djupet.
 
-image::ed0013.jpg[]
+image::ed0013.jpg[align="center"]
 
 [verse]
 23. Dristigt drog 

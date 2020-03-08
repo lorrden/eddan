@@ -4,7 +4,7 @@ Så säges det i fornsagor, att en av asarne, som hette Heimdall, färdades fram
 Efter denna saga är detta kväde.
 
 .Heimdall
-image::ed0022.jpg[]
+image::ed0022.jpg[align="center"]
 
 [verse]
 1. En gång gå man sade 
@@ -322,7 +322,7 @@ de drucko och språkade;
 dagen gick till ända.
 
 .Heimdall
-image::ed0023.jpg[]
+image::ed0023.jpg[align="center"]
 
 [verse]
 33. Rig kunde dem 

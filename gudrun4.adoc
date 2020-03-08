@@ -10,7 +10,7 @@ Det sade Bicke för konungen.
 Konungen lät hänga Randver och lät Svanhild trampas under hästars fötter.
 Men när Gudrun fick veta detta, då talade hon till sina söner.
 
-image::ed0043.jpg[]
+image::ed0043.jpg[align="center"]
 
 [verse]
 1. Den ordväxling sporde jag 
@@ -157,7 +157,7 @@ söner som arvingar
 efter Jonakr.
 
 .Svanhild
-image::ed0044.jpg[]
+image::ed0044.jpg[align="center"]
 
 [verse]
 15. Men kring Svanhild 

@@ -74,7 +74,7 @@ som jag riktigt kände.
 Säg mig ditt namn, 
 om över sundet du vill fara!»
 
-image::ed0011.jpg[]
+image::ed0011.jpg[align="center"]
 
 Tor sade:
 
@@ -462,7 +462,7 @@ Harbard sade:
 54. »Far från sundet fjärran, 
 förrän jag dig nekar.»
 
-image::ed0012.jpg[]
+image::ed0012.jpg[align="center"]
 
 Tor sade:
 

@@ -632,7 +632,7 @@ på askens grenar
 och drottföljet drager 
 till drömmarnes ting.
 
-image:ed0029.jpg[]
+image:ed0029.jpg[align="center"]
 
 [verse]
 51. Var ej avvita nog 
@@ -675,4 +675,4 @@ Sigurd växte upp där i barndomen.
 Sigmund och alla hans söner voro långt framom alla andra män i kraft och storlek och mod och all idrott.
 Sigurd var dock främst av alla, och honom säga alla i fornsagorna stå framför alla och vara den ansenligaste av härkonungar.
 
-image:ed0030.jpg[]
+image:ed0030.jpg[align="center"]

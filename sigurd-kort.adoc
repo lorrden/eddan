@@ -121,7 +121,7 @@ sedan att sona,
 det att sonen lever?»
 
 .Gunnar
-image::ed0037.jpg[]
+image::ed0037.jpg[align="center"]
 
 [verse]
 13. Ledsen blev Gunnar, 
@@ -513,7 +513,7 @@ leva vi skola;
 tärnorna få göra dig 
 tillräcklig heder.»
 
-image::ed0038.jpg[]
+image::ed0038.jpg[align="center"]
 
 [verse]
 51. Länge tänkte 

@@ -511,4 +511,4 @@ jag beder alla gudar
 Ottar hjälpa.»
 
 .Freja åker efter sina katter
-image::ed0024.jpg[]
+image::ed0024.jpg[align="center"]

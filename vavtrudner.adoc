@@ -40,7 +40,7 @@ Må, människors fader,
 din förmåga stå bi, 
 då du samtal söker med jätten!»
 
-image::ed0005.jpg[]
+image::ed0005.jpg[align="center"]
 
 [verse]
 5. For så Oden 

@@ -186,7 +186,7 @@ gästa i Asgård,
 om dig din hammare 
 du hämtar ej åter.»
 
-image::ed0019.jpg[]
+image::ed0019.jpg[align="center"]
 
 [verse]
 19. De bundo på Tor då 

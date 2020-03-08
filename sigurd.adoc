@@ -242,4 +242,4 @@ I detta kväde talas om Sigurds död, och här pekar det åt, som om de dödade 
 Men tyskarne säga så, att de dödade honom ute i skogen, och så säges i den gamla Gudrunarkvida, att Sigurd och Gjukes söner hade ridit till tings, när han dödades, men det säga alla på enahanda sätt, att de sveko honom mot tro och loven och angrepo honom liggande och oförberedd.
 
 .Sigurds lik
-image::ed0036.jpg[]
+image::ed0036.jpg[align="center"]

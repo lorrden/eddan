@@ -64,7 +64,7 @@ och i Trudheim
 skall Tor vara, 
 tills alla gudar förgås.
 
-image::ed0006.jpg[]
+image::ed0006.jpg[align="center"]
 
 [verse]
 5. Ydalar det heter, 
@@ -82,7 +82,7 @@ Valaskjalv den heter,
 som vist åt sig 
 asagud i urtiden byggt.
 
-image::ed0007.jpg[]
+image::ed0007.jpg[align="center"]
 
 [verse]
 7. Söckvabäck heter den fjärde, 

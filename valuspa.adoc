@@ -1,6 +1,6 @@
 = Valans spådom
 
-image::ed0048.jpg[]
+image::ed0048.jpg[align="center"]
 
 [verse]
 1. »Hören mig alla 
@@ -196,7 +196,7 @@ som i dalarne faller,
 den står evigt grön 
 över Urdarbrunnen.
 
-image::ed0001.jpg[]
+image::ed0001.jpg[align="center"]
 
 [verse]
 20. Därifrån komma möar, 

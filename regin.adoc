@@ -175,7 +175,7 @@ hans ödestråd ligger
 kring alla land.»
 
 .Sigurd
-image::ed0032.jpg[]
+image::ed0032.jpg[align="center"]
 
 Sigurd var sedan ständigt hos Regin, och han sade Sigurd, att Favner låg på Gnitaheden och var i en orms skepnad. Han hade en skräckhjälm, som allt levande räddes för.
 Regin gjorde åt Sigurd ett svärd, som hette Gram; det var så vasst, att han stack ned det i Ren och lät en ulltapp driva för strömmen, och det skar igenom ulltappen liksom vattnet.

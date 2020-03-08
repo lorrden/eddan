@@ -4,7 +4,7 @@
 
 Översättning från isländskan av Erik Brate.
 
-image::ed0044.jpg[]
+image::ed0044.jpg[align="center"]
 
 include::preface.adoc[]
 

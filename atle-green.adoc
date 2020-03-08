@@ -286,7 +286,7 @@ mena tyckes mycket,
 att vi månde få kort liv.»
 
 .Hogne tar avsked av en av sina söner
-image::ed0041.jpg[]
+image::ed0041.jpg[align="center"]
 
 [verse]
 30. De sågo dager lysa, 
@@ -508,7 +508,7 @@ Beras två söner
 och brodern till henne.
 
 .Atle
-image::ed0042.jpg[]
+image::ed0042.jpg[align="center"]
 
 [verse]
 54. Atle tog till orda, 

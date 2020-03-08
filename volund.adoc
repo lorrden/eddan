@@ -13,7 +13,7 @@ Han var den händigaste man, som man känner i fornsagor.
 Konung Nidud lät taga honom till fånga, såsom här omtalas:
 
 .De tre valkyriorna vid Ulvsjön
-image::ed0025.jpg[]
+image::ed0025.jpg[align="center"]
 
 [verse]
 1. Möar flögo sunnan 
@@ -62,7 +62,7 @@ men åt söder Slagfinn
 efter Svanvit.
 
 .Volund
-image::ed0026.jpg[]
+image::ed0026.jpg[align="center"]
 
 [verse]
 5. Ensam satt Volund 

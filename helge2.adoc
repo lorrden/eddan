@@ -301,7 +301,7 @@ Ran ur händerna
 kungens gungande sjöhäst 
 vid Gnipalunden.
 
-image::ed0028.jpg[]
+image::ed0028.jpg[align="center"]
 
 [verse]
 31. Om aftonen satt han 
