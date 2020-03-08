@@ -4,6 +4,7 @@ Gudrun, Gjukes dotter, hämnade sina bröder, så som frejdat har blivit.
 Hon dödade först Atles söner, men därefter dödade hon Atle och brände hallen och hela hovet.
 Om detta är följande kväde diktat:
 
+[verse]
 1. Atle sänder 
 en sven till Gunnar, 
 att rida, en klok karl, 
@@ -13,6 +14,7 @@ och till Gunnars sal,
 till bänkar omkring elden 
 och till ölet ljuva.
 
+[verse]
 2. Drottens män de drucko, 
 medan dolske gäster tego, 
 vin i vapensalen, 
@@ -22,6 +24,7 @@ med kallsinnig röst,
 de sydländske sändemannen, 
 som satt i högbänk:
 
+[verse]
 3. »Atle hit mig sände 
 att hans ärende rida 
 på häst, som tuggar munbett, 
@@ -31,6 +34,7 @@ att på bänken I kommen
 i hjälmar med ringband 
 att gästa Atle.
 
+[verse]
 4. Sköldar I där fån välja, 
 och skönglättade askspjut, 
 förgylda hjälmar 
@@ -40,6 +44,7 @@ sydländska brynjor,
 kastspjut och fålar 
 med fradga om betslen.
 
+[verse]
 5. Den vidsträckta Gnitaheden 
 vill han eder giva, 
 förutom ljungande kastspjut 
@@ -49,6 +54,7 @@ och Danparstaden,
 den märkliga skog, 
 som man Mörkskogen kallar.»
 
+[verse]
 6. På huvudet vände Gunnar 
 och till Hogne sade: 
 »Vad säger du, ungersven, 
@@ -58,6 +64,7 @@ på Gnitaheden,
 vartill vi ej också 
 ägde maken.
 
+[verse]
 7. Sju salar vi äga, 
 med svärd fulla, 
 fäste av guld 
@@ -72,6 +79,8 @@ ett mitt är bättre
 än alla hunnernas.»
 
 Hogne sade: 
+
+[verse]
 8. »Vad råd tror du Gudrun mente, 
 när nng till oss hon sände, 
 virad med vargens hår, 
@@ -81,6 +90,7 @@ vridet i röda ringen;
 vargar oss vänta 
 på den väg vi rida.»
 
+[verse]
 9. Ej eggade fränder 
 eller andra närskylda, 
 ej vänner, ej vise, 
@@ -90,11 +100,13 @@ som hövdes en konung,
 stolt i mjödsal, 
 mycket upprörd.
 
+[verse]
 10 »Stig upp nu, Fjorner! 
 Låt ut på bänkarna 
 guldskålar i modiga 
 mäns händer vandra.
 
+[verse]
 11. För nivlungars arv 
 skall ulven råda, 
 de gamla gråben, 
@@ -104,6 +116,7 @@ skola bita med huggtand
 göra gamman åt hundflock, 
 om Gunnar ej kommer.»
 
+[verse]
 12. Sin stridsdjärve härskare 
 stridbara kämpar 
 gråtande följde 
@@ -113,6 +126,7 @@ sonen till Hogne:
 »Hell, faren hurtiga, 
 dit hugen er lockar!»
 
+[verse]
 13. Över fjället läto krigarne 
 i fullt språng löpa 
 hästarne med munbett 
@@ -122,6 +136,7 @@ där dristige de redo,
 gåvo gångarne fart 
 över grönskande slätter.
 
+[verse]
 14. Atles jord de sågo, 
 ovan djupen vallar, 
 - Bickes män stå 
@@ -139,6 +154,7 @@ om de gåve sig hit
 med vinande kastspjut 
 att kriga mot fursten.
 
+[verse]
 15. Snart varsnade deras syster, 
 att i salen de kommo, 
 båda hennes bröder; 
@@ -148,6 +164,7 @@ Vad rår du väl att göra
 mot hunners onda anslag? 
 Gå ut ur salen genast!
 
+[verse]
 16. Bättre vore, broder, 
 att i brynja du komme 
 och i hjälmar med ringband 
@@ -164,6 +181,8 @@ nu är den ormgården
 eder beredd.»
 
 Gunnar sade: 
+
+[verse]
 7. »För sent är nu, syster, 
 att samla nivlungar; 
 långt är att leta 
@@ -171,11 +190,13 @@ till ledung följe,
 från Rens Rosmofjäll 
 raska kämpar.»
 
+[verse]
 18. De fångade Gunnar 
 och i fjättrar satte 
 burgundernas hövding 
 och hår honom bundo.
 
+[verse]
 19-20. Sju dödade Hogne 
 med sitt drabbande svärd, 
 i heta elden 
@@ -190,6 +211,8 @@ om den djärve sitt liv
 ville lösa med guldet.
 
 Gunnar sade: 
+
+[verse]
 21. »Hognes hjärta 
 i min hand skall ligga, 
 blodigt, skuret 
@@ -197,11 +220,13 @@ ur bröstet på hjälten,
 med skarpslipat kortsvärd, 
 på konungasonen.»
 
+[verse]
 22. Hjärtat de skuro 
 ur Hjalles bröst, 
 blodigt, och på bricka 
 det buro till Gunnar.
 
+[verse]
 23. Då sade Gunnar, 
 gode kämpars drott: 
 »Här har jag hjärtat 
@@ -213,6 +238,7 @@ där på brickan det ligger;
 det bävade dubbelt 
 när i bröstet det låg.»
 
+[verse]
 24. Då skrattade Hogne, 
 när de skuro till hjärtat 
 på levande krigshjälten; 
@@ -220,6 +246,7 @@ han klagan lät ej höra.
 De på brickan blodigt lade det 
 och buro det till Gunnar.
 
+[verse]
 25. Då sade Gunnar, 
 glänsande spjut-nivlung: 
 »Här har jag hjärtat 
@@ -231,6 +258,7 @@ där på brickan det ligger,
 bävade ej ens så, 
 när i bröstet det låg.
 
+[verse]
 26. Atle, så fjärran 
 från intet du blir, 
 som bliva du skall 
@@ -240,6 +268,7 @@ som gömstället vet
 för all nivlungaskatten; 
 nu lever ej Hogne.
 
+[verse]
 27. Alltid tvivel jag hyste, 
 medan två vi levde, 
 nu har jag intet, 
@@ -254,6 +283,8 @@ hellre än guld på händerna
 av hunners barn må skina.»
 
 Atle sade: 
+
+[verse]
 28. »Faren med vagnarna! 
 Fången är i band nu.» 
 Och bort dädan 
@@ -261,6 +292,7 @@ betselskakaren
 till döden drog 
 dådrike kungen.
 
+[verse]
 29. Då red Atle den mäktige 
 manyvige Glaum, 
 ledsagad av krigare; 
@@ -274,6 +306,8 @@ gråten sväljde.
 image::ed0040.jpg[]
 
 Hon sade: 
+
+[verse]
 30. »Så gånge dig, Atle, 
 som med Gunnar du haver 
 eder ofta svurit 
@@ -283,6 +317,7 @@ och vid Sigtyrs berg,
 vid vilobäddens rum 
 och vid Ulls ring!»
 
+[verse]
 31. Krigarhopen lade 
 levande fursten, 
 i den gård, varest runt 
@@ -296,6 +331,7 @@ En konung med mod
 skall så i säkerhet 
 sätta sitt guld.
 
+[verse]
 32. Atle lät löpa 
 till sitt lantgods från mordet 
 sin gode gångare, 
@@ -305,6 +341,7 @@ hästarne trängdes,
 ett hiskligt vapenslammer, 
 från heden de kommo.
 
+[verse]
 33. Ut gick då Gudrun 
 Atle till mötes 
 med gyllene bägarn 
@@ -314,6 +351,7 @@ i festsalen din
 glad hos Gudrun 
 grisar hädanfarna!»
 
+[verse]
 34. Vinfyllda skålar 
 skramlade hos Atle, 
 när hunnerna sutto 
@@ -321,6 +359,7 @@ i hallen och språkade.
 Raska karlar kommo 
 med knävelborrar långa.
 
+[verse]
 35. Då skred den ljushylta 
 att skålar åt dem bära, 
 den bistra kvinnan, åt männen, 
@@ -328,6 +367,7 @@ och mat till ölet valde
 av tvång, men till bleke Atle 
 hon talade hånfullt:
 
+[verse]
 36. »Dina söners hjärtan, 
 du svärdsutdelare, 
 har du blodiga 
@@ -337,6 +377,7 @@ människostekar,
 äta dem till ölet, 
 undfägna gäster i högbänk.
 
+[verse]
 37. Du kallar ej att sitta 
 i knä hos dig sedan 
 Erp eller Eitil 
@@ -348,6 +389,7 @@ skafta spjut,
 ansa manar 
 och egga hästar.»
 
+[verse]
 38. På bänkarne blev larm, 
 - bistra läto männen - 
 gny under guldväv, 
@@ -359,6 +401,7 @@ och båda kära söner,
 unga, oskuldsfulla, 
 som med Atle hon hade.
 
+[verse]
 39. Guld sådde 
 den svanvita, 
 röda ringar 
@@ -368,6 +411,7 @@ sitt öde lät hon fyllas,
 kvinnan alls intet 
 aktade deras liv.
 
+[verse]
 40. Intet anade Atle, 
 yr han sig druckit, 
 vapen han ej bar, 
@@ -377,6 +421,7 @@ då båda kärligt
 för ädlingarnes ögon 
 omfamnade varandra.
 
+[verse]
 41. Medelst svärdsudd hon bädden 
 gav blod att dricka, 
 med mordgirig hand, 
@@ -386,6 +431,7 @@ Med het brand väckte
 husfrun sina huskarlar; 
 det var hämnden för bröderna.
 
+[verse]
 42. Åt elden gav hon alla, 
 som inne voro, 
 som från mordet på Gunnar 
@@ -397,6 +443,7 @@ Där brunno ock sköldmör,
 livet förlustiga 
 i lågan de föllo.
 
+[verse]
 43. Nog härom är talat, 
 ej någon gör så mer 
 brud i brynja 
