@@ -1,5 +1,6 @@
 = Balders drömmar
 
+[verse]
 1. Tillhopa voro alla 
 asar på ting, 
 och asynjorna 
@@ -12,6 +13,7 @@ bådade ofärd.
 .Balder
 image::ed0020.jpg[]
 
+[verse]
 2. Upp steg Oden, 
 åldrige härskarn, 
 och på Sleipner 
@@ -21,6 +23,7 @@ Han red ned därifrån
 och mötte hunden, 
 som från Hels rike kom.
 
+[verse]
 3. Han var blodig 
 framtill på bröstet 
 och gläfste länge 
@@ -30,6 +33,7 @@ fasta marken dånade;
 och till Hels höga 
 hus han kom.
 
+[verse]
 4. Då red Oden 
 öster om dörren, 
 där vara han visste 
@@ -39,6 +43,7 @@ dödsgalder läste han,
 tills tvungen hon uppstod 
 och talade, fast död.
 
+[verse]
 5. »Vem är det bland män, 
 för mig okända, 
 som till tunga färden 
@@ -49,6 +54,8 @@ dränkt var jag i dagg,
 död var jag länge.»
 
 Oden sade: 
+
+[verse]
 6. »Vägtam jag heter, 
 och är son av Valtam. 
 Ur underjorden tala! 
@@ -59,6 +66,8 @@ och fagra långpallar
 belagda med guld?»
 
 Valan sade: 
+
+[verse]
 7. »Här mjödet bryggt 
 åt Balder står, 
 den skira drycken 
@@ -69,6 +78,8 @@ Tvungen jag talade,
 nu skall jag tiga.»
 
 Oden sade: 
+
+[verse]
 8. »Tig icke, vala! 
 Jag vill vidare fråga, 
 tills allt jag känner; 
@@ -82,6 +93,8 @@ och livet från Odens
 image::ed0021.jpg[]
 
 Valan sade: 
+
+[verse]
 9. »Höder bär hit ned 
 höge hjälten; 
 han skall Balder 
@@ -92,6 +105,8 @@ Tvungen jag talade,
 nu skall jag tiga.»
 
 Oden sade: 
+
+[verse]
 10. »Tig icke, vala! 
 Jag vill vidare fråga, 
 tills allt jag känner; 
@@ -102,6 +117,8 @@ eller Balders baneman
 på bålet lägga.»
 
 Valan sade: 
+
+[verse]
 11. »Rind föder Vale 
 i vänstersalar, 
 denne Odens son kämpar, 
@@ -114,6 +131,8 @@ Tvungen jag talade,
 nu skall jag tiga.»
 
 Oden sade: 
+
+[verse]
 12. »Tig icke, vala! 
 Jag vill vidare fråga, 
 tills allt jag känner; 
@@ -124,18 +143,24 @@ och slunga mot himlen
 hörnen av seglen.»
 
 Valan sade: 
+
+[verse]
 13. »Du är icke Vägtam, 
 som dig vara jag trodde, 
 snarare Oden, 
 åldrige härskarn.»
 
 Oden sade: 
+
+[verse]
 »Du är ingen vala 
 eller vis kvinna, 
 snarare trenne 
 tursars moder.»
 
 Valan sade: 
+
+[verse]
 14. »Rid hem nu, Oden, 
 över hedern din glad. 
 Männen här 
