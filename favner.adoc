@@ -5,6 +5,8 @@ Sigurd och Regin begåvo sig upp på Gnitaheden och funno där spåret efter Fav
 == Om Favners död
 
 Favner sade: 
+
+[verse]
 1. »Du sven, du sven, 
 som son åt vem är, sven, du född, 
 som vilka människors barn är du boren, 
@@ -15,6 +17,8 @@ i mitt hjärta jagad är klingan»
 Sigurd dolde sitt namn, ty det var folks tro i forntiden, att döende mans ord förmådde mycket, om han förbannade sin ovän med nämnande av namn.
 
 Han sade: 
+
+[verse]
 2. »Härligt djur jag heter 
 och har hankat mig fram 
 som en man utan moder, 
@@ -23,11 +27,15 @@ som folk brukar,
 jag vandrar i världen ensam.»
 
 Favner sade: 
+
+[verse]
 3. »Vet du, om fader du ej har, 
 som folk brukar, 
 av vad under blev du avlad?»
 
 Sigurd sade: 
+
+[verse]
 4. »Min ätt jag säger 
 dig okänd vara 
 och likaledes mig själv. 
@@ -36,6 +44,8 @@ Sigmund hette min fader,
 med svärd jag dig slagit har.»
 
 Favner sade: 
+
+[verse]
 5. »Vem hetsade dig, 
 vi har du hetsa dig låtit 
 att fara efter mitt fall? 
@@ -44,6 +54,8 @@ bister fader hade du,
 fram att rusa hans barn icke rädas.»
 
 Sigurd sade: 
+
+[verse]
 6. »Hågen mig hetsade, 
 händerna hjälpte 
 och mitt vassa vapen. 
@@ -52,6 +64,8 @@ vid mogen ålder,
 som blödig i barndomen varit.»
 
 Favner sade: 
+
+[verse]
 7. »Vet du, om växa 
 vid vänners bröst du fått, 
 man såge dig käckt kämpa. 
@@ -60,6 +74,8 @@ och fången i krig,
 en bunden man alltid bävar.»
 
 Sigurd sade: 
+
+[verse]
 8. »Du förebrår mig, Favner, 
 att för fjärran jag är 
 ifrån faders arvedel faren. 
@@ -68,6 +84,8 @@ om ock fången i krig,
 du fann, att jag lös var och ledig.»
 
 Favner sade: 
+
+[verse]
 9 »Hatets ord 
 du hör i allt, 
 men ett jag säger dig sant: 
@@ -76,6 +94,8 @@ och glänsande skatten,
 ringarne, bliva din bane.»
 
 Sigurd sade: 
+
+[verse]
 10. »Sin rikedom envar 
 råda vill 
 ända till sin yttersta dag, 
@@ -84,6 +104,8 @@ måste en gång
 fara hädan till Hel.»
 
 Favner sade: 
+
+[verse]
 11. »Nornors dom 
 vid näsen du får 
 och ovis dåres öde. 
@@ -92,6 +114,8 @@ om i vind du ror,
 för dödsdömd är allt fördärv.»
 
 Sigurd sade: 
+
+[verse]
 12. »Säg mig, Favner, 
 då du frejdad är för kunskap 
 och att veta mycket väl! 
@@ -100,6 +124,8 @@ som i nöd hjälpa
 och förlossa från livsfrukt mödrar?»
 
 Favner sade: 
+
+[verse]
 13. »Av skilda ätter vara 
 skönjer jag nornor, 
 de äro ej av samma släkt: 
@@ -108,6 +134,8 @@ somliga av alfer,
 somliga Dvalins döttrar.»
 
 Sigurd sade: 
+
+[verse]
 14. »Säg du mig, Favner, 
 då du frejdad är för kunskap 
 och att veta mycket väl, 
@@ -116,6 +144,8 @@ där huggsaft asarne
 och Surt samman blanda.»
 
 Favner sade: 
+
+[verse]
 15. »Oskopner han heter, 
 och alla gudar där 
 med spjut och stång skola stinga. 
@@ -123,6 +153,7 @@ Bifrost brister,
 då på bron de komma, 
 och i floden fålarne simma.
 
+[verse]
 16. Skräckhjälm jag bar 
 att skrämma människor, 
 så länge jag på smyckena låg. 
@@ -131,6 +162,8 @@ av alla jag trodde mig,
 hur många män jag än fann.»
 
 Sigurd sade: 
+
+[verse]
 17. »Skräckhjälm skänker 
 ej skydd åt någon, 
 där vreda vapen skifta. 
@@ -139,6 +172,8 @@ när bland modiga han kommer,
 att ingen är djärv framför alla.
 
 Sigurd sade: 
+
+[verse]
 19. »Glänsande orm, 
 gräsligt du fräste 
 och hug du visade hård. 
@@ -147,6 +182,8 @@ hatet hos folk,
 som den hjälmen på huvudet hava.»
 
 Favner sade: 
+
+[verse]
 20. »Jag råder dig nu, Sigurd, 
 men råd må du taga 
 och rid hädan hem! 
@@ -155,6 +192,8 @@ och guldet det klingande,
 dig ringarna bliva till bane.»
 
 Sigurd sade: 
+
+[verse]
 21. »Ditt råd har du rådit, 
 men rida jag skall 
 till det guld, som i ljungen är gömt; 
@@ -163,6 +202,8 @@ och lid din död,
 till dess att Hel dig har!»
 
 Favner sade: 
+
+[verse]
 22. »Regin mig förrådde, 
 förråda dig han skall, 
 han skall bliva oss båda till bane. 
@@ -173,6 +214,8 @@ din styrka nu större blev.»
 Regin hade gått bort, medan Sigurd dödade Favner, och kom tillbaka, när Sigurd strök blodet av svärdet.
 
 Regin sade: 
+
+[verse]
 23. »Hell dig, Sigurd, 
 seger du vunnit, 
 Favner fällt du har. 
@@ -181,6 +224,8 @@ som mullen trampa,
 ej käckare kämpe är född.»
 
 Sigurd sade: 
+
+[verse]
 24. »Ovisst är att veta, 
 då alla komma samman, 
 segergudars söner, 
@@ -190,6 +235,8 @@ som ej rödfärgar svärdet
 med blod ur annans bröst.»
 
 Regin sade: 
+
+[verse]
 25. »Glad är du, Sigurd, 
 av segern du fröjdas, 
 där du Gram på gräset torkar. 
@@ -198,6 +245,8 @@ banesår givit,
 något själv jag ock skyldig är.»
 
 Sigurd sade: 
+
+[verse]
 26. »Du rådde därtill, 
 att jag rida skulle 
 hit över frostiga fjäll. 
@@ -208,6 +257,8 @@ om mig feghet du ej förevitat.»
 Då gick Regin till Favner och skar hjärtat ur honom med det svärd, som heter Ridil, och därefter drack han blod ur såret.
 
 Regin sade: 
+
+[verse]
 27. »Sitt du nu, Sigurd, 
 men att sova jag skall gå, 
 och håll Favners hjärta 
@@ -217,6 +268,8 @@ jag äta vill
 efter drycken av blod, som jag drack.»
 
 Sigurd sade: 
+
+[verse]
 28. »Fjärran du flydde, 
 medan på Favner 
 jag blodade mitt bitande svärd. 
@@ -225,6 +278,8 @@ mot ormens styrka,
 medan du låg i ljungen gömd.»
 
 Regin sade: 
+
+[verse]
 29. »Länge i ljungen 
 jätten du låtit, 
 ligga gammal och grå, 
@@ -233,6 +288,8 @@ som jag smidde själv,
 ditt vassa, bitande vapen.
 
 Sigurd sade: 
+
+[verse]
 30. »Mod är bättre 
 än makten i svärdet, 
 där i vrede vapen skiftas, 
@@ -240,6 +297,7 @@ ty en duktig karl
 såg jag dristigt vinna 
 segern med slött svärd.
 
+[verse]
 31. Bättre för den raske 
 än den rädde det är 
 att stå i stridens lek; 
@@ -247,9 +305,14 @@ bättre vara glad
 än gapa av häpnad 
 för vad helst som för handen är.»
 
-Sigurd tog Favners hjärta och stekte det på en trädgren. När han tänkte, att det var färdigstekt och blodet fradgade ur hjärtat, tog han på det med sitt finger och provade, om det var fullstekt. Han brände sig och stack fingret i munnen på sig. Men när Favners hjärtblod kom på tungan på honom, då förstod han fåglalåt; han hörde, att mesar kvittrade i buskarne.
+Sigurd tog Favners hjärta och stekte det på en trädgren.
+När han tänkte, att det var färdigstekt och blodet fradgade ur hjärtat, tog han på det med sitt finger och provade, om det var fullstekt.
+Han brände sig och stack fingret i munnen på sig.
+Men när Favners hjärtblod kom på tungan på honom, då förstod han fåglalåt; han hörde, att mesar kvittrade i buskarne.
 
 Mesen sade: 
+
+[verse]
 32. »Där sitter Sigurd, 
 sölad med blod, 
 och Favners hjärta 
@@ -260,6 +323,8 @@ om själv han åte
 skimrande hjärtat.»
 
 Den andra mesen sade: 
+
+[verse]
 33. »Där ligger Regin, 
 och ränker smider, 
 med list vill svika, 
@@ -270,6 +335,8 @@ den brottstämplarn
 sin broder vill hämna.»
 
 Den tredje mesen sade: 
+
+[verse]
 34. »Ett huvud kortare gråhårig 
 gubbe han låte 
 fara hädan till Hel! 
@@ -278,6 +345,8 @@ då ensam råda,
 den mängd, som under Favner fanns.»
 
 Den fjärde mesen sade: 
+
+[verse]
 35. »Klok han mig tycktes, 
 kunde han följa 
 det råd, ni gåvo, systrar, 
@@ -288,6 +357,8 @@ ulven är att vänta,
 då man öronen ser.»
 
 Den femte mesen sade: 
+
+[verse]
 36. »Så klok är icke 
 krigshjälten, 
 som härens främste 
@@ -298,6 +369,8 @@ då den andre han har
 avdagatagit.»
 
 Den sjätte mesen sade: 
+
+[verse]
 37. »Mycket ovis han är, 
 om han yttermera 
 farlig fiende spår. 
@@ -306,6 +379,8 @@ som honom ränker smidit;
 han kan sig ej mot falskhet fria.»
 
 Den sjunde mesen sade: 
+
+[verse]
 38. »Ett huvud kortare låte han 
 kalle jätten 
 bli och fran guldringar gå! 
@@ -314,6 +389,8 @@ Då ensam skall han härska
 som Favner en gång ägde.»
 
 Sigurd sade: 
+
+[verse]
 39. »Ej råde så hårt öde, 
 att Regin skall 
 namn av min bane bära, 
@@ -321,8 +398,10 @@ ty båda bröderna
 i brådkastet skola 
 fara hädan till Hel.»
 
-Sigurd högg huvudet av Regin, och sedan åt han Favners hjärta och drack blodet av både Regin och Favner. Då hörde han, hur mesarne sade:
+Sigurd högg huvudet av Regin, och sedan åt han Favners hjärta och drack blodet av både Regin och Favner.
+Då hörde han, hur mesarne sade:
 
+[verse]
 40. »Bind ihop röda 
 ringarne, Sigurd, 
 konungsligt är ej 
@@ -332,6 +411,7 @@ fagrast av alla,
 med gyllene smycken; 
 om det ginge henne vinna!
 
+[verse]
 41. Till Gjuke gå 
 gröna vägar, 
 framåt visar ödet 
@@ -341,6 +421,7 @@ en dotter fostrat,
 henne skall du, Sigurd, 
 hava till äkta.
 
+[verse]
 42. En sal är på höga 
 Hindarfjället, 
 av eld omsvept 
@@ -350,6 +431,7 @@ väsen uppbyggt
 av lysande guld, 
 som glänser och skimrar.
 
+[verse]
 43. Jag vet, att på fjället 
 en fejdjungfru sover, 
 lindens härjare 
@@ -359,6 +441,7 @@ ungmön stuckit,
 då andra hon fällde, 
 än han erhålla ville.
 
+[verse]
 44. Se kan du, hjälte, 
 hjälmklädda mön, 
 som från valplats 
@@ -368,4 +451,5 @@ sköldungaättling,
 att Sigrdriv ej 
 ur sömnen kan väckas.»
 
-Sigurd red efter Favners spår till hans bo och fann det öppet och dörrar och dörrposter av järn; av järn voro ock alla timmerstockar i huset, och det var nedgrävt i jorden. Där fann Sigurd övermåttan mycket guld och fyllde där tvänne kistor; där tog han skräckhjälmen och guldbrynjan och svärdet Rotte och många dyrbarheter och klövjade dem på Grane, men hästen ville icke gå från stället, förrän Sigurd steg på ryggen på honom.
+Sigurd red efter Favners spår till hans bo och fann det öppet och dörrar och dörrposter av järn; av järn voro ock alla timmerstockar i huset, och det var nedgrävt i jorden.
+Där fann Sigurd övermåttan mycket guld och fyllde där tvänne kistor; där tog han skräckhjälmen och guldbrynjan och svärdet Rotte och många dyrbarheter och klövjade dem på Grane, men hästen ville icke gå från stället, förrän Sigurd steg på ryggen på honom.
