@@ -1,6 +1,8 @@
 = Sången om Allvis
 
 Allvis sade: 
+
+[verse]
 1. »Att bänkarne breda 
 skall bruden nu med mig 
 i sällskap hemåt hasta. 
@@ -9,6 +11,8 @@ det menar nog envar;
 man skall ej hänge sig åt vila hemma.»
 
 Tor sade: 
+
+[verse]
 2. »Vad är det för en bjässe? 
 Vi är så blek du på näsan? 
 Låg du i natt hos lik? 
@@ -17,6 +21,8 @@ tycks mig hos dig vara.
 Du är ej för bruden boren.»
 
 Allvis sade: 
+
+[verse]
 3. »Allvis jag heter, 
 hålles under jorden, 
 under sten har jag varaktig stad. 
@@ -25,6 +31,8 @@ att taga jag kommit;
 ingen bindande löfte bryte!»
 
 Tor sade: 
+
+[verse]
 4. »Jag skall bryta, 
 ty brudens gifte 
 jag främst bestämmer som fader. 
@@ -33,6 +41,8 @@ då hon dig lovades;
 enda giftoman bland gudar är jag.»
 
 Allvis sade: 
+
+[verse]
 5. »Vad är det för en man, 
 som myndighet påstår 
 över fagerglänsande flicka? 
@@ -41,6 +51,8 @@ dig få torde känna.
 Vilkens maka har din moder varit?»
 
 Tor sade: 
+
+[verse]
 6. »Ving-Tor jag heter, 
 vida jag strövat, 
 son jag till Sidgrane är. 
@@ -49,6 +61,8 @@ ungmön du ej får
 och gynnas ej med detta gifte.»
 
 Allvis sade: 
+
+[verse]
 7. »Samtycket ditt 
 vill snart jag hava 
 och gynnas med detta gifte; 
@@ -57,6 +71,8 @@ och gynnas med detta gifte;
 denna mjällvita mö.»
 
 Tor sade: 
+
+[verse]
 8. »Möns älskog 
 skall icke förmenad 
 varda dig, vise gäst, 
@@ -64,6 +80,7 @@ om du ur varje
 värld kan säga 
 allt, vad jag veta vill.»
 
+[verse]
 9. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -72,6 +89,8 @@ som framför människorna ligger
 heter i varje värld?»
 
 Allvis sade: 
+
+[verse]
 10. »Jord säges bland människor, 
 men slätt hos asarne, 
 vanerna kallar den vägar; 
@@ -80,6 +99,8 @@ alferna den groende,
 gudarne där uppe grus.»
 
 Tor sade: 
+
+[verse]
 11. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -88,6 +109,8 @@ som av havet föddes,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 12. »Himmel den heter bland människor, 
 högvalv bland gudar, 
 vindvävare kalla den vaner, 
@@ -96,6 +119,8 @@ alferna fagertak,
 dvärgarne drypande sal.»
 
 Tor sade: 
+
+[verse]
 13. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -104,6 +129,8 @@ som människorna se,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 14. »Måne den heter bland människor, 
 men molntapp hos gudar, 
 svänghjul de säga hos Hel, 
@@ -112,6 +139,8 @@ men skenet dvärgarne,
 om tideräknarn alferna tala.»
 
 Tor sade: 
+
+[verse]
 15. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -120,6 +149,8 @@ söner skåda,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 16. »Sol den heter bland människor, 
 »sunna» hos gudar, 
 den kalla dvärgar Dvalins leksak, 
@@ -128,6 +159,8 @@ alferna fagerhjul
 och allklar asars söner.»
 
 Tor sade: 
+
+[verse]
 17. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -136,6 +169,8 @@ som skicka oss skurar,
 heta i varje värld!»
 
 Allvis sade: 
+
+[verse]
 18. »Skyar de heta hos människor, 
 skyfallshopp hos gudar, 
 vindflarn dem vanerna kalla, 
@@ -144,6 +179,8 @@ alferna väderkraft,
 hölje de kallas hos Hel.»
 
 Tor sade: 
+
+[verse]
 19. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -152,6 +189,8 @@ som vidast far,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 20. »Vind den heter bland människor, 
 viftaren hos gudar, 
 gnäggarn hos de väldiga väsen, 
@@ -160,6 +199,8 @@ snyftaren hos alfer,
 vinaren han heter hos Hel.»
 
 Tor sade: 
+
+[verse]
 21. »Säg du mig, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -168,6 +209,8 @@ som ligga plär,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 22. »Lugn det heter hos människor, 
 lindring hos gudar, 
 vindslut det vanerna kalla, 
@@ -176,6 +219,8 @@ alferna dagsstillhet,
 dvärgarne dagens ro.»
 
 Tor sade: 
+
+[verse]
 23. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -184,6 +229,8 @@ som skepp ro på,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 24. »Sjö den heter bland människor, 
 vida skivan hos gudar, 
 vanerna kalla den våg, 
@@ -192,6 +239,8 @@ alferna vätskeämne,
 namnet djupt hav giva den dvärgar.»
 
 Tor sade: 
+
+[verse]
 25. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -200,6 +249,8 @@ som för allt folk brinner,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 26. »Eld den heter bland människor, 
 men bland asarne flamma, 
 vanerna kalla den våg, 
@@ -208,6 +259,8 @@ den svedande dvärgar,
 den hastige han kallas hos Hel.»
 
 Tor sade: 
+
+[verse]
 27. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -216,6 +269,8 @@ som skuggar människorna,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 28. »Skog den heter hos människor, 
 man på slätten hos gudar, 
 hos Hels folk höjdsidans tång, 
@@ -224,6 +279,8 @@ hos alferna fagergrenig,
 hos vise vaner spö.»
 
 Tor sade: 
+
+[verse]
 29. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -232,6 +289,8 @@ Norves dotter,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 30. »Natt hon heter bland människor, 
 mörker bland gudar, 
 mask kalla henne väldiga makter, 
@@ -240,6 +299,8 @@ alferna sömngumman,
 drömväverska kalla henne dvärgar.»
 
 Tor sade: 
+
+[verse]
 31. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -248,6 +309,8 @@ som sås av människorna,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 32. »Bjugg den heter bland människor 
 och 'barr' hos gudar, 
 hos vanerna heter den växt, 
@@ -256,6 +319,8 @@ alferna vätskeämne,
 hänghuvud heter den hos Hel.»
 
 Tor sade: 
+
+[verse]
 33. »Säg mig du, Allvis - 
 alla varelsers öde 
 väntar jag, dvärg, att du vet - 
@@ -264,6 +329,8 @@ som allt folk dricker,
 heter i varje värld!»
 
 Allvis sade: 
+
+[verse]
 34. »Öl det heter bland människor, 
 bland asarne brygd, 
 rusande vätska hos vaner, 
@@ -272,6 +339,8 @@ och kallas mjöd hos Hel,
 supning hos Suttungs söner.»
 
 Tor sade: 
+
+[verse]
 35. »I ett bröst 
 jag aldrig såg 
 så många minne från fordom. 
