@@ -1,12 +1,15 @@
 = Brynhilds färd till Hel
 
-Efter Brynhilds död gjordes två bål, det ena åt Sigurd, och detta brann först, men Brynhild brändes på det andra, och hon var i en vagn, som var tältad med kostbart tyg. Det säges, att Brynhild åkte med vagnen på vägen till dödsriket och for om en gård, där en jättekvinna bodde.
+Efter Brynhilds död gjordes två bål, det ena åt Sigurd, och detta brann först, men Brynhild brändes på det andra, och hon var i en vagn, som var tältad med kostbart tyg.
+Det säges, att Brynhild åkte med vagnen på vägen till dödsriket och for om en gård, där en jättekvinna bodde.
 
 == Brynhild for vägen till dödsriket.
 
 image::ed0039.jpg[]
 
-Jättinnan sade: 
+Jättinnan sade:
+
+[verse]
 1. »Gå du ej skall 
 genom gårdarna mina, 
 som, stödda av sten, 
@@ -16,6 +19,7 @@ bättre dig hövdes
 än att uppsöka 
 en annans man.
 
+[verse]
 2. Varför från Valland 
 vandrar väl du, 
 ditt oroliga huvud, 
@@ -25,7 +29,9 @@ du förlänerska av guld,
 i blod av människor 
 du badat dina händer.»
 
-Brynhild sade: 
+Brynhild sade:
+
+[verse]
 3. »Förebra mig icke, 
 du fru från stenen, 
 fastän jag varit 
@@ -35,7 +41,9 @@ jag ypperst må synas,
 där man vår härstamning 
 i håg kommer.»
 
-Jättinnan svarade: 
+Jättinnan svarade:
+
+[verse]
 4. »Du blev, Brynhild, 
 Budles dotter, 
 med värsta varsel 
@@ -45,7 +53,9 @@ barnen till Gjuke,
 och hemmet det goda 
 du härjat har.»
 
-Brynhild sade: 
+Brynhild sade:
+
+[verse]
 5. »Jag, som vett har, 
 från vagnen skall säga 
 dig, mycket vettlösa, 
@@ -55,6 +65,7 @@ orsak voro,
 att jag älskog miste 
 och menedig blev.
 
+[verse]
 6. Den modige konungen 
 lät kläderna för oss, 
 åtta systrar, 
@@ -64,6 +75,7 @@ om dig veta lyster,
 då unge fursten 
 eder jag gav.
 
+[verse]
 8. Då lät jag i Godtjod 
 gamle Hjalmgunnar, 
 grånade kungen, 
@@ -73,6 +85,7 @@ unge broder;
 ursinnig därför 
 blev Oden på mig.
 
+[verse]
 9. Han slöt kring mig i Skatalund 
 samman sköldar, 
 röda och vita; 
@@ -82,6 +95,7 @@ skulle bryta min sömn,
 som ingenstädes 
 ångest kände.
 
+[verse]
 10. Han lät kring min sal, 
 som mot söder vetter, 
 skogens härjare 
@@ -91,6 +105,7 @@ skulle över rida,
 den, som förde mig det guld, 
 som under Favner låg.
 
+[verse]
 11. På Grane red gode 
 guldgivaren 
 dit, där min fosterfader 
@@ -100,6 +115,7 @@ han ensam där tycktes,
 danavikingen, 
 i drottens följe.
 
+[verse]
 12. I samma säng 
 vi sovo i ro, 
 som om han min borne 
@@ -109,6 +125,7 @@ på åtta nätter
 lade armen 
 över den andra.
 
+[verse]
 13. Gudrun mig förebrådde, 
 Gjukes dotter, 
 att jag sovit 
@@ -118,6 +135,7 @@ jag veta då fick,
 att mig de svikit, 
 då man jag tog.
 
+[verse]
 14. Allt för länge 
 i livet tära 
 män och kvinnor 
