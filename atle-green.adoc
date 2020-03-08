@@ -1,5 +1,6 @@
 = Den grönländska sången om Atle
 
+[verse]
 1. All världen sport den fiendskapen, 
 när fordom männen 
 sig gaddade samman, 
@@ -9,6 +10,7 @@ De ivrigt i enrum talte;
 så ock för Gjukes söner, 
 som i sanning förrådde voro.
 
+[verse]
 2. De skyndade på sköldungars öde, 
 som skäligen ej falla borde; 
 illa åt Atle råddes, 
@@ -18,6 +20,7 @@ svårt stred mot eget bästa;
 i brådkastet bud han sände 
 och bjöd sina svågrar snart komma.
 
+[verse]
 3. Klok var husfrun, 
 klyftigt hon tänkte; 
 lyssnade till lydelsen 
@@ -27,6 +30,7 @@ hon ville dem hjälpa.
 över sjön det skulle seglas, 
 själv kunde hon ej komma.
 
+[verse]
 4. Runor hon tog att rista, 
 dem rådbråkade Vinge, 
 innan fram han dem lämnade 
@@ -36,6 +40,7 @@ sändemän från Atle
 över Limafjord; 
 där levde de djärva.
 
+[verse]
 5. De ölglada blevo 
 och eldar tände, 
 på intet argt de tänkte, 
@@ -45,6 +50,7 @@ som Gudrun dem sände,
 hängde dem på stolpen, 
 som hade de ej att betyda.
 
+[verse]
 6. Då kom Kostbera, 
 en kvinna, som iakttog mycket, 
 hustru hon var till Hogne, 
@@ -55,6 +61,7 @@ fint sätt hon svek ej, vettig,
 sysslade med gästers 
 förplägning.
 
+[verse]
 7. De bjödo hem Hogne, 
 om han då hellre fore; 
 uppenbar var illslugheten, 
@@ -64,11 +71,13 @@ om gå ville Hogne,
 Hogne var emot, 
 vad den andre bestämde.
 
+[verse]
 8. Mjöd buro de väna, 
 mycket blev där bjudet, 
 tallösa horn där gingo, 
 förrn det tycktes nog drucket.
 
+[verse]
 9. Makar bäddade sängen, 
 som bäst dem tycktes vara, 
 kunnig var Kostbera, 
@@ -80,6 +89,7 @@ taga i akt,
 de voro så villade, 
 att vanskligt var att tyda.
 
+[verse]
 10. Med sin hustru gick sedan 
 Hogne till sängs; 
 drottningen drömde, 
@@ -87,6 +97,7 @@ och dolde det icke;
 vis, hon det sade, 
 när hon vaknade, åt fursten:
 
+[verse]
 11. »Hemifrån du dig reder, 
 Hogne, tänk dig för! 
 Få kunna fullt runor; 
@@ -96,6 +107,7 @@ som ristats av din syster;
 ej denna gång har dig 
 drottningen bjudit.
 
+[verse]
 12. Över ett mest jag undrar 
 och än det ej förstår, 
 vad som vållade, att den visa 
@@ -108,6 +120,8 @@ Valt har hon vilse runa
 eller vålla det andra.»
 
 Hogne sade: 
+
+[verse]
 13 »Ont I alla vänten, 
 jag anlag ej har för sådant, 
 vill ej leta därefter, 
@@ -118,6 +132,8 @@ oss glädja vill fursten.
 fast ofärdsrykte spörjes.»
 
 Kostbera sade: 
+
+[verse]
 14. »I störten i fördärvet, 
 om I sträven ditåt, 
 ej vänlig välkomst 
@@ -127,18 +143,23 @@ jag döljer det icke,
 det skall gå eder galet, 
 eller grundlöst jag rädes.
 
+[verse]
 15. Ditt lakan jag tyckte 
 låga och brinna, 
 igenom mina hus 
 hög eldkvast for upp.»
 
 Hogne sade: 
+
+[verse]
 16. »Här linnekläder ligga, 
 som litet I akten; 
 bäsl det är, de skola brinna, 
 då i brand du lakanet såg.»
 
 Kostbera sade: 
+
+[verse]
 17. »Björn tyckte jag här in kommen, 
 och att han bröte upp stockar 
 och ruskade på ramarne, 
@@ -149,12 +170,16 @@ långt ifrån litet
 larm det var där.»
 
 Hogne sade: 
+
+[verse]
 18. »Vinden skall växa 
 och våldsam snart bliva; 
 då en isbjörn du tyckte ingå, 
 kommer österifrån storm.»
 
 Kostbera sade: 
+
+[verse]
 19. »Jag tyckte örn flyga in här 
 ändefter salen, 
 oss stor fara stundar, 
@@ -163,6 +188,8 @@ av hans hot jag höll honom
 för en ham av Atle.»
 
 Hogne svarade: 
+
+[verse]
 20. Med slakt vi ivrigt syssla, 
 och se därvid blod, 
 ofta det gäller oxar, 
@@ -172,6 +199,7 @@ vad ont du än må drömma.»
 Så slutade de sitt samtal 
 och sade intet mera.
 
+[verse]
 21. De välborna vaknade, 
 samma vändning tog samtalet, 
 Glaumvor sig gruvade 
@@ -180,6 +208,8 @@ då frestade Gunnar
 att få dem på två sätt.
 
 Glaumvor sade: 
+
+[verse]
 22. »Gjord tyckte jag dig en galge 
 och att du ginge att hänga, 
 att ormar dig åte, 
@@ -188,9 +218,13 @@ att ragnarök blev.
 Räkna ut, vad det är!»
 
 Gunnar sade: 
+
+[verse]
 23. - - - -
 
 Glaumvor sade: 
+
+[verse]
 24. »Blodigt svärd jag tyckte 
 ur din brynja draget, 
 - svårt är att slik dröm 
@@ -201,12 +235,16 @@ ulvar vid ömse
 ändar tjöto.»
 
 Gunnar sade: 
+
+[verse]
 25. »Hundar här ränna, 
 högt de bruka skälla; 
 ofta förebadar hundskall 
 flygandet av spjut.»
 
 Glaumvor sade: 
+
+[verse]
 26. »In en å jag tyckte rinna 
 har ändefter huset, 
 den forsade och fräste, 
@@ -217,6 +255,8 @@ vattnet ej väjde;
 det varslar nog för något.»
 
 Gunnar sade (enl. Volsungasagas prosa): 
+
+[verse]
 27. Åkrar torde löpa, där 
 som du tyckte en å rinna, 
 och när vi gå på åkern, 
@@ -224,6 +264,8 @@ fastna ofta stora agnar
 ifötterna på oss. Strofen är utlämnad i R.
 
 Glaumvor sade: 
+
+[verse]
 28. »Kvinnor jag tyckte döda 
 komma hit i natt, 
 kostbart de voro klädda, 
@@ -234,6 +276,8 @@ dina diser jag menar
 ej duga mer att hjälpa dig.»
 
 Gunnar sade: 
+
+[verse]
 29. »För sent är sådant säga, 
 beslutat det nu blivit, 
 förebudet jag ej fly kan, 
@@ -244,6 +288,7 @@ att vi månde få kort liv.»
 .Hogne tar avsked av en av sina söner
 image::ed0041.jpg[]
 
+[verse]
 30. De sågo dager lysa, 
 och lust de visade 
 alla upp att stiga; 
@@ -259,11 +304,13 @@ som dem ytterligare följde,
 sköldens blide bärare 
 var broder till hans hustru.
 
+[verse]
 31. De fagert klädda följde dem, 
 tills fjorden dem skilde, 
 avrådde alltjämt 
 men utan någon verkan.
 
+[verse]
 32. Glaumvor tog till orda, 
 som Gunnar ägde, 
 hon talade till Vinge, 
@@ -273,6 +320,7 @@ så att gilla det vi kunna;
 gästs besök är en skändlighet, 
 om däri sker något ont.»
 
+[verse]
 33. Så svor då Vinge 
 och väjde ej för eder: 
 »Måtte jättarne honom taga, 
@@ -280,6 +328,7 @@ om han ljöge för eder,
 må i galgen han hänga, 
 förgrepe han sig på lejden!»
 
+[verse]
 34. Bera tog till orda, 
 blid i sitt sinne: 
 »Seglen sälle 
@@ -287,6 +336,7 @@ och seger vinnen!
 Må det hända, som jag önskat, 
 och må hinder icke komma!»
 
+[verse]
 35. Hogne svarade, 
 och hugnade de sina: 
 »Vad, hustrur, oss händer, 
@@ -296,11 +346,13 @@ det slår dock illa in;
 föga det mången båtar, 
 vad vid färd från hemmet önskas.»
 
+[verse]
 36. De sågo på varandra sedan, 
 innan i sär det skulle bära. 
 Då beskärdes dem deras skickelse 
 och skildes deras vägar.
 
+[verse]
 37. Med riktig fart de rodde, 
 då rämnade halva kölen, 
 de böjde sig tillbaks, då de rodde, 
@@ -310,6 +362,7 @@ sönder brusto årtullar,
 de fäste ej farkosterna, 
 innan från dem de gingo.
 
+[verse]
 38. Och litet längre fram 
 - nu lyktas om färden - 
 sågo de de boningshus, 
@@ -317,6 +370,7 @@ som Budle ägde, för sig;
 högt grindarne skrällde 
 då Hogne klappade på.
 
+[verse]
 39. Ord yttrade då Vinge, 
 som osagda bättre varit: 
 »Flyn fjärran från huset, 
@@ -328,6 +382,7 @@ falskhet låg dock under,
 eller vänten här, 
 tills jag huggit eder galge.»
 
+[verse]
 40. Ord yttrade Hogne, 
 aktade ej att väja, 
 rädd för intet, 
@@ -337,11 +392,13 @@ och skryt däröver sällan!
 Om du yttrar ett ord till, 
 ditt onda du förlänger.»
 
+[verse]
 41. De gingo löst på Vinge 
 och ihjäl honom slogo, 
 med yxor honom höggo, 
 så länge andan i honom rosslar.
 
+[verse]
 42. Atles folk fylkades 
 och foro i brynjor 
 och härklädda gingo, 
@@ -351,6 +408,7 @@ Ord de alla vreda
 »Vi länge fast beslutat, 
 att frånta eder livet.»
 
+[verse]
 43. »Det ser man illa på er, 
 om I beslutat det förut 
 men ären än ej rustade, 
@@ -358,6 +416,7 @@ och en fällt vi hava,
 hackat honom ihjäl, 
 och han var av edert folk.»
 
+[verse]
 44. Ursinniga de blevo, 
 då det ordet de hörde; 
 de flyttade fingrarne 
@@ -365,11 +424,13 @@ och fattade i spjutsnöret,
 sköto i skarp strid, 
 och skyddade sig med skölden.
 
+[verse]
 45. In kom underrättelse, 
 vad de ute gjorde, 
 högt en träl framför hallen 
 de hörde det säga.
 
+[verse]
 46. Förgrymmad blev Gudrun, 
 när det gräsliga hon hörde, 
 med halskedjor smyckad, 
@@ -377,6 +438,7 @@ hon slängde bort alla,
 hon slungade så silvret, 
 att sönder brusto ringarne.
 
+[verse]
 47. Ut gick då Gudrun, 
 på gavel slog upp dörren, 
 trädde fram utan fruktan 
@@ -386,6 +448,7 @@ det var sista hälsningen;
 sanning var i sådant, 
 och hon sade något mera:
 
+[verse]
 48. »Räddning jag sökte 
 i att råda er från färden; 
 sitt öde ingen undgår; 
@@ -395,6 +458,7 @@ att de vänner skulle bliva,
 de aktade det alls icke, 
 alla nej sade.
 
+[verse]
 49. Den högborna såg då, 
 att de häftigt stridde, 
 på stordåd hon tänkte 
@@ -404,6 +468,7 @@ brödernas liv värjde,
 huld var hon ej i Hilds lek, 
 var än händerna drabbade.
 
+[verse]
 50. Gjukes dotter 
 dräpte två kämpar, 
 högg till Atles broder, 
@@ -411,11 +476,13 @@ att han bortbäras måste,
 förde så sin fäktning, 
 att hon foten slog undan.
 
+[verse]
 51. En annan högg hon till, 
 att upp han sig ej reste, 
 ihjäl hon honom hade, 
 dock händerna ej skälvde.
 
+[verse]
 52. En strid de där stredo, 
 stort var dess rykte, 
 den glänste mer än annat, 
@@ -428,6 +495,7 @@ de höggo så mot hjälmar,
 som dem hjältemodet 
 kraft gav.
 
+[verse]
 53. På morgonen mest de stridde, 
 tills åt middagen det led, 
 hela ottan, 
@@ -442,6 +510,7 @@ och brodern till henne.
 .Atle
 image::ed0042.jpg[]
 
+[verse]
 54. Atle tog till orda, 
 fast ond han och vred var: 
 »Illa är kring sig skåda, 
@@ -451,11 +520,13 @@ tappra kämpar,
 blott elva av oss återstå, 
 åtskilligt är då bortbränt.
 
+[verse]
 55. Fem bröder vi voro, 
 när vi Budle miste; 
 hälften av bröderna Hel har, 
 och huggna till döds ligga tvänne.
 
+[verse]
 56. Att förnämligt jag fick gifte, 
 neka jag ej kan, 
 du ondskefulla kvinna, 
@@ -468,6 +539,8 @@ till döden sänt min syster,
 detta mest jag känner.»
 
 Gudrun sade: 
+
+[verse]
 57. »Att så du säger, Atle! 
 Du sådant började göra. 
 Moder min du tagit 
@@ -480,6 +553,8 @@ gudarne jag tackar,
 att det går dig illa.»
 
 Atle sade: 
+
+[verse]
 58. »Jag eggar eder, jarlar, 
 att öka stora sorgen 
 för välbeprytt viv; 
@@ -489,6 +564,7 @@ att Gudrun må klaga;
 gärna jag såge, 
 att djupt hon sig grämde.
 
+[verse]
 59. Tagen Hogne, 
 i hans hull kören kniven, 
 skären ur hjärtat; 
@@ -499,6 +575,8 @@ bringen det å bane,
 bjuden dit ormar!»
 
 Hogne sade: 
+
+[verse]
 60. »Gör som eder lyster! 
 Med jämnmod jag det bidar. 
 Mig rask I skolen röna, 
@@ -508,6 +586,7 @@ medan friska vi voro,
 nu äro vi sårade 
 och övermakten din.»
 
+[verse]
 61. Då hördes Beite säga, 
 hovmästarn hos Atle: 
 »Låt oss fånga Hjalle 
@@ -517,6 +596,7 @@ ty han är lagom att dö,
 ej lever han så länge, 
 att ej latmask han får heta.»
 
+[verse]
 62. Rädd blev grytvakten, 
 rusade från stället, 
 beklämd blott vara kunde, 
@@ -528,6 +608,7 @@ att dö bort från svinen
 och all arbetsförtjänst, 
 som annars han hade.
 
+[verse]
 61. De togo Budles brassare 
 och brukade kniven; 
 den usla trälen gallskrek, 
@@ -539,6 +620,7 @@ om han sluppe blott att dö,
 glad Hjalle ändå vore, 
 om de gåve honom livet.
 
+[verse]
 64. Då bemödade sig Hogne 
 - ej många så göra - 
 att utverka åt trälen, 
@@ -548,6 +630,7 @@ att denna medfart röna.
 Varför skulle vi här vilja 
 detta skrän åhöra?»
 
+[verse]
 65. Då grepo de den gode, 
 gå det mer ej ville 
 att dröja med dådet 
@@ -557,6 +640,7 @@ det hörde männen,
 kraft han visa kunde, 
 kval han väl tålde.
 
+[verse]
 66. Harpan tog Gunnar, 
 grep dess strängar med tårna, 
 han kunde så spela, 
@@ -566,11 +650,13 @@ som klangen bäst hörde,
 han den höga sin nöd sade, 
 husets sparrar brusto.
 
+[verse]
 67. Så dogo de dråplige 
 på dagen rätt tidigt, 
 läto sina hjältedygder 
 leva till det sista.
 
+[verse]
 68. Stor sig tyckte Atle, 
 då han stäckt dem båda; 
 sin hustru hennes sorg han sade 
@@ -581,6 +667,8 @@ till somt är själv du skuld,
 att så det har gått.»
 
 Gudrun sade: 
+
+[verse]
 69. »Glad är du, Atle, 
 där gräsligt dråp du vidgar, 
 anger skall dig träffa, 
@@ -591,6 +679,8 @@ att aldrig ont du slipper,
 om ej också jag dör.»
 
 Atle sade: 
+
+[verse]
 70. »Jag kan till sådant ej neka, 
 dock ser jag annan råd, 
 långt lämpligare är det 
@@ -601,6 +691,8 @@ med snövitt silver,
 så, som själv du vill.»
 
 Gudrun sade: 
+
+[verse]
 71. Ej något hopp finns därom, 
 neka därtill vill jag. 
 Sämjan jag slitit 
@@ -610,6 +702,7 @@ värre jag nu skall bliva.
 Jag höll med vad helst till godo, 
 medan Hogne ännu levde.
 
+[verse]
 72. Vi uppfödda voro 
 i ett och samma hus, 
 mången lek vi lekte, 
@@ -621,6 +714,7 @@ böta kan du aldrig,
 eller göra något sådant, 
 som synes mig gott.
 
+[verse]
 73. Karlars våld krossar 
 kvinnornas lycka, 
 i knä går nävan, 
@@ -630,6 +724,7 @@ om man tågorna undan hugger.
 Nu kan du, Atle, ensam 
 för allt här råda.»
 
+[verse]
 74. Fasligt lättrogen 
 var fursten, som dct trodde, 
 uppenbar illslugheten, 
@@ -639,11 +734,13 @@ kunde sig förställa,
 lättlynt hon sig låtsade, 
 lekte med tvänne sköldar.
 
+[verse]
 75. Stort gravöl Gudrun 
 gav efter sina bröder, 
 så ock Atle sådant 
 efter sina lät göra.
 
+[verse]
 76. Lyktat läto de det vara, 
 lagat var gravölet; 
 det samkvämet pågick 
@@ -653,6 +750,7 @@ stred mot Budles ätt,
 ville taga på sin make 
 en mordisk hämnd.
 
+[verse]
 77. Hon lockade de små 
 och lade dem mot stocken; 
 då häpnade de hårda 
@@ -661,17 +759,22 @@ flögo modern i famn,
 frågade, vad ske skulle.
 
 Gudrun sade: 
+
+[verse]
 78. »Fråga icke därom! 
 Jag vill döda eder båda. 
 Lust hade jag därtill länge 
 att läka er för ålderdom.
 
 Gossarne sade: 
+
+[verse]
 »Offra dina barn då, 
 det förbjuder dig ingen. 
 Kort skall vreden vila, 
 om du vill det pröva.
 
+[verse]
 79. Barsk hon då brödernas 
 barnaår stäckte, 
 handlade med hov ej, 
@@ -682,6 +785,8 @@ hans söner att leka,
 då han ej såg dem någonstädes.
 
 Gudrun sade: 
+
+[verse]
 80. »Över vill jag gå 
 att för Atle det säga, 
 för dig döljer jag det icke, 
@@ -691,6 +796,7 @@ om du märker noga;
 mycket ont du anstiftat, 
 då du ombragt mina bröder.
 
+[verse]
 81. Mycket sällan jag sov 
 alltsedan de föllo. 
 Hård hämnd jag dig lovat, 
@@ -700,6 +806,7 @@ den minnes jag än noga.
 Nu åter är det afton, 
 då äger du slikt höra.
 
+[verse]
 82. Mist har du dina söner, 
 som minst förlora du ville. 
 Vet, att ur deras skallar 
@@ -707,6 +814,7 @@ som skålar öl du druckit!
 Din dryck jag drygare gjorde 
 genom att deras blod i den blanda.
 
+[verse]
 83. Jag tog deras hjärtan 
 och på tenen stekte, 
 satte för dig sedan 
@@ -716,12 +824,15 @@ intet kvar du lämnat,
 tuggade träget, 
 på tänderna litade.
 
+[verse]
 84. Vad av barnen blivit, nu vet du, 
 ej förbannar sig mången till värre. 
 Min hand jag har i saken, 
 är högfärdig dock ej däröver.»
 
 Atle sade: 
+
+[verse]
 85. »Grym var du, Gudrun, 
 som så gräsligt kunde göra, 
 att blod av dina barn 
@@ -732,6 +843,8 @@ långt andrum mig själv ej heller
 du lämnar mellan olyckor.»
 
 Gudrun sade: 
+
+[verse]
 86. »Lust har jag ock att taga 
 livet från dig själv; 
 man förfar knappt nog illa 
@@ -746,17 +859,22 @@ ett gruvligt dåd begått;
 ditt gravöl du gjort.»
 
 Atle sade: 
+
+[verse]
 87. »Du skulle brännas på bål 
 och bliva först stenad, 
 då har du det uppnått, 
 som alltid du bett om.»
 
 Gudrun sade: 
+
+[verse]
 »Säg dig slika 
 sorger på morgonen. 
 Med en fagrare död 
 vill jag fara till annat ljus.»
 
+[verse]
 88. I samma gård de sutto, 
 sura mot varandra, 
 vreda ord växlade, 
@@ -766,6 +884,7 @@ på stora dåd han tänkte,
 han gav för Gudrun till känna, 
 hur förgrymmad han var på Atle.
 
+[verse]
 89. Ihåg hon då kom, 
 vad Hogne fått lida, 
 sade honom hända lycka, 
@@ -775,6 +894,7 @@ det dröjde ej länge;
 Hognes son dräpte 
 och hon själv, Gudrun.
 
+[verse]
 90. Den tappre tog att spörja, 
 spratt ur sömnen upp, 
 såren snart kände, 
@@ -785,6 +905,8 @@ ej litet är jag lemlästad,
 om liv jag intet hopp har.»
 
 Gudrun sade: 
+
+[verse]
 91. »För dig jag döljer det icke; 
 jag, dottern av Grimhild, 
 jag vållar, att din levnad 
@@ -793,11 +915,14 @@ samt ock sonen till Hogne något,
 att såren dig matta, vållar.»
 
 Atle sade: 
-32. »Du har skridit till dråpslag, 
+
+[verse]
+92. »Du har skridit till dråpslag, 
 fast du skulle så ej göra; 
 illa är vän svika, 
 som väl på dig litar.
 
+[verse]
 93. Bedd, jag for hemifrån 
 att bedja om din hand, Gudrun. 
 Stort var ditt lov som änka, 
@@ -807,6 +932,7 @@ det lärde vi nog att känna.
 Du färdades hit till vårt hem, 
 oss följde en här av kämpar.
 
+[verse]
 94. Allt var härligt, 
 då hit vi foro. 
 Mycken var äran 
@@ -816,6 +942,7 @@ vi njöto storligen;
 där var myckenhet av håvor, 
 många dem lämnade.
 
+[verse]
 95. Till maka jag dig köpte 
 med en myckenhet smycken, 
 trettio trälar, 
@@ -823,6 +950,7 @@ sju trälkvinnor goda
 - i sådant var heder - 
 av silver var dock mera.
 
+[verse]
 96. Allt detta du sade dig akta, 
 som om intet det vore, 
 då de lantgods du ej hade 
@@ -835,6 +963,8 @@ ej i sinnesfrid sedan
 såg jag oss makar.»
 
 Gudrun sade: 
+
+[verse]
 97. »Nu ljuger du, Atle, 
 men det gör mig ej mycket. 
 Rätt sällan var jag foglig, 
@@ -846,6 +976,7 @@ till Hels boning.
 Då vacklade allting, 
 som väl skulle vara.
 
+[verse]
 98. Tre syskon vi voro 
 och syntes stridbara, 
 vi foro ur landet 
@@ -855,6 +986,7 @@ sitt fartyg var styrde,
 ävlades, som ödet ville, 
 tills vi österut kommo.
 
+[verse]
 99. Först konungen vi dödade, 
 kuvade så landet. 
 Oss harsar gingo till handa, 
@@ -864,6 +996,7 @@ som vi skuldlös ville göra,
 förlänade den lycka, 
 som litet blott ägde.
 
+[verse]
 100. Frankerhjälten död blev, 
 och fort min ställning skifte. 
 Mig unga var det ömkligt 
@@ -873,6 +1006,7 @@ att komma till Atles boning.
 Med en hjälte var jag gift förr, 
 jämmerlig var förlusten.
 
+[verse]
 101. Från intet ting du kommit, 
 så vitt vi erfarit hava, 
 med egen sak vunnen, 
@@ -883,6 +1017,8 @@ och därom tiga stilla
 - - - -.»
 
 Atle sade: 
+
+[verse]
 102. »Nu ljuger du, Gudrun. 
 Det gör föga bättre 
 lotten för någondera; 
@@ -893,6 +1029,8 @@ allt oss till ära,
 när ut de mig bära.»
 
 Gudrun sade: 
+
+[verse]
 103. »Ett fartyg skall jag köpa, 
 och en kista, som är målad, 
 vaxa väl det lakan, 
@@ -900,6 +1038,7 @@ som skall vecklas om ditt lik,
 tänka på allt, som tarvas, 
 som tyckte vi om varandra.»
 
+[verse]
 104. Till ledsnad stor för fränderna 
 ett lik blev då Atle; 
 den ädelborna uppfyllde 
@@ -909,6 +1048,7 @@ ville gå att livet spilla;
 hennes dagars ände dröjde, 
 hon dog ej den gången.
 
+[verse]
 105. Säll är var och en sedan, 
 som sådant barn får föda 
 lika framstående, som de voro, 
