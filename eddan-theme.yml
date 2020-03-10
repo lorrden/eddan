@@ -1,0 +1,10 @@
+extends: default
+title-page:
+  background-image: image:images/thors-fight.jpg[]
+  title:
+    top: 90%
+    font-size: 32
+    font-color: [193, 150, 67]
+  subtitle:
+    font-size: 24
+    font-color: [193, 150, 67]

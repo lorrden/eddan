@@ -1,6 +1,8 @@
 = Eddan: De nordiska guda- och hjältesångerna
 :imagesdir: images
 :doctype: book
+:pdf-theme: eddan-theme.yml
+:toc:
 
 Översättning från isländskan av Erik Brate.
 
