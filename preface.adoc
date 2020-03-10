@@ -1,7 +1,10 @@
 == Preface to the Electronic Edition
 
 This is the poetic Edda (Edda Sæmundar), translated to Swedish by Erik Brate.
-The electronic edition is produced by Lars Aronsson.
+The electronic edition was initially produced by Lars Aronsson.
+This version was converted from HTML to AsciiDoc by Mattias Holm.
+The purpose of this was to be able to generate additional output formats.
+
 See also the Icelandic version.
 
 == Om den svenska översättningen
