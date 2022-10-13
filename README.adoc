@@ -1,0 +1,11 @@
+= Eddan
+
+The Elder Poetic Edda in Swedish, converted to AsciiDoc.
+
+Den Äldre Poetiska Eddan på svenska.
+Konverterad till AsciiDoc från http://runeberg.org/eddan/
+
+Detta gjordes först och främst för att se hur AsciiDoc fungerar för denna typ av dokument.
+AsciiDoc designades primärt för teknisk dokumentation,
+formatet är dock bättre än andra liknande som till exempel Markdown.
+
