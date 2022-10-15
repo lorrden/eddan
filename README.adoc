@@ -9,3 +9,9 @@ Detta gjordes först och främst för att se hur AsciiDoc fungerar för denna ty
 AsciiDoc designades primärt för teknisk dokumentation,
 formatet är dock bättre än andra liknande som till exempel Markdown.
 
+Vi använder github actions för att producera en PDF med Eddan.
+
+== Copyright
+
+Erik Brates (1857-1924) översättning av Eddan (som denna konvertering använder från http://runeberg.org/eddan/[Runeberg]) är public domain.
+Det är i skrivande lag 98 år sedan Brates död.
