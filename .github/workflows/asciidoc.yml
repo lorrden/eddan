@@ -1,0 +1,24 @@
+name: build asciidoc
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  asciidoc_build:
+    runs-on: ubuntu-18.04
+    name: Build Asciidoc
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build PDF
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor-pdf -a pdf-theme=./eddan-theme.yml index.adoc -o eddan.pdf"
+
+      - name: Upload PDF Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: PDF document
+          path: eddan.pdf
