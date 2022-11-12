@@ -15,7 +15,7 @@ jobs:
       - name: Build PDF
         uses: avattathil/asciidoctor-action@master
         with:
-          program: "bundle install && rake"
+          program: "gem install bundler && bundle install && rake"
 
       - name: Upload Ebook Artifact
         uses: actions/upload-artifact@v2
