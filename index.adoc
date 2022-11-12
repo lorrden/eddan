@@ -8,76 +8,78 @@
 
 image::ed0044.jpg[align="center"]
 
-include::preface.adoc[]
+include::chapters/00-preface.adoc[]
 
-include::valuspa.adoc[leveloffset=+1]
+include::chapters/01-valuspa.adoc[leveloffset=+1]
 
-include::havamal.adoc[leveloffset=+1]
+include::chapters/02-havamal.adoc[leveloffset=+1]
 
-include::vavtrudner.adoc[leveloffset=+1]
+include::chapters/03-vavtrudner.adoc[leveloffset=+1]
 
-include::grimmer.adoc[leveloffset=+1]
+include::chapters/04-grimmer.adoc[leveloffset=+1]
 
-include::skirner.adoc[leveloffset=+1]
+include::chapters/05-skirner.adoc[leveloffset=+1]
 
-include::harbard.adoc[leveloffset=+1]
+include::chapters/06-harbard.adoc[leveloffset=+1]
 
-include::hymer.adoc[leveloffset=+1]
+include::chapters/07-hymer.adoc[leveloffset=+1]
 
-include::loketrata.adoc[leveloffset=+1]
+include::chapters/08-loketrata.adoc[leveloffset=+1]
 
-include::trym.adoc[leveloffset=+1]
+include::chapters/09-trym.adoc[leveloffset=+1]
 
-include::allvis.adoc[leveloffset=+1]
+include::chapters/10-allvis.adoc[leveloffset=+1]
 
-include::balder.adoc[leveloffset=+1]
+include::chapters/11-balder.adoc[leveloffset=+1]
 
-include::rigstula.adoc[leveloffset=+1]
+include::chapters/12-rigstula.adoc[leveloffset=+1]
 
-include::hyndla.adoc[leveloffset=+1]
+include::chapters/13-hyndla.adoc[leveloffset=+1]
 
-include::volund.adoc[leveloffset=+1]
+include::chapters/14-volund.adoc[leveloffset=+1]
 
-include::helge.adoc[leveloffset=+1]
+include::chapters/15-helge.adoc[leveloffset=+1]
 
-include::helge2.adoc[leveloffset=+1]
+include::chapters/16-helge2.adoc[leveloffset=+1]
 
-include::helge3.adoc[leveloffset=+1]
+include::chapters/17-helge3.adoc[leveloffset=+1]
 
-include::griper.adoc[leveloffset=+1]
+include::chapters/18-griper.adoc[leveloffset=+1]
 
-include::favner.adoc[leveloffset=+1]
+include::chapters/19-regin.adoc[leveloffset=+1]
 
-include::sigrdriva.adoc[leveloffset=+1]
+include::chapters/20-favner.adoc[leveloffset=+1]
 
-include::sigurd.adoc[leveloffset=+1]
+include::chapters/21-sigrdriva.adoc[leveloffset=+1]
 
-include::gudrun1.adoc[leveloffset=+1]
+include::chapters/22-sigurd.adoc[leveloffset=+1]
 
-include::sigurd-kort.adoc[leveloffset=+1]
+include::chapters/23-gudrun1.adoc[leveloffset=+1]
 
-include::brynhild.adoc[leveloffset=+1]
+include::chapters/24-sigurd-kort.adoc[leveloffset=+1]
 
-include::nivelungarnes.adoc[leveloffset=+1]
+include::chapters/25-brynhild.adoc[leveloffset=+1]
 
-include::gudrun2.adoc[leveloffset=+1]
+include::chapters/26-nivelungarnes.adoc[leveloffset=+1]
 
-include::gudrun3.adoc[leveloffset=+1]
+include::chapters/27-gudrun2.adoc[leveloffset=+1]
 
-include::oddrun.adoc[leveloffset=+1]
+include::chapters/28-gudrun3.adoc[leveloffset=+1]
 
-include::atle.adoc[leveloffset=+1]
+include::chapters/29-oddrun.adoc[leveloffset=+1]
 
-include::atle-green.adoc[leveloffset=+1]
+include::chapters/30-atle.adoc[leveloffset=+1]
 
-include::gudrun4.adoc[leveloffset=+1]
+include::chapters/31-atle-green.adoc[leveloffset=+1]
 
-include::hamder.adoc[leveloffset=+1]
+include::chapters/32-gudrun4.adoc[leveloffset=+1]
 
-include::gratte.adoc[leveloffset=+1]
+include::chapters/33-hamder.adoc[leveloffset=+1]
 
-include::groas.adoc[leveloffset=+1]
+include::chapters/34-gratte.adoc[leveloffset=+1]
 
-include::fjolsvinn.adoc[leveloffset=+1]
+include::chapters/35-groas.adoc[leveloffset=+1]
 
-include::sol.adoc[leveloffset=+1]
+include::chapters/36-fjolsvinn.adoc[leveloffset=+1]
+
+include::chapters/37-sol.adoc[leveloffset=+1]

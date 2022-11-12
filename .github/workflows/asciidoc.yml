@@ -15,10 +15,13 @@ jobs:
       - name: Build PDF
         uses: avattathil/asciidoctor-action@master
         with:
-          program: "asciidoctor-pdf -a pdf-theme=./eddan-theme.yml index.adoc -o eddan.pdf"
+          program: "bundle install && rake"
 
-      - name: Upload PDF Artifact
+      - name: Upload Ebook Artifact
         uses: actions/upload-artifact@v2
         with:
-          name: PDF document
-          path: eddan.pdf
+          name: Ebook documents
+          path: |
+            build/eddan.pdf
+            build/eddan.epub
+            build/eddan.html
